@@ -1,9 +1,9 @@
 {
-  "name": "Fabula Compedium TEST",
+  "name": "Salvage Union Compedium",
   "version": "1.0.0",
   "manifest_version": 1,
   "action": {
-    "title": "Fabula Compedium",
+    "title": "Salvage Union Compedium",
     "icon": "/icon.svg",
     "popover": "/",
     "height": 540,

@@ -124,7 +124,7 @@ function App() {
   const [name, setName] = useState("");
   const [id, setId] = useState("");
   const [message, setMessage] = useState("");
-  const [selectedClass, setSelectedClass] = useState("");
+  const [selectedCategory, setSelectedCategory] = useState("");
   const [role, setRole] = useState("PLAYER");
 
   const [isOBRReady, setIsOBRReady] = useState(false);
@@ -135,7 +135,7 @@ function App() {
       OBR.scene.onReadyChange(async (ready) => {
         if (ready) {
           const metadata = await OBR.scene.getMetadata();
-          if (metadata["ultimate.story.extension/metadata"]) {
+          if (metadata["salvage.union.character/metadata"]) {
             const playerListGet = await createPlayerList(metadata);
             setPlayerList(playerListGet);
           }
@@ -148,7 +148,7 @@ function App() {
 
       if (await OBR.scene.isReady()) {
         const metadata = await OBR.scene.getMetadata();
-        if (metadata["ultimate.story.extension/metadata"]) {
+        if (metadata["salvage.union.character/metadata"]) {
           const playerListGet = await createPlayerList(metadata);
           setPlayerList(playerListGet);
         }
@@ -159,7 +159,7 @@ function App() {
   }, []);
 
   const createPlayerList = async (metadata) => {
-    const metadataGet = metadata["ultimate.story.extension/metadata"];
+    const metadataGet = metadata["salvage.union.character/metadata"];
     const playerListGet = [];
     const keys = Object.keys(metadataGet);
     keys.forEach((key) => {
@@ -178,7 +178,7 @@ function App() {
       OBR.scene.onReadyChange(async (ready) => {
         if (ready) {
           const metadata = await OBR.scene.getMetadata();
-          if (metadata["ultimate.story.extension/metadata"]) {
+          if (metadata["salvage.union.character/metadata"]) {
             const playerListGet = await createPlayerList(metadata);
             setPlayerList(playerListGet);
           }
@@ -199,7 +199,7 @@ function App() {
       id: Date.now(),
     };
     OBR.room.setMetadata({
-      "ultimate.story.extension/sendskill": skillData,
+      "salvage.union.character/sendskill": skillData,
     });
     showMessage("Skill Info Sent!");
   };
@@ -286,9 +286,9 @@ function App() {
 
   const skillInstance = (item, index, found) => {
     const categorySearched =
-      searchSkills === "" ||
+      searchItems === "" ||
       found ||
-      JSON.stringify(item).toLowerCase().includes(searchSkills.toLowerCase());
+      JSON.stringify(item).toLowerCase().includes(searchItems.toLowerCase());
 
     if (!categorySearched) return "";
     return (
@@ -370,9 +370,9 @@ function App() {
 
   const tableInstance = (item, index, found) => {
     const categorySearched =
-      searchSkills === "" ||
+      searchItems === "" ||
       found ||
-      JSON.stringify(item).toLowerCase().includes(searchSkills.toLowerCase());
+      JSON.stringify(item).toLowerCase().includes(searchItems.toLowerCase());
 
     if (!categorySearched) return "";
 
@@ -445,16 +445,16 @@ function App() {
     );
   };
 
-  const [searchSkills, setSearchSkills] = useState("");
+  const [searchItems, setSearchItems] = useState("");
 
   const category = (item, index, found) => {
     const categorySearched =
-      searchSkills === "" ||
+      searchItems === "" ||
       found ||
-      JSON.stringify(item).toLowerCase().includes(searchSkills.toLowerCase());
+      JSON.stringify(item).toLowerCase().includes(searchItems.toLowerCase());
 
     const nameSearched =
-      found || item.name.toLowerCase().includes(searchSkills.toLowerCase());
+      found || item.name.toLowerCase().includes(searchItems.toLowerCase());
     if (!categorySearched) return "";
 
     return (
@@ -509,11 +509,11 @@ function App() {
             }
             if (itemGet.data) {
               const categorySearchedTwo =
-                searchSkills === "" ||
+                searchItems === "" ||
                 nameSearched ||
                 JSON.stringify(itemGet)
                   .toLowerCase()
-                  .includes(searchSkills.toLowerCase());
+                  .includes(searchItems.toLowerCase());
 
               if (!categorySearchedTwo) return "";
 
@@ -546,7 +546,7 @@ function App() {
           if (typeof item === "string") {
             return "";
           }
-          if (selectedClass === "" || selectedClass === item.name) {
+          if (selectedCategory === "" || selectedCategory === item.name) {
             return category(item, index + "");
           }
           return "";
@@ -565,11 +565,11 @@ function App() {
               fontWeight: "bolder",
               width: 100,
               marginBottom: 4,
-              color: selectedClass === "GM" ? "white" : "orange",
-              backgroundColor: selectedClass === "GM" ? "darkred" : "#222",
+              color: selectedCategory === "GM" ? "white" : "orange",
+              backgroundColor: selectedCategory === "GM" ? "darkred" : "#222",
             }}
             onClick={() => {
-              setSelectedClass("GM");
+              setSelectedCategory("GM");
             }}
           >
             GM Helper
@@ -597,14 +597,14 @@ function App() {
                 fontWeight: "bolder",
                 width: 100,
                 marginBottom: 4,
-                color: selectedClass === item.name ? "white" : "#ffd433",
+                color: selectedCategory === item.name ? "white" : "#ffd433",
                 backgroundColor:
-                  selectedClass === item.name ? "darkred" : "#222",
+                  selectedCategory === item.name ? "darkred" : "#222",
               }}
               onClick={() => {
-                if (selectedClass !== item.name) {
-                  setSelectedClass(item.name);
-                } else setSelectedClass("");
+                if (selectedCategory !== item.name) {
+                  setSelectedCategory(item.name);
+                } else setSelectedCategory("");
               }}
             >
               {item.name}
@@ -648,7 +648,7 @@ function App() {
       id: Date.now(),
     };
     OBR.room.setMetadata({
-      "ultimate.story.extension/sendskill": skillData,
+      "salvage.union.character/sendskill": skillData,
     });
     showMessage("Sent Fate Roll!");
   };
@@ -669,35 +669,6 @@ function App() {
     },
     { name: "Impossible", chance: 10, exceptionalYes: 2, exceptionalNo: 83 },
   ];
-
-  const [refreshCount, setRefreshCount] = useState(0);
-
-  const damageTypes = [
-    "physical",
-    "wind",
-    "bolt",
-    "dark",
-    "earth",
-    "fire",
-    "ice",
-    "light",
-    "poison",
-  ];
-
-  const species = [
-    "beast",
-    "construct",
-    "demon",
-    "elemental",
-    "humanoid",
-    "monster",
-    "plant",
-    "undead",
-  ];
-
-  const attributes = ["dexterity", "insight", "strength", "willpower"];
-
-  const statuses = ["dazed", "weak", "slow", "shaken", "poisoned", "enraged"];
 
   const attitudes = [
     "Pleasant",
@@ -725,135 +696,8 @@ function App() {
     "Fair",
   ];
 
-  const trap = [
-    "Pit",
-    "Poison",
-    "Slash",
-    "Crush",
-    "Acid",
-    "Snare",
-    "Cold",
-    "Fire",
-    "Sonic",
-    "Lightning",
-    "Pierce",
-    "No Trap",
-  ];
-
-  const generatePrefixes = () => {
-    const prefixes = [];
-    randomQualities.forEach((item) => {
-      if (item.Conditions && item.Conditions !== "") {
-        if (item.Conditions.includes("{type}")) {
-          damageTypes.forEach((type) => {
-            prefixes.push(item.Conditions.replace("{type}", type));
-          });
-        } else if (item.Conditions.includes("{species}")) {
-          species.forEach((speciesGet) => {
-            prefixes.push(item.Conditions.replace("{species}", speciesGet));
-          });
-        } else if (item.Conditions.includes("{status}")) {
-          statuses.forEach((status) => {
-            prefixes.push(item.Conditions.replace("{status}", status));
-          });
-        } else {
-          prefixes.push(item.Conditions);
-        }
-      }
-    });
-    return prefixes;
-  };
-
-  const generateSuffixes = () => {
-    const prefixes = [];
-    randomQualities.forEach((item) => {
-      if (item.Effects && item.Effects !== "") {
-        if (item.Effects.includes("{type}")) {
-          damageTypes.forEach((type) => {
-            prefixes.push(item.Effects.replace("{type}", type));
-          });
-        } else if (item.Effects.includes("{species}")) {
-          species.forEach((speciesGet) => {
-            prefixes.push(item.Effects.replace("{species}", speciesGet));
-          });
-        } else if (item.Effects.includes("{status}")) {
-          statuses.forEach((status) => {
-            prefixes.push(item.Effects.replace("{status}", status));
-          });
-        } else if (item.Effects.includes("{attribute}")) {
-          attributes.forEach((attribute) => {
-            prefixes.push(item.Effects.replace("{attribute}", attribute));
-          });
-        } else {
-          prefixes.push(item.Effects);
-        }
-      }
-    });
-    return prefixes;
-  };
-
-  const prefixes = useMemo(generatePrefixes, []);
-  const suffixes = useMemo(generateSuffixes, []);
-
-  const getRandomPrefix = () => {
-    return prefixes[Math.floor(Math.random() * prefixes.length)];
-  };
-
-  const getRandomSuffix = () => {
-    return suffixes[Math.floor(Math.random() * suffixes.length)];
-  };
-
-  const table = [
-    ["Roll", "Effect"],
-    ["1", "Chance of Losing an Item"],
-    ["2 to 4", "Lose HP (Minor to Heavy)"],
-    ["5 to 7", "Lose MP (Minor to Heavy)"],
-    ["8 to 10", "Lose IP/Zenit"],
-    ["11 to 13", "Gain a Status Effect"],
-    ["14 to 16", "GM Plot Twist"],
-    ["17 to 19", "Battle Encounter"],
-    ["20", "Life or Death Encounter"],
-  ];
-
-  const sendDanger = () => {
-    const numResult = Math.floor(Math.random() * 20 + 1);
-
-    let message = "";
-
-    if (numResult === 1) {
-      message = table[1][1] + ": Rolled a " + numResult;
-    } else if (numResult >= 2 && numResult <= 4) {
-      message = table[2][1] + ": Rolled a " + numResult;
-    } else if (numResult >= 5 && numResult <= 7) {
-      message = table[3][1] + ": Rolled a " + numResult;
-    } else if (numResult >= 8 && numResult <= 10) {
-      message = table[4][1] + ": Rolled a " + numResult;
-    } else if (numResult >= 11 && numResult <= 13) {
-      message = table[5][1] + ": Rolled a " + numResult;
-    } else if (numResult >= 14 && numResult <= 16) {
-      message = table[6][1] + ": Rolled a " + numResult;
-    } else if (numResult >= 17 && numResult <= 19) {
-      message = table[7][1] + ": Rolled a " + numResult;
-    } else if (numResult === 20) {
-      message = table[8][1] + ": Rolled a " + numResult;
-    }
-
-    const skillData = {
-      skillName: "Danger!",
-      info: '"Something terrible happened, what is it?"',
-      detail: message,
-      characterName: "Danger Table",
-      userId: id,
-      username: name,
-      id: Date.now(),
-    };
-    OBR.room.setMetadata({
-      "ultimate.story.extension/sendskill": skillData,
-    });
-    showMessage("Sent Fate Roll!");
-  };
-
   const sendRandomPlayer = (forGood) => {
+    console.log(playerList);
     const playerListFiltered = playerList.filter((item) => !item.isGMPlayer);
     const numResult = Math.floor(Math.random() * playerListFiltered.length);
 
@@ -861,8 +705,8 @@ function App() {
 
     const skillData = {
       skillName: forGood
-        ? playerSelected.traits.name + " has been selected!"
-        : playerSelected.traits.name + " has been targeted!",
+        ? playerSelected.details.callsign + " has been selected!"
+        : playerSelected.details.callsign + " has been targeted!",
       info: "",
       detail: forGood
         ? '"Fate has chosen you."'
@@ -873,32 +717,7 @@ function App() {
       id: Date.now(),
     };
     OBR.room.setMetadata({
-      "ultimate.story.extension/sendskill": skillData,
-    });
-    showMessage("Sent Random Adversary!");
-  };
-
-  const sendRandomAdversary = (forGood) => {
-    const playerListFiltered = playerList.filter((item) => item.isGMPlayer);
-    const numResult = Math.floor(Math.random() * playerListFiltered.length);
-
-    const playerSelected = playerListFiltered[numResult];
-
-    const skillData = {
-      skillName: forGood
-        ? playerSelected.traits.name + " has been selected!"
-        : playerSelected.traits.name + " has been targeted!",
-      info: "",
-      detail: forGood
-        ? '"This creature is up to no good!"'
-        : '"This creature suffers ill fate!"',
-      characterName: "Random Player",
-      userId: id,
-      username: name,
-      id: Date.now(),
-    };
-    OBR.room.setMetadata({
-      "ultimate.story.extension/sendskill": skillData,
+      "salvage.union.character/sendskill": skillData,
     });
     showMessage("Sent Random Adversary!");
   };
@@ -912,13 +731,7 @@ function App() {
     getRandomNumber(location.length),
     getRandomNumber(location.length),
     getRandomNumber(location.length),
-    getRandomNumber(statuses.length),
-    getRandomNumber(3) + 1,
-    getRandomNumber(300) + 1,
-    getRandomNumber(2),
-    getRandomNumber(10),
-    getRandomNumber(10),
-    getRandomNumber(12),
+    getRandomNumber(location.length),
   ]);
 
   const generateNewRandom = () => {
@@ -931,33 +744,7 @@ function App() {
       getRandomNumber(location.length),
       getRandomNumber(location.length),
       getRandomNumber(location.length),
-      getRandomNumber(statuses.length),
-      getRandomNumber(3) + 1,
-      getRandomNumber(300) + 1,
-      getRandomNumber(2),
-      getRandomNumber(10),
-      getRandomNumber(10),
-      getRandomNumber(12),
     ]);
-  };
-
-  const [randomQualityGenerated, setRandomQuality] = useState(
-    `${getRandomPrefix()}, ${getRandomSuffix()}`
-  );
-
-  const bookQualities = [
-    ...accessoriesqualities,
-    ...weaponqualities,
-    armorqualities,
-  ];
-
-  const [bookQuality, setBookQuality] = useState(
-    getRandomNumber(bookQualities.length - 1)
-  );
-
-  const generateNewQuality = () => {
-    setRandomQuality(`${getRandomPrefix()}, ${getRandomSuffix()}`);
-    setBookQuality(getRandomNumber(bookQualities.length - 1));
   };
 
   const renderGM = () => {
@@ -987,6 +774,7 @@ function App() {
             paddingLeft: 10,
             paddingRight: 10,
             paddingTop: 10,
+            paddingBottom: 10,
             marginBottom: 10,
             border: "1px solid #222",
           }}
@@ -1045,32 +833,7 @@ function App() {
           >
             Random Player to Select
           </button>
-          <br></br>
-          <button
-            className="button"
-            style={{
-              width: 150,
-              marginBottom: 4,
-              marginRight: 4,
-            }}
-            onClick={() => {
-              sendRandomAdversary(false);
-            }}
-          >
-            Random Adversary to Target
-          </button>
-          <button
-            className="button"
-            style={{
-              width: 150,
-              marginBottom: 4,
-            }}
-            onClick={() => {
-              sendRandomAdversary(true);
-            }}
-          >
-            Random Adversary to Select
-          </button>
+
           <hr></hr>
           <div className="outline" style={{ color: "orange" }}>
             Names:{" "}
@@ -1109,144 +872,6 @@ function App() {
             <Text>{location[randomNumbersGenerated[5]]}</Text>
             <Text>{location[randomNumbersGenerated[6]]}</Text>
             <Text>{location[randomNumbersGenerated[7]]}</Text>
-            Weather: <Text>{weather[randomNumbersGenerated[13]]}</Text>
-          </div>
-
-          <hr></hr>
-          <div className="outline" style={{ color: "orange" }}>
-            Random Quality:{" "}
-            <button
-              className="button"
-              style={{
-                width: 50,
-                marginBottom: 4,
-                marginTop: 4,
-              }}
-              onClick={() => {
-                generateNewQuality();
-              }}
-            >
-              Generate
-            </button>
-          </div>
-          <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
-            <div
-              className="outline"
-              style={{
-                background: "rgba(0, 0, 0, .2)",
-                padding: 5,
-                border: "1px solid #222",
-                color: "white",
-              }}
-            >
-              {randomQualityGenerated}
-            </div>
-            <div
-              className="outline"
-              style={{
-                background: "rgba(0, 0, 0, .2)",
-                padding: 5,
-                border: "1px solid #222",
-                color: "white",
-              }}
-            >
-              {`${bookQualities[bookQuality].category} - ${bookQualities[bookQuality].quality} ${bookQualities[bookQuality].cost}z`}
-            </div>
-          </div>
-
-          <hr></hr>
-
-          <div className="outline" style={{ color: "orange" }}>
-            Danger Table:
-          </div>
-          <div style={{ display: "flex", gap: 10 }}>
-            <table
-              style={{
-                border: "1px solid #555",
-                borderCollapse: "collapse",
-                marginBottom: 10,
-                backgroundColor: "#222",
-              }}
-            >
-              <tbody>
-                {table.map((row, index) => (
-                  <tr
-                    key={"tr" + index}
-                    style={{
-                      border: "1px solid #555",
-                      borderCollapse: "collapse",
-                    }}
-                  >
-                    {row.map((column) => (
-                      <td
-                        key={column}
-                        className="outline"
-                        style={{
-                          fontSize: 10,
-                          color: index === 0 ? "darkorange" : "#fff",
-                          border: "1px solid #555",
-                          borderCollapse: "collapse",
-                          textAlign: "center",
-                          padding: 4,
-                        }}
-                      >
-                        {column}
-                      </td>
-                    ))}
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-            <div style={{ display: "flex", flexDirection: "column", gap: 5 }}>
-              <div className="outline" style={{ color: "orange" }}>
-                Status Effect:
-              </div>
-              <Text>{statuses[randomNumbersGenerated[8]]}</Text>
-              <div className="outline" style={{ color: "orange" }}>
-                Lose IP/Zenit:
-              </div>
-              <Text>
-                IP: {randomNumbersGenerated[9]} / Zenit:{" "}
-                {randomNumbersGenerated[10]}
-              </Text>
-              <div className="outline" style={{ color: "orange" }}>
-                Lose HP/MP:
-              </div>
-              <Text>{["Minor", "Heavy"][randomNumbersGenerated[11]]}</Text>
-              <div className="outline" style={{ color: "orange" }}>
-                Trap:
-              </div>
-              <Text>{trap[randomNumbersGenerated[14]]}</Text>
-
-              <div>
-                <button
-                  className="button"
-                  style={{
-                    width: 100,
-                    marginBottom: 4,
-                    marginRight: 4,
-                  }}
-                  onClick={() => {
-                    sendDanger();
-                  }}
-                >
-                  Roll for Danger
-                </button>
-                <button
-                  className="button"
-                  style={{
-                    width: 50,
-                    marginBottom: 4,
-                    marginTop: 4,
-                  }}
-                  onClick={() => {
-                    generateNewRandom();
-                  }}
-                >
-                  Refresh
-                </button>
-              </div>
-            </div>
           </div>
         </div>
       </>
@@ -1256,19 +881,18 @@ function App() {
   return (
     <div
       style={{
-        backgroundImage: `url(${landingBG})`,
-        backgroundSize: "contain",
+        background: "#444",
         height: 540,
         width: 550,
         overflow: "hidden",
       }}
     >
-      <div style={{ marginTop: 30, paddingLeft: 30, paddingRight: 10 }}>
+      <div style={{ marginTop: 15, paddingLeft: 20, paddingRight: 5 }}>
         <span
           className="outline"
           style={{ color: "orange", fontSize: 14, marginRight: 10 }}
         >
-          | Fabula Ultima Compendium |
+          | Salvage Union |
         </span>
         <Text>Search By Name: </Text>
         <input
@@ -1277,21 +901,21 @@ function App() {
             width: 150,
             color: "lightgrey",
           }}
-          value={searchSkills}
+          value={searchItems}
           onChange={(evt) => {
-            if (selectedClass === "GM") {
-              setSelectedClass("");
+            if (selectedCategory === "GM") {
+              setSelectedCategory("");
             }
-            setSearchSkills(evt.target.value);
+            setSearchItems(evt.target.value);
           }}
         />
-        {(searchSkills !== "" || selectedClass !== "") && (
+        {(searchItems !== "" || selectedCategory !== "") && (
           <button
             className="button"
             style={{ fontWeight: "bolder", width: 50 }}
             onClick={() => {
-              setSearchSkills("");
-              setSelectedClass("");
+              setSearchItems("");
+              setSelectedCategory("");
             }}
           >
             Clear
@@ -1307,10 +931,10 @@ function App() {
           className="scrollable-container"
           style={{
             overflow: "scroll",
-            height: 450,
+            height: 470,
             marginTop: 10,
-            paddingLeft: 30,
-            paddingRight: 10,
+            paddingLeft: 20,
+            paddingRight: 5,
             width: 100,
           }}
         >
@@ -1320,13 +944,12 @@ function App() {
           className="scrollable-container"
           style={{
             overflow: "scroll",
-            height: 450,
+            height: 470,
             marginTop: 10,
-            paddingRight: 30,
             width: 400,
           }}
         >
-          {selectedClass === "GM" ? renderGM() : renderCategory()}
+          {selectedCategory === "GM" ? renderGM() : renderCategory()}
         </div>
       </div>
 
