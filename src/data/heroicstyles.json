@@ -1,0 +1,119 @@
+{
+  "name": "Heroic Styles",
+  "data": [
+    {
+      "name": "Agile Defender Style",
+      "info": "Requirements: you must have Skill Level 2 or higher in Dodge.",
+      "description": "As long as you have no `shields` and no `martial armor` equipped, you gain all of the following benefits:\n\n- You may ignore the MP cost of the `Provoke` Skill.\n\n- You may ignore the MP cost of the `Peacock` Dance.\n\n- You may use the `Protect` Skill even if you have not acquired it.\n\n- Your Magic Defense score is increased by`【your Skill Level in Dodge】`.\n\nAdditionally, your `maximum Hit Points` and `Crisis` score are now calculated based on your `base Dexterity die size`, instead of your base `Might die size`."
+    },
+    {
+      "name": "Blast Gladiator Style",
+      "info": "Requirements: you must have acquired the Bone Crusher Skill (see `Weaponmaster`).",
+      "description": "Choose one damage type among `air, bolt, dark, earth, fire, ice, light, physical`, and `poison`.\nWhen you use the `Bone Crusher` Skill on one or more creatures, each of those creatures becomes `imbued` until the end of the scene.\nAfter one or more `imbued` creatures lose Hit Points, each of them stops being `imbued` and you deal an amount of damage of the chosen type equal to`【2 + (twice your Skill Level in Bone Crusher)】`to them. The type of this damage cannot be changed; this effect deals 5 extra damage if you are `level 20 or higher`, or 10 extra damage if you are `level 40 or higher`; it also deals an additional 5 extra damage if you have a `brawling` or `firearm` weapon equipped, or if you have a `weapon module` (see `Pilot`) equipped."
+    },
+    {
+      "name": "Bullet Deflection Style",
+      "info": "Requirements: you must have a Dexterity base die size of d10 or higher and/or an Insight base die size of d10 or higher.",
+      "description": "After a creature you can see performs a `ranged` attack, you may spend an amount of Mind Points equal to`【5 + the Result of their Accuracy Check】`in order to have the attack fail automatically against all targets. If you do and that Accuracy Check's `High Roll` is an `even` number, you may have one creature you can see lose an amount of Hit Points equal to that `High Roll`.\nYou can only use this Skill if you have a weapon of the `sword` Category equipped, and it has no effect if the Accuracy Check was a `critical success`."
+    },
+    {
+      "name": "Charged Punch Style",
+      "info": "Requirements: you must have acquired the Withstand Skill.",
+      "description": "When you perform the `Guard` action and activate the `Withstand` Skill, you may choose one `brawling` weapon you have equipped. If you do, choose one option: double the `High Roll` when determining damage of the next attack you perform with the chosen weapon before the end of your next turn; `or` if the next attack you perform with the chosen weapon before the end of your next turn would have its `High Roll` treated as being equal to 0 when determining damage, instead you may use its normal value."
+    },
+    {
+      "name": "Detonation Style",
+      "info": "Requirements: you must have acquired the basic Alchemy benefit from the Gadget Skill.",
+      "description": "When you use your `Alchemy` to create a `potion`, you can always select effects `3 to 8` (you can treat those effects as if they had `\"Any\"` in the `\"Die\"` column of the table). If the `potion` is `advanced` or `superior`, its damage ignores Resistances.\nWhen you succeed on a Check to advance or turn back a Clock, if your approach relied on `explosives`, `gunpowder` or `pyrotechnics`, you may fill or erase 1 additional section of that Clock."
+    },
+    {
+      "name": "Duelist Style",
+      "info": "Requirements: you must be able to equip martial melee weapons.",
+      "description": "As long as you have a `one-handed melee` weapon equipped in your main hand slot, if that weapon `is not an unarmed strike` and you have an unarmed strike equipped in your `off-hand` slot, you gain the following benefits:\n\n- When you deal damage with a weapon that is not an `unarmed strike`, you may double your Accuracy Check's `High Roll` when determining the attack's damage. If you do, you cannot use this option again until the beginning of your next turn.\n\n- During conflicts, you ignore the MP cost of the following Skills: `Bladestorm, Breach, Condemn, Encourage`, and `Provoke`.\n\nThese benefits `do not` apply to weapon modules."
+    },
+    {
+      "name": "Fuma Shuriken Style",
+      "info": "Requirements: you must have acquired the `Barrage` Skill (see `Sharpshooter`).",
+      "description": "During a conflict, you may use an action to perform a `free attack` with a `two-handed thrown` custom weapon you have equipped. If you do, that attack gains the `multi (2)` property (which can still be enhanced to `3` via the `Barrage` Skill); if the attack hits one or more creatures, you may send your equipped weapon `spinning`.\nAt the start of your turn, if your equipped weapon is still `spinning`, it stops `spinning` and you choose up to two options: every enemy that was hit by your attack loses 5 Hit Points; `or` every enemy that was hit by your attack loses 5 Mind Points; `or` every enemy that was hit by your attack suffers `slow`; `or` fill or erase `1 section` of a Clock. The amount of Hit Points and/or Mind Points lost increases to 10 if you are `level 30 or higher`.\nYour weapon stops `spinning` immediately if you no longer have it equipped, if you perform another attack with it, if you use the `Crossfire` Skill (see `Sharpshooter`), or if the scene ends."
+    },
+    {
+      "name": "Gunslinger Style",
+      "info": "Requirements: you must have Skill Level 2 or higher in Ranged Weapon Mastery.",
+      "description": "If you have a `one-handed` firearm weapon equipped in your `main hand` slot and an `unarmed strike` equipped in your `off-hand` slot, you may use an action to perform `up to three consecutive free attacks` with that `firearm` weapon (against the same target or different targets). If you do, all attacks performed this way follow the rules for `two-weapon fighting`: they lose the `multi` property and cannot gain it, and you treat the High Roll of each Accuracy Check as being equal to 0 when determining damage. Additionally, if any attack made this way `misses`, you lose your rhythm and cannot perform the remaining attacks.\nThese benefits `do not` apply to weapon modules (see `Pilot`)"
+    },
+    {
+      "name": "Heightened Element Style",
+      "info": "Requirements: you must have learned two or more spells that deal damage.",
+      "description": "When you acquire this Heroic Skill, choose a damage type among `air, bolt, dark, earth, fire, ice, light, physical`, and `poison`.\nWhen you deal damage with a `spell`, you may change that damage's type to the one you have chosen; and as long as a spell you cast deals damage of the chosen type, that spell deals 5 extra damage and all its damage ignores Resistances."
+    },
+    {
+      "name": "Hidden Weapon Style",
+      "info": "Requirements: you must have acquired the Cheap Shot Skill.",
+      "description": "Choose a status effect among `dazed`, `shaken`, `slow`, and `weak`.\nAfter one or more enemies you can see lose Hit Points due to damage dealt by one of your allies, if at least one of them is `Vulnerable` to the type of damage dealt by your ally, you may choose one of those enemies. If you do, that enemy loses an amount of Hit Points equal to`【half your level + (twice your Skill Level in Cheap Shot)】`and also suffer the chosen status effect.\nOnce you use this Skill during a conflict, you may not use it again until the beginning of your next turn."
+    },
+    {
+      "name": "Humble Style",
+      "info": "Requirements: you must have a `Willpower base die size of d10 or higher`",
+      "description": "When you acquire this Heroic Skill, choose two `different` Attributes among `Dexterity, Insight, Might,` and `Willpower`: when you perform an `Accuracy Check` with a `non-martial` weapon, you may replace the required Attributes with those you have chosen. \nAs long as you have `two or fewer` weapons equipped, your attacks with `non-martial` weapons deal 5 extra damage and you may also treat those weapons as belonging to the `spear` and `sword` Categories for the sake of Skills that require it; this benefit does not apply to `unarmed strikes, weapon modules` (see `Pilot`), `twin shields` (see `Guardian`), and `magicannon` (see `Tinkerer`). \nAs long as the `only` weapon you have equipped is a `staff` (see `Core Rulebook`, page `130`), you apply all of the above benefits but may also treat that `staff` as belonging to the `brawling` and `heavy` Categories for the sake of Skills that require it, and your attacks with it deal an additional 5 extra damage. \nAdditionally, when you perform an attack using an `improvised weapon`, you deal 5 extra damage and may have that weapon not be destroyed after the attack."
+    },
+    {
+      "name": "Iaidō Style",
+      "info": "Once per turn during a conflict, if you have `exactly one weapon` equipped and that weapon is a `two-handed sword` or `a weapon module` (see `Pilot`) belonging to the `sword` Category, you may use an action to enter a `iaidō stance`. While in your iaidō stance, you gain a bonus equal to `【your Skill Level in Melee Weapon Mastery】`to your Defense and Magic Defense scores. \nWhen an enemy you can see begins their turn, if you are in your `iaidō stance`, you may exit it to perform a `free attack` with a weapon belonging to the `sword` Category you have equipped. This attack `must` include that enemy among its targets and you choose up to two options: the attack deals extra damage equal to `【 2 + (twice your Skill Level in Melee Weapon Mastery)】`; `or` fill or erase `1 section` of a Clock if the attack hits `all` its targets; `or` the attack can target creatures that cannot be targeted by melee attacks; `or` damage dealt by the attack ignores Resistance and Immunity; `or` each creature hit by the attack cannot perform `free attacks` until the end of the current turn. \nYou automatically exit `iaidō` stance at the start of your turn, or if you no longer have the same `sword` weapon equipped or have `more than one weapon` equipped."
+    },
+    {
+      "name": "Investigator Style",
+      "info": "Requirements: you must have acquired the Flash of Insight Skill.",
+      "description": "When you perform a Check to examine a creature, item or location during a conflict scene, you may `memorize` the `High Roll` of that Check.\nWhen a source deals damage to one or more creatures you can see, you may `forget` one of your memorized `High Rolls` to choose one option: that source deals extra damage to each creature equal to the forgotten `High Roll`; or reduce damage dealt by that source to each creature by an amount equal to the forgotten `High Roll` (before applying Affinities).\nYou automatically forget all memorized High Rolls at the end of each scene"
+    },
+    {
+      "name": "Piercing Sorcery Style",
+      "info": "Requirements: you must have acquired the Cataclysm Skill (see Elementalist).",
+      "description": "Once per turn, when you use the `Cataclysm` Skill to empower an offensive spells (*ϟ*) with a `target` of `Up to three creatures`, if that spell targets `only one creature`, you may `double` the extra damage granted by `Cataclysm`. If you do, you may choose `up to two` options: damage dealt by the spell ignores Resistances; `or` if the target of the spell is `flying`, you force them to land immediately; `or` the target of the spell suffers `dazed`; `or` the target of the spell cannot perform the `Guard` action during their next turn."
+    },
+    {
+      "name": "Prophetic Defender Style",
+      "info": "Requirements: you must have learned the Divination spell.",
+      "description": "When a source causes one or more allies present on the scene to lose Hit Points, if you are affected by your `Divination` spell, you may `reduce its number of available forced rerolls by 1` to transfer part of the consequences of that timeline unto yourself. If you do, you suffer `all` those Hit Point losses in place of those allies, as separate instances (you cannot choose to suffer only some of them; for instance, if a source causes you and two of your allies to lose 20 Hit Points each, using this effect causes you to lose 20 HP, then 20 HP, and finally another 20 HP). Then, if your `Divination` spell has no remaining forced rerolls, your `Divination` spell ends.\nAdditionally, your `maximum Hit Points` and `Crisis` score are now calculated based on your `base Insight die size`, instead of your `base Might die size`."
+    },
+    {
+      "name": "Punishing Style",
+      "info": "Requirements: you must have acquired the Counterattack Skill.",
+      "description": "When you perform the `Guard` action, if you choose `not` to provide cover to another creature, you gain the following benefits until the start of your next turn:\n\n- You may use the `Counterattack` Skill even when the Result of the enemy's Accuracy Check is an `odd` number.\n\n- When you perform a `free attack` with `Counterattack`, if the triggering attack `hit` you, you deal 5 extra damage."
+    },
+    {
+      "name": "Ranger Style",
+      "info": "Requirements: you must have acquired the Resourceful Skill.",
+      "description": "At the start of a conflict scene, you may spend 20 Mind Points to reveal you set traps in the area; if you do, choose a status effect among `dazed`, `shaken`, `slow`, and `weak` if you do, `every enemy present` on the scene suffers the chosen `status effect`, then every enemy present on the scene whose `current Insight die size is equal to or lower than yours` loses an amount of Hit Points and Mind Points equal to`【your Skill Level in Resourceful, multiplied by 5】`. These amounts increase by 5 if you are `level 20 or higher`, or by 10 if you are `level 40 or higher`.\nAdditionally, your attacks with `bows` deal extra damage equal to【`1 + your Skill Level in Resourceful】`as long as you have no `martial armor` equipped."
+    },
+    {
+      "name": "Reaper Style",
+      "info": "Requirements: you must have acquired the High Speed Skill and/or the Stolen Time Skill.",
+      "description": "You gain a +5 bonus to your `Accuracy Checks` and `Magic Checks` for attacks and offensive spells (*ϟ*) that include one or more enemies in `Crisis` among the targets.\nWhen you cause one or more enemies to reach 0 Hit Points and `Surrender`, you recover from `all` status effects and may choose one option: perform a free attack with a weapon you have equipped; `or` immediately perform the `Spell` action for free, casting an `offensive spell`(*ϟ*) (you must still pay its MP cost). This attack or spell must target `a single enemy`; once you use this Skill during a conflict, you may not use it again until the beginning of your next turn."
+    },
+    {
+      "name": "Scorpion Tail Style",
+      "info": "Requirements: you must have a Dexterity base die size of d10 or higher.",
+      "description": "Your attacks with weapons belonging to the `flail` Category may target `flying` creatures and deal 5 extra damage as long as it `is not your turn`.\nAfter a creature you can see performs a `ranged` attack, you may spend an amount of Mind Points equal to`【5 + the total Result of their Accuracy Check】`in order to have the attack fail automatically against all targets. You can only use this Skill if you have a weapon belonging to the `flail` Category equipped, and it has no effect if the Accuracy Check was a `critical success`."
+    },
+    {
+      "name": "Seven Weapon Style",
+      "info": "Requirements: you must be able to equip martial melee weapons, and must also be able to equip martial ranged weapons.",
+      "description": "You may use an action and spend 7 Mind Points to perform a `free attack` with a weapon you have equipped. This attack must target `a single creature`; if the attack hits, you treat your `High Roll` as 0 when calculating damage and may perform the `Equipment` action for free after it has been resolved. Then, you may perform another `free attack` with a weapon you have equipped who doesn't share any Category with the weapon you used for your first attack. This attack must also target `a single creature`; if it hits, you treat your `High Roll` as 0 when calculating damage, and may perform the `Equipment` action for free after it has been resolved.\nWhen you attack with a weapon that doesn't share a Category with any weapon you previously attacked with during this scene, you gain `1 Sequence Point` (if the weapon is treated as belonging to two or more Categories due to Skills or effects, you gain that many `Sequence Points` and are then treated as if you had already attacked with `all` of those Categories during this scene).\nOnce per scene at the start of your turn, if you have `7 or more Sequence Points`, you may spend `all your Sequence Points` to choose one enemy you can see: that creature loses 7 Hit Points. If you do, you may immediately repeat this process up to 6 more times, for a maximum of 49 Hit Points lost (by a single enemy or different enemies, provided it happens in 7 HP increments).\nYou lose `all Sequence Points` at the end of each scene"
+    },
+    {
+      "name": "Skyspear Style",
+      "info": "Requirements: you must have learned the Soaring Strike spell.",
+      "description": "You unlock the hidden art of aerial spear combat, learning the `Skyjump` spell.\n\n*Skyjump* `MP`: 10 `Target`: Self `Duration`: Scene\n\nYou become one with the speed and strength of wind. Until this spell ends, your `melee` attacks can target creatures that can only be targeted by `ranged` attacks, and no other creature present on the scene is able to see you.\nOn your turn, if you are under the effects of this spell and able to perform the `Spell` action, you `must` use your first available action to perform the `Spell` action and cast the `Soaring Strike` spell, ignoring its MP cost. If you do and the weapon used belongs to the spear Category, the free attack granted by `Soaring Strike` gains `multi (2)` and deals another 5 extra damage. This spell ends after the `free attack` is resolved. \nYou may only cast this spell if you have a `spear` weapon equipped, and only if you have also learned the `Soaring Strike` spell."
+    },
+    {
+      "name": "Thaumaturge Style",
+      "info": "Requirements: you must have acquired the Healing Power Skill, and must have learned the Cleanse and/or Heal spells.",
+      "description": "As long as you have one or more `brawling` weapons equipped, you treat them as also belonging to the `arcane` Category for the purpose of Skills and effects.\nYou may use an action to perform a `free attack` with an `arcane` weapon you have equipped; this attack must target `a single enemy`. If the attack is successful, treat your `High Roll (HR)` as 0 when determining damage dealt by it; after the attack has been resolved, if it was successful, you may immediately perform the `Spell` action for free, casting the `Cleanse` spell or the `Heal` spell on a single target of your choice (you must have learned the spell and must pay its MP cost)."
+    },
+    {
+      "name": "Vortex Warrior Style",
+      "info": "Requirements: you must have a Dexterity base die size of d10 or higher, and/or a Might base die size of d10 or higher.",
+      "description": "When you perform the `Attack` action with a `melee` weapon that belongs to the `heavy` or `sword` Category, if you have `no other weapon equipped`, you may perform two separate attacks instead of one (against the same target or against different targets). If you do, both attacks follow the rules for `two-weapon fighting`: each attack loses the `multi` property and cannot gain it, and you treat the High Roll of each Accuracy Check as being equal to 0 when determining damage. Additionally, both attacks performed this way `must` target the same creature; if the `first` attack is successful, the `second` attack's Accuracy Check will trigger a `critical success` if both dice show the same number (and the Check is not a `fumble`).\nNote that this Heroic Skill `does not stack` with a custom weapon's `quick` customization (you will still only perform `two` attacks)."
+    }
+  ]
+}
