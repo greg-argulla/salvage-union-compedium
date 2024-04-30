@@ -1,0 +1,65 @@
+{
+  "name": "Tech 3 (Equipment)",
+  "data": [
+    {
+      "name": "Green Laser Rifle",
+      "info": "Range: Medium // Damage: 5 HP // Energy",
+      "detail": "This weapon covers a wide variety of standard issue shoulder-mounted energy laser rifles such as beam guns, pulse lasers, and ray rifles. "
+    },
+    {
+      "name": "Grenade",
+      "info": "Range: Medium // Damage: 4 SP // Explosive (1) // Uses (3)",
+      "detail": "A handheld explosive device that can be thrown towards a target dealing high damage in an area."
+    },
+    {
+      "name": "Hazard Protection Suit",
+      "info": "Armour // Heavy",
+      "detail": "This all-purpose bio-hazard suit can protect you from the ravages of the wastes once you are zipped up all comfy inside. \n\nThe suit protects you from dangerous environmental hazards such as radiation storms, cold snaps, or acid rain. In addition, you take half damage from any severe environmental hazards such as tornadoes, firestorms, or bubbling pools of toxic waste."
+    },
+    {
+      "name": "Healing Bio-Foam",
+      "info": "Uses (3)",
+      "detail": "This canister contains an advanced form of bio-foam that when sprayed on a wound forms a rigid layer of biocomposite polymer, sealing the injury.\n\n*Healing Spray*\n`Range: Close // Turn Action`\nA target creature of your choice in Range regains 5 Hit Points. If they were on 0 Hit Points this restores them to consciousness with 5 HP.\n\n*Suturing Spray*\n`Range: Close // Short Action`\nA target creature of your choice in Range heals a Minor Injury. "
+    },
+    {
+      "name": "Handheld Expoxy Canister",
+      "info": "",
+      "detail": "This handy piece of equipment applies layers of metallic oxide which can repair and restore a diverse range of broken Mechs and parts.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nYou restore up to 4 SP to a target Mech in Range with at least 1 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, or 3 System or Module in Range to Intact Condition. \n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, or 3 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
+    },
+    {
+      "name": "Hover Sled",
+      "info": "Heavy // Hover",
+      "detail": "This floating sled allows you to store cargo on it that your Pilot would not otherwise be able to carry. It ignores any Difficult Terrain or obstacles as it moves, and has a Cargo Capacity of 4 and 3 SP. "
+    },
+    {
+      "name": "Melee Armament",
+      "info": "Range: Close // Damage: 4 HP // Melee // Silent",
+      "detail": "This covers a wide range of high quality melee weapons that your Pilot can acquire, from standard issue survival knives and hatchets to katanas and claymores. "
+    },
+    {
+      "name": "Portable Flamethrower",
+      "info": "Range: Close // Damage: 2 HP // Anti-Organic // Burn (2) // Overheat // Heavy",
+      "detail": "This portable flamethrower fires superheated liquid flame at a target. "
+    },
+    {
+      "name": "Reactive Armour",
+      "info": "Armour // Heavy",
+      "detail": "Layers of reactive heavy carbonate protect a Pilot against various types of damage, from ballistic and laser damage to explosive and shrapnel damage. Reduce all damage your Pilot takes by 1 to a minimum of 1 when this Armour is equipped. Apply this after other modifiers"
+    },
+    {
+      "name": "Rifle",
+      "info": "Range: Medium // Damage: 5 HP // Ballistic",
+      "detail": "This weapon covers a wide variety of standard issue ballistic rifles, including assault rifles, semi-automatic rifles, and bolt-action rifles."
+    },
+    {
+      "name": "Shotgun ",
+      "info": "Range: Close // Damage: 4 HP // Ballistic",
+      "detail": "This weapon covers all manner of ballistic firearms designed to discharge small-pellet-like shot at targets.\n\nWhen you hit with this weapon up to one other target of your choice in Close Range takes 2 HP damage."
+    },
+    {
+      "name": "Tranquilizer Rifle",
+      "info": "Range: Medium // Silent // Uses (3)",
+      "detail": "This weapon fires a dart loaded with a strong anesthetic that knocks out the target. If a creature is hit with the tranquilizer rifle they fall unconscious for 10 minutes. Making any attack with this weapon reduces its Uses by 1. \nThis does not affect Bio-Titans or Meld."
+    }
+  ]
+}

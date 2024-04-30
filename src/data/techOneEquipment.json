@@ -1,0 +1,50 @@
+{
+  "name": "Tech 1 (Equipment)",
+  "data": [
+    {
+      "name": "First Aid Kit",
+      "info": "Turn Action // Range: Close // Uses (3)",
+      "detail": "This set of bandages, plasters, gauze, painkillers, and antiseptics allows you to patch up wounds in the field. \n\nA target creature of your choice in Range regains 3 Hit Points. If they were on 0 Hit Points\nthis restores them to consciousness with 3 HP.\n\n`Union Safety Guideline 305.15 recommends each Union Crawler salvage crew equip a First Aid Kit for all active field work.`"
+    },
+    {
+      "name": "Hand Riveting Gun",
+      "info": "",
+      "detail": "This pocket-sized riveting gun can make basic repairs in the field.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nWhen activated, a target Mech or Vehicle of your choice in Range with at least 1 SP regains 2 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1 System or Module\nin Range to Intact Condition. It is now usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1 Mech Chassis or\nVehicle in Range to Intact Condition. It is now\nusable with 1 SP."
+    },
+    {
+      "name": "Heavy Duty Torch",
+      "info": "Free Action // Range: Close",
+      "detail": "A handheld worker’s torch that runs on a rechargeable lithium-ion battery.\n\nThis lights up an area in Close Range of the Pilot, allowing them to see more clearly in dark or foggy conditions. "
+    },
+    {
+      "name": "High Tensile Wire",
+      "info": "Turn Action // Range: Close // Rigging",
+      "detail": "Strong and durable wire, with multiple potential creative applications.This can be attached to anything within Range, allowing you to climb the wire. It can also be used to aid in the dragging of heavy objects. "
+    },
+    {
+      "name": "Improvised Explosive Device",
+      "info": "Range: Close // 3 SP // Explosive (1) // Uses (2)",
+      "detail": "This covers any number of homemade explosives. Exploding powder and bits of shrapnel are easy to find amongst the wastes.\n\nAn IED can be thrown at a target as an attack. It can also be planted as a proximity mine which triggers when a target comes within Close Range of the IED. In either case, roll an attack as normal to find out what happens. "
+    },
+    {
+      "name": "Improvised Firearm",
+      "info": "Range: Close // Damage: 3 HP // Ballistic // Unwieldy",
+      "detail": "This covers any number of improvised firearms such as pipe guns, zip guns, and slam guns. The humble boomstick has got many a salvager out of a sticky situation. "
+    },
+    {
+      "name": "Improvised Melee Weapon",
+      "info": "Range: Close // Damage: 2 HP // Melee // Silent",
+      "detail": "This covers any number of melee weapons from wrenches and hammers to shards of metal and sharpened metal posts. There are a lot of things you can use to bludgeon, stab, or otherwise injure someone, to be found in the wastes."
+    },
+    {
+      "name": "Portable Communications Unit",
+      "info": "Free Action // Range: Medium // Communicator",
+      "detail": "A handheld communications device that uses a radio frequency. This allows you to communicate with anything that has the Communicator Trait within Range. "
+    },
+    {
+      "name": "Salvaging Tools",
+      "info": "Salvaging",
+      "detail": "This covers a wide array of tools, from jacks to hammers to angle grinders, that are used in salvaging. This allows your Pilot to salvage in the field, because sometimes you need to get your hands dirty"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Tech 4 (Equipment)",
+  "data": [
+    {
+      "name": "Advance Epoxy Applicator",
+      "info": "",
+      "detail": "This specialised device scans and automatically applies layers of metallic oxide that fill and repair damaged Mechs based on their blueprints. This allows repair of some of the most advanced Mechs in production.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nYou restore up to 5 SP to a target Mech in Range with at least 1 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, or 4 System or Module in Range to Intact Condition. It is\nnow usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, or 4 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
+    },
+    {
+      "name": "Electro Grappling Hook",
+      "info": "Range: Medium // Climbing",
+      "detail": "This gravitonic beam allows the user to attach themselves to surfaces at Range, allowing them to swing or pull themselves towards it. You may use it to attach to any surface within Range."
+    },
+    {
+      "name": "Night Vision Goggles",
+      "info": "1AP Free Action // Range: Long",
+      "detail": "An array of infravision optical mounts worn via a specialised helmet. When activated, your Pilot can see in darkness via a green tinted visor, in any area within Range. This effect lasts for 1 hour."
+    },
+    {
+      "name": "Portable Multi-Phase Shield",
+      "info": "2AP Reaction // Shield",
+      "detail": "Favoured by Sakura Wetwork teams, this miniature, wrist-mounted shield can protect you from harm by projecting a forcefield around your Pilot which will absorb some of the incoming attack.\n\nWhen you are hit by an attack you may activate your Portable Multi-Phase Shield to prevent the hit.\n\n*ROLL THE DIE:*\n\n`20`: The attack deals no damage.\n`11 - 19`: The forcefield partially absorbs some of the hit, you take half damage from the attack.\n`6 - 10`: The forcefield absorbs the blow, but is destroyed. You take no damage from the attack and your Portable Multi-Phase Shield is destroyed.\n`2 - 5`: The force field fails and the attack hits as normal.\n`1`: The attack hits as normal and the shield overloads. Your Portable Multi-Phase Shield is destroyed."
+    },
+    {
+      "name": "Remote Mine",
+      "info": "Range: Close // Explosive (4) // Uses (2) ",
+      "detail": "An explosive device that can be remotely detonated.\n\nYou may place and set the Remote Mine as a Turn Action. It can be detonated remotely as a Turn Action from Medium Range. When it detonates, roll to make an attack as normal. On a hit all targets within Range take 4 SP damage.\n\n`Whist use of Remote Mines is allowed under\nCorporate Council policy; Union Safety Regulation 402.36 bans their use in civilian occupied\nterritory.`"
+    },
+    {
+      "name": "Rocket Launcher",
+      "info": "Range: Long // Damage: 5 SP // Explosive (1) // Heavy // Missile // Uses (3)",
+      "detail": "This weapon fires unguided, explosive warheads at its targets and is a great way to make an entrance at your next hoedown."
+    },
+    {
+      "name": "Sniper Rifle",
+      "info": "Range: Long // Damage: 6 HP // Ballistic",
+      "detail": "This weapon covers a wide variety of scoped rifles designed for taking out targets at a distance."
+    }
+  ]
+}

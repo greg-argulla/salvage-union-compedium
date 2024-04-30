@@ -1,0 +1,55 @@
+{
+  "name": "Tech 1 (Modules)",
+  "data": [
+    {
+      "name": "Comms Module",
+      "info": "Free Action // Range: Long // Communicator // Recommended Module",
+      "detail": "*Recommended Module*\n\n`T1` 🔺 - 1 ⚙️ - 1\n\nThis Opus Institute-developed array of telecommunications wires and receivers allows communication with anything with the Communicator Trait in Range. This allows for both voice and text communications via your Mech’s HUD. You may also use your Comms Module to send and receive images and data, such as data you gather when using a Scanner.\n\nIf the Mech does not have a Comms Module or equivalent with the Communicator Trait you cannot talk to your Allies from their Mech whilst out in the field."
+    },
+    {
+      "name": "Eggs Mayhem",
+      "info": "2EP Turn Action // Range: Medium //  Hacking",
+      "detail": "`T1` 🔺 - 1 ⚙️ - 3\n\nThis hacking program developed by Stefanus Industries allows you to tap into a Mech, database, or computer system to gather information about it. This can only be used to read data and not to write or manipulate it.\n\nWhen activated, choose a target Mech, database, or computer system within Range.\n\n*ROLL THE DIE:*\n\n`20`: You masterfully hack into the system and can ask 5 questions to the Mediator about it. The answers they give must be true.\n`11 - 19`: You successfully hack in and can ask 3 questions to the Mediator about it. The answers they give must be true.\n`6 - 10`: Your hack produces a mix of confused data. You are able to ask the Mediator 2 questions about it. One of the answers they give must be true, but the other contains false information as decided by the Mediator.\n`2 - 5`: The hacking attempt fails. The Mediator may choose an appropriate Setback.\n`1`: The hack fails and the target is alerted to your hacking attempt. They can retaliate as appropriate."
+    },
+    {
+      "name": "Equipment Locker",
+      "info": "Passive",
+      "detail": "`T1` 🔺 - 1 ⚙️ - 1\n\nThis Module is installed directly into your Mech’s Cockpit and allows storage of up to 10 pieces of Pilot Equipment within it, allowing easy access when in the field. "
+    },
+    {
+      "name": "Firewall",
+      "info": "2EP Reaction // Range: Medium //  Hacking",
+      "detail": "`T1` 🔺 - 1 ⚙️ - 2\n\nThis Firewall, made open source by the Opus Institute, is designed to block hacking attempts. \n\nIf you or an Ally in Range are the target of any System, Module, or Ability with the Hacking Trait you may attempt to block the hack with your Firewall as a Reaction.\n\n*ROLL THE DIE:*\n\n`20`: You successfully block the hack and you and your Allies cannot be affected by anything with the Hacking Trait for the next 10 minutes.\n`11 - 19`: You successfully block the hack and entirely nullify all of its effects.\n`6 - 10`: The Mediator offers you a Tough Choice in relation to the hack. This could be partially nullifying its effects, an additional EP cost, or damage to your Module.\n`2 - 5`: You fail to block the hack, and it has full effect.\n`1`: You fail to block the hack, and your Firewall is breached, it becomes damaged and cannot be used until repaired to the Intact Condition."
+    },
+    {
+      "name": "Personal Recreation Device",
+      "info": "1 EP Short Action",
+      "detail": "`T1` 🔺 - 1 ⚙️ - 1\n\nYour Mech is installed with a Personal Recreation Device of your choice. This could be an entertainment box, foot massager, or drinks dispenser, because sometimes a salvager just needs a break. \n\nWhen activated, a single Pilot may use the Personal Recreation Device to relax and get themselves into a flow state. The next time they or a Mech they are controlling roll the die, they may re-roll it. They must accept the result of the second roll.\n\n`It is against Union Regulation to install a Mech with a Personal Recreation Device designed to do what you’re thinking.`"
+    },
+    {
+      "name": "Reactor Flare",
+      "info": "1EP Turn Action // Range: Long",
+      "detail": "`T1` 🔺 - 1 ⚙️ - 1\n\nAn open source Opus Institute blueprint, this Module is frequently used by emergency or rescue services. \n\nThe Opus Institute developed it for use in the long winters where their headquarters are located; due to the pitch dark environments and constant threat of snowstorms and avalanches.\n\nWhen activated, this Module fires a reactor-fuelled flare to any point within Range.\nThe flare is clearly visible up to anywhere within Far Range as well as anyone in any adjacent area to you on the Region Map. The flare burns enough to provide illumination nearly equal to that of daylight. The flare lasts for an hour before dissipating. "
+    },
+    {
+      "name": "Self-Destruct",
+      "info": "Reaction",
+      "detail": "`T1` 🔺 - 1 ⚙️ - 1\n\nWhen activated, your Mech self-destructs, its reactor going into overdrive\nand causing a localized thermonuclear explosion.\n\nYour Mech, as well as all mounted Systems, Modules, and all Cargo, are destroyed. Everything within Close Range of your Mech takes SP damage equal to the Maximum Heat Capacity of your Mech.\n\nEverything affected by this may take any Turn Action or Reaction in response to attempt to avoid the damage. You may attempt to escape via any System, Module, or Ability with the Escape Trait. \n\nThe area where your Mech was located before the Self-Destruct was activated, is now Irradiated. "
+    },
+    {
+      "name": "Survey Scanner",
+      "info": "2EP Short Action // Range: Long // Scanner",
+      "detail": "When activated, a Survey Scanner allows you to scan a specific point of interest within Range. This can be a single point on the Region Map or a specific feature in the world such as a ruin, unique area of terrain, settlement, or base. If a point is not worth scanning because it holds nothing of interest or you have all of the relevant information on it, the Mediator must tell you before you make your scan.\n\n*ROLL THE DIE:*\n\n`20`: You make a thorough scan of the area and may ask the Mediator 5 questions about it. The answers they give must be true.\n`11 - 19`: Your scan is successful and you may ask the Mediator 3 questions about the scanned area. The answers they give must be true.\n`6 - 10`: You partially scan the area and return messy results. You may ask the Mediator 2 questions about the area. One of the answers they give must be true, but the other answer contains false information as decided by the Mediator.\n`2 - 5`: Your scan fails to find any useful information about the area.\n`1`: Your scan returns inaccurate data. You may ask the Mediator 2 questions about the area and both answers will contain false information which you believe to be true."
+    },
+    {
+      "name": "Weapon Link",
+      "info": "Turn Action // Hot (X) // Heat Spike",
+      "detail": "`T1` 🔺 - 1 ⚙️ - 3\n\nA Weapons Link Module allows you to connect any number of identical Weapons Systems together. These must be the same Weapons System. For example: you may link two Green Lasers or three 30mm Autocannons. Once you link weapons, this is permanent and they cannot be fired separately via any means until this Module is uninstalled.\n\nYou make an attack with all weapons linked together with this Module against a single target in Range of your choice. Make and resolve each attack separately. You gain 1 Heat for each linked weapon you attack with and must make a Heat Check after the attacks have been resolved."
+    },
+    {
+      "name": "Zoom Optics",
+      "info": "1EP Free Action // Optics",
+      "detail": "`T1` 🔺 - 1 ⚙️ - 2\n\nWhen activated, this optical array extends the Range of any single Ranged Weapons System mounted on your Mech by one band, to a maximum of Long Range. For example, from Medium Range to Long Range or Close Range to Medium Range.\n\nIt further allows you to zoom in and see one Range Band further than you currently are. For example, if you are in Medium Range, you can see a target as though it was in Close Range and pick out finer details about it.\n\nThis effect lasts for 1 hour. "
+    }
+  ]
+}

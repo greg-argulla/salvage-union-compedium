@@ -1,0 +1,40 @@
+{
+  "name": "Tech 2 (Chassis)",
+  "data": [
+    {
+      "name": "Forge",
+      "info": "",
+      "detail": "*Integrated Epoxy Printer*: The Forge is able to 3D print metallic structures via a specialized epoxy.\n\n*3EP Short Action*\n\nWhen this Ability is activated, pick from the following options to craft. Anything crafted with the Forge cannot be salvaged for Scrap.\n\n`Armour Plating`: You craft an Armour Plating System.\n`Simple Weapon`: You craft a Mech Melee Armament System or 10 Improvised Melee Weapons.\n`Mech Traps:` You craft a series of traps designed to slow and damage encroaching Mechs. Any Mechs that move through the traps take 3 SP damage and move at half their normal speed. \n`Custom Item`: You craft a metallic structure of your own design. This cannot have any complex or moving parts.\n\n`Structure Pts`: 16\n`Energy Pts`: 13\n`Heat Cap`: 10\n`System Slots`: 15\n`Module Slots`: 4 \n`Cargo Cap`: 6\n`Tech Level`: 2\n`Salvage Value`: 10"
+    },
+    {
+      "name": "Gopher",
+      "info": "",
+      "detail": "*Integrated Expanded Transport Hold*: Increases the Cargo Capacity of the Gopher by 6, to 12.\n\n`Structure Pts`: 14\n`Energy Pts`: 10\n`Heat Cap`: 8\n`System Slots`: 12 \n`Module Slots`: 3\n`Cargo Cap`: 12\n`Tech Level`: 2\n`Salvage Value`: 4 "
+    },
+    {
+      "name": "Hussar",
+      "info": "",
+      "detail": "*Fast*: The Hussar can move an additional Range band on its turn as a Free Action. In addition, it moves twice as fast across the Campaign, Area, and Region Maps. \n\n`Structure Pts`: \n`Energy Pts`: \n`Heat Cap`: \n`System Slots`: \n`Module Slots`: \n`Cargo Cap`: \n`Tech Level`: 2\n`Salvage Value`: "
+    },
+    {
+      "name": "Jackhammer",
+      "info": "",
+      "detail": "*Reinforced Chassis*: The Jackhammer rolls on this alternate Critical Damage Table:\n\n*ROLL THE DIE*:\n\n`20`: The Jackhammer is Intact and operational with 1 SP. The Pilot is unharmed.\n`11-19`: The Jackhammer is temporarily Shutdown and becomes inoperable. At the end of its next turn it activates and becomes operational with 1 SP. The Pilot is unharmed.\n`6 - 10`: As per 11-19, but a random Module on the Jackhammer is also Damaged.\n`2 - 5`: As per 11-19, but a random System on the Jackhammer is also Damaged.\n`1`: The Jackhammer Mech Chassis is damaged. All of its mounted Systems, Modules, and any carried Cargo are destroyed. The Pilot survives in the reinforced cockpit.\n\n`Structure Pts`: 18\n`Energy Pts`: 7\n`Heat Cap`: 13\n`System Slots`: 15\n`Module Slots`: 3\n`Cargo Cap`: 6\n`Tech Level`: 2\n`Salvage Value`: 6"
+    },
+    {
+      "name": "Kraken",
+      "info": "",
+      "detail": "*Integrated Amphibious Locomotion System*: The Kraken has an integral Advanced Amphibious Locomotion System included in its profile. This allows the Kraken to operate indefinitely in underwater conditions at significant depths whilst also being able to walk on land. Its sealed Chassis is also airtight and watertight.\n\n`Structure Pts`: 24\n`Energy Pts`: 10\n`Heat Cap`: 14\n`System Slots`: 18 \n`Module Slots`: 3\n`Cargo Cap`: 6\n`Tech Level`: 2\n`Salvage Value`: 14"
+    },
+    {
+      "name": "Magpie",
+      "info": "",
+      "detail": "*Hot Swap Universal Mounts*: The Magpie allows you to mount and dismount Systems on it in the field significantly faster. This uses the normal rules for mounting, but increases the speed and versatility. A Pilot may Mount a System on the Magpie as a Short Action (10 minutes). A Mech, including the Magpie itself, may Mount a System on the Magpie as a Turn Action.\n\n`Structure Pts`: 15\n`Energy Pts`: 12\n`Heat Cap`: 10\n`System Slots`: 15\n`Module Slots`: 3\n`Cargo Cap`: 6\n`Tech Level`: 2\n`Salvage Value`: 5"
+    },
+    {
+      "name": "Mirrorball",
+      "info": "",
+      "detail": "*Integrated Advanced Shield Dome*: The Mirror Ball can project a glowing, protective energy field around its Chassis.\n\n`XEP Turn Action // Shield`\nWhen activated, you project a Shield Dome around your Mech. Choose any amount of Energy Points when you activate this Ability. \nThe Shield Dome has a number of Structure Points equal to 3× the Energy Points you spend on this Ability. You may only have one Shield Dome active at a time. You may deactivate the Shield Dome as a Free Action.\n\nWhen you or any allied target within Close Range of your Mech is dealt damage, the damage is instead dealt to the Shield Dome.\n\nIf the attack deals 0 damage to the target then they also suffer no additional effect from the hit. Any excess damage that penetrates the shield is dealt to the target instead.\n\n`Structure Pts`: 16\n`Energy Pts`: 14\n`Heat Cap`: 8\n`System Slots`: 12\n`Module Slots`: 3\n`Cargo Cap`: 6\n`Tech Level`: 2\n`Salvage Value`: 8"
+    }
+  ]
+}

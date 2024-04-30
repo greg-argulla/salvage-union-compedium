@@ -1,0 +1,25 @@
+{
+  "name": "Tech 5 (Equipment)",
+  "data": [
+    {
+      "name": "Beta Fission Gun",
+      "info": "Range: Medium // Damage: 7 SP // Energy // Burn (2) // Explosive (2) // Heavy // Uses (3) ",
+      "detail": "This frankly over-designed weapon fires a huge blast of supercharged fission which engulfs an entire area in superheated green flame"
+    },
+    {
+      "name": "Monomolecular Sword",
+      "info": "Range: Close // Damage: 4 SP // Deadly // Melee // Silent",
+      "detail": "This blade is formed from a super-hardened carbon lattice, held together by an electro-static charge, and honed to the width of a single molecule. They give off the smell of ozone in the atmosphere as the moisture in the air is cut."
+    },
+    {
+      "name": "Miniaturised Repair Arm",
+      "info": "",
+      "detail": "This repair arm was developed by Stefanus to allow their field techs to make advanced repairs whilst in combat zones.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nYou restore up to 6 SP to a target Mech in Range with at least 1 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, 4, or 5 System or Module in Range to Intact Condition. It is now usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, 4, or 5 Mech Chassis or Vehicle in Range to Intact Condition.\nIt is now usable with 1 SP."
+    },
+    {
+      "name": "Polycarbonate Carapace Armour",
+      "info": "Armour // Heavy",
+      "detail": "Heavy layers of reinforced carbonate provide excellent protection in the field against all manner of harm one could find in the wastelands. Reduce all damage your Pilot takes by 2 to a minimum of 1 when this Armour is equipped. Apply this after other modifiers."
+    }
+  ]
+}

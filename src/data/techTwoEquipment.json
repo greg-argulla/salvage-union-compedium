@@ -1,0 +1,45 @@
+{
+  "name": "Tech 2 (Equipment)",
+  "data": [
+    {
+      "name": "Disposable Camera",
+      "info": "Turn Action // Range: Far // Uses (30)",
+      "detail": "A disposable camera that can take up to 30 pictures of anything within Range. These pictures can be developed during Downtime on your Union Crawler and used as a Keepsake."
+    },
+    {
+      "name": "Flare Gun",
+      "info": "Turn Action // Range: Far // Uses (3)",
+      "detail": "A launcher for a flare intended to be used as a distress signal, beacon, or in a pinch, to light up an area. When fired, the flare can be seen from anywhere up to Far Range. It lights up an area within Close Range of its target for 1 hour"
+    },
+    {
+      "name": "Holofoil Tent",
+      "info": "Short Action (to set up)",
+      "detail": "A large, sturdy but light tent made out of a\nstrong, waterproof, and insulating material.\nThe tent can comfortably fit up to five people.\nEveryone inside the tent suffers no damage or\neffect from dangerous environmental effects\nsuch as radiation storms, cold snaps, or acid\nrain, and half damage from severe environmental effects such as tornadoes and firestorms"
+    },
+    {
+      "name": "Reinforced Polycarbonate Shield",
+      "info": "Reaction // Heavy // Shield",
+      "detail": "Typically used in breaching and boarding actions, as well as for riot control, this large shield protects its wearer from harm. When your Pilot is hit by an attack you may destroy the Reinforced Polycarbonate Shield to take half damage from the attack and suffer none of its effects"
+    },
+    {
+      "name": "Pistol",
+      "info": "Range: Close // Damage: 3 HP // Ballistic",
+      "detail": "This weapon covers a wide variety of standard issue pistols such as revolvers and semi-automatic pistols. "
+    },
+    {
+      "name": "Portable Arc Welder",
+      "info": "",
+      "detail": "This miniaturised Arc Welder allows you to make improved field repairs to a wide variety of Mechs and parts.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nWhen activated, a target Mech or Vehicle of your choice in Range with at least 1 SP regains 3 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1 or 2 System or Module in Range to Intact Condition. It is now usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1 or 2 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
+    },
+    {
+      "name": "Red Laser Pistol",
+      "info": "Range: Close // Damage: 3 HP // Energy",
+      "detail": "This weapon covers a wide variety of standard issue handheld lasers such as blasters, phasers, and zap guns"
+    },
+    {
+      "name": "Rigging Jack",
+      "info": "Rigging",
+      "detail": "This hydraulic jack can aid in the heavy lifting of salvage. The Rigging Jack can carry 1 Scrap upon it"
+    }
+  ]
+}

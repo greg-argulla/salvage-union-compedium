@@ -1,0 +1,30 @@
+{
+  "name": "Tech 1 (Chassis)",
+  "data": [
+    {
+      "name": "Mule",
+      "info": "",
+      "detail": "*Integrated Cargo Bay*: Increases the Cargo Capacity of the Mule by 10, to 16.\n\n`Structure Pts`: 12\n`Energy Pts`: 4\n`Heat Cap`: 6\n`System Slots`: 16\n`Module Slots`: 2\n`Cargo Cap`: 16\n`Tech Level`: 1\n`Salvage Value`: 7"
+    },
+    {
+      "name": "Mazona",
+      "info": "",
+      "detail": "*Hover Drone*: The Mazona has an Integrated Hover Locomotion System which is included in its profile. This allows it to hover over obstacles and terrain.\n\n`Structure Pts`: 5\n`Energy Pts`: 10\n`Heat Cap`: 6\n`System Slots`: 7 \n`Module Slots`: 3\n`Cargo Cap`: 6\n`Tech Level`: 1\n`Salvage Value`: 4 "
+    },
+    {
+      "name": "Scrapper",
+      "info": "",
+      "detail": "*Hazard Protected Chassis*: The Scrapper suffers no effect or damage from hazardous environmental effects such as radiation storms. In addition, when dealing with severe environmental hazards they may Push once for free to circumvent or resist any effects.\n\n`Structure Pts`: 9\n`Energy Pts`: 9\n`Heat Cap`: 8\n`System Slots`: 12\n`Module Slots`: 2\n`Cargo Cap`: 6\n`Tech Level`: 1\n`Salvage Value`: 6"
+    },
+    {
+      "name": "Spectrum",
+      "info": "",
+      "detail": "*Data Scanner*: The Spectrum is a mobile data repository that has all manner of information stored within it. It is able to scan objects to both gain information about them and store that data to access at a later time.\n\n*2EP*\n`Short Action // Range: Close // Scanner `\nYou scan a single object in Range. This can be a Mech, System, Module, Vehicle, Creature, artefact, structure, fauna, or flora, or anything else appropriate in the world. You may ask the Mediator two questions about this object and the answers they give must be true.\n\nIf you scan an Intact Mech Chassis, System, or Module in the field, you now have its blueprint. You and everyone on your Union Crawler is now able to craft this item even if you would not normally be able to do so.\n\n`Structure Pts`: 17\n`Energy Pts`: 11\n`Heat Cap`: 3\n`System Slots`: 7\n`Module Slots`: 4\n`Cargo Cap`: 6\n`Tech Level`: 1\n`Salvage Value`: 10"
+    },
+    {
+      "name": "Thresher",
+      "info": "",
+      "detail": "*Heavily Armoured Chassis*: Any attack that rolls a ‘Nailed It’ (20) result against the Thresher counts as a standard hit (11-19) and does not deal 2× damage or have any other bonus effect.\n\n`Structure Pts`: 15 \n`Energy Pts`: 6\n`Heat Cap`: 10\n`System Slots`: 9\n`Module Slots`: 2\n`Cargo Cap`: 6\n`Tech Level`: 1\n`Salvage Value`: 9"
+    }
+  ]
+}

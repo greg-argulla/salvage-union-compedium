@@ -1,66 +1,28 @@
 /* eslint-disable react/prop-types */
 import { useState, useEffect, useMemo } from "react";
 import OBR from "@owlbear-rodeo/sdk";
-import landingBG from "./assets/bg.jpg";
 import ChatComponent from "./ChatComponent";
 import "./App.css";
 
 /* Data */
+import techOneChassis from "./data/techOneChassis.json";
+import techTwoChassis from "./data/techTwoChassis.json";
+import techOneSystems from "./data/techOneSystems.json";
+import techOneModules from "./data/techOneModules.json";
 
-import arcanist from "./data/arcanist.json";
-import chimerist from "./data/chimerist.json";
-import darkblade from "./data/darkblade.json";
-import elementalist from "./data/elementalist.json";
-import entropist from "./data/entropist.json";
-import fury from "./data/fury.json";
-import guardian from "./data/guardian.json";
-import loremaster from "./data/loremaster.json";
-import orator from "./data/orator.json";
-import rogue from "./data/rogue.json";
-import sharpshooter from "./data/sharpshooter.json";
-import spritist from "./data/spiritist.json";
-import tinkerer from "./data/tinkerer.json";
-import wayfarer from "./data/wayfarer.json";
-import weaponmaster from "./data/weaponmaster.json";
-import heroicskills from "./data/heroicskills.json";
-import basicweapons from "./data/basicweapons.json";
-import basicarmor from "./data/basicarmor.json";
+import techOneEquipment from "./data/techOneEquipment.json";
+import techTwoEquipment from "./data/techTwoEquipment.json";
+import techThreeEquipment from "./data/techThreeEquipment.json";
+import techFourEquipment from "./data/techFourEquipment.json";
+import techFiveEquipment from "./data/techFiveEquipment.json";
+import techSixEquipment from "./data/techSixEquipment.json";
 
-import chanter from "./data/chanter.json";
-import commander from "./data/commander.json";
-import dancer from "./data/dancer.json";
-import symbolist from "./data/symbolist.json";
-import heroicskillshighfantasy from "./data/heroicskillshighfantasy.json";
-
-import esper from "./data/esper.json";
-import mutant from "./data/mutant.json";
-import pilot from "./data/pilot.json";
-import heroicskillstechnofantasy from "./data/heroicskillstechnofantasy.json";
-
-import floralist from "./data/floralist.json";
-import gourmet from "./data/gourmet.json";
-import invoker from "./data/invoker.json";
-import merchant from "./data/merchant.json";
-import heroicskillsnaturalfantasy from "./data/heroicskillsnaturalfantasy.json";
-import heroicstyles from "./data/heroicstyles.json";
-import necromancer from "./data/necromancer.json";
-
-import quirkshighfantasy from "./data/quirkshighfantasy.json";
-import quirkstechnofantasy from "./data/quirkstechnofantasy.json";
-import quirksnaturalfantasy from "./data/quirksnaturalfantasy.json";
-import quirksbonus from "./data/quirksbonus.json";
-import customweapons from "./data/customweapons.json";
-import zeropower from "./data/zeropower.json";
-import campactivities from "./data/campactivities.json";
+import traits from "./data/traits.json";
+import keywords from "./data/keywords.json";
 
 // GM data
-import randomQualities from "./gm/randomqualities.json";
 import names from "./gm/names.json";
 import location from "./gm/locations.json";
-
-import accessoriesqualities from "./gm/accessoriesqualities";
-import armorqualities from "./gm/armorqualities";
-import weaponqualities from "./gm/weaponqualities";
 
 const Text = (props) => {
   const { children } = props;
@@ -68,57 +30,32 @@ const Text = (props) => {
 };
 
 const collection = [
-  "Base Classes",
-  arcanist,
-  chimerist,
-  darkblade,
-  elementalist,
-  entropist,
-  fury,
-  guardian,
-  loremaster,
-  orator,
-  rogue,
-  sharpshooter,
-  spritist,
-  tinkerer,
-  wayfarer,
-  weaponmaster,
-  "High Fantasy",
-  chanter,
-  commander,
-  dancer,
-  symbolist,
-  "Techno Fantasy",
-  esper,
-  mutant,
-  pilot,
-  "Natural Fantasy",
-  floralist,
-  gourmet,
-  invoker,
-  merchant,
-  "Starter Items",
-  basicweapons,
-  basicarmor,
-  customweapons,
-  "Optional Rules",
-  campactivities,
-  zeropower,
-  "Quirks",
-  quirkshighfantasy,
-  quirksnaturalfantasy,
-  quirkstechnofantasy,
-  "Heroic Skills",
-  heroicskills,
-  heroicskillshighfantasy,
-  heroicskillstechnofantasy,
-  heroicskillsnaturalfantasy,
-  heroicstyles,
-  "Bonus",
-  necromancer,
-  quirksbonus,
+  "Chassis",
+  techOneChassis,
+  techTwoChassis,
+  "Systems",
+  techOneSystems,
+  "Modules",
+  techOneModules,
+  "Equipment",
+  techOneEquipment,
+  techTwoEquipment,
+  techThreeEquipment,
+  techFourEquipment,
+  techFiveEquipment,
+  techSixEquipment,
+  "Other",
+  traits,
+  keywords,
 ];
+
+function download(content, fileName, contentType) {
+  var a = document.createElement("a");
+  var file = new Blob([content], { type: contentType });
+  a.href = URL.createObjectURL(file);
+  a.download = fileName;
+  a.click();
+}
 
 function App() {
   const [name, setName] = useState("");
@@ -137,6 +74,13 @@ function App() {
           const metadata = await OBR.scene.getMetadata();
           if (metadata["salvage.union.character/metadata"]) {
             const playerListGet = await createPlayerList(metadata);
+
+            // download(
+            //   JSON.stringify(playerListGet),
+            //   "salvage-union.txt",
+            //   "text/plain"
+            // );
+
             setPlayerList(playerListGet);
           }
           setRole(await OBR.player.getRole());
@@ -192,7 +136,7 @@ function App() {
     const skillData = {
       skillName: skill.name ? skill.name : "Blank skill",
       info: skill.info,
-      detail: skill.description,
+      detail: skill.detail,
       characterName: "Compedium",
       userId: id,
       username: name,
@@ -358,10 +302,10 @@ function App() {
           <div
             style={{ cursor: "copy" }}
             onClick={() => {
-              copyToClipboard("description", item.description);
+              copyToClipboard("detail", item.detail);
             }}
           >
-            {parseDetail(item.description)}
+            {parseDetail(item.detail)}
           </div>
         </div>
       </div>
@@ -501,7 +445,7 @@ function App() {
         ></hr>
         {item.data &&
           item.data.map((itemGet, indexGet) => {
-            if (itemGet.description) {
+            if (itemGet.detail) {
               return skillInstance(itemGet, indexGet, nameSearched);
             }
             if (itemGet.table) {
@@ -670,32 +614,6 @@ function App() {
     { name: "Impossible", chance: 10, exceptionalYes: 2, exceptionalNo: 83 },
   ];
 
-  const attitudes = [
-    "Pleasant",
-    "Busy",
-    "Welcoming",
-    "Available",
-    "Benevolent",
-    "Angry",
-    "Uninterested",
-    "Interested",
-    "Miserable",
-    "Bored",
-  ];
-
-  const weather = [
-    "Sunny",
-    "Windy",
-    "Fair",
-    "Overcast",
-    "Stormy",
-    "Rainy",
-    "Sunny",
-    "Bright",
-    "Overcast",
-    "Fair",
-  ];
-
   const sendRandomPlayer = (forGood) => {
     console.log(playerList);
     const playerListFiltered = playerList.filter((item) => !item.isGMPlayer);
@@ -860,7 +778,6 @@ function App() {
             <Text>{names[randomNumbersGenerated[2]]}</Text>
             <Text>{names[randomNumbersGenerated[3]]}</Text>
             <Text>{names[randomNumbersGenerated[4]]}</Text>
-            Attitude: <Text>{attitudes[randomNumbersGenerated[12]]}</Text>
           </div>
           <div className="outline" style={{ color: "orange" }}>
             Locations:

@@ -1,0 +1,370 @@
+{
+  "name": "Keywords",
+  "data": [
+    {
+      "name": "Abilities",
+      "info": "",
+      "detail": "Refers to Pilot, Mech, and NPC Abilities such as those Bio-Titans have. Often activated by \nspending Ability Points or Energy Points respectively to produce a variety of effects in play. Pilot Abilities may be used in a Mech unless otherwise stated."
+    },
+    {
+      "name": "Ability Points",
+      "info": "",
+      "detail": "Each Pilot has a number of Ability Points which they can use to trigger their Abilities in play. \nAbility Points restore fully after 1 week of rest during Downtime. "
+    },
+    {
+      "name": "Action Scene",
+      "info": "",
+      "detail": "Refers to any action packed situation in the game such as combat or chases where time is \nmeasured in Turns lasting roughly a minute each."
+    },
+    {
+      "name": "Advanced Abilities",
+      "info": "",
+      "detail": "Refers to both the Advanced Class and Hybrid Abilities. Trained with 2 Training Points during Downtime."
+    },
+    {
+      "name": "Advanced Tree",
+      "info": "",
+      "detail": "A Pilot that has specialized in their Core Class can take Abilities from the Advanced Tree of that Class.\n\n\nA Pilot can advance into their Advance Tree once they have taken 6 Core Abilities including all 3 Abilities linked to their Advanced Tree. For example the Engineer must take all 3 Abilities in the Mech-Tech tree before advancing into the Advanced Engineer Tree. \n\n\nOnce they have chosen to advance into their Advanced Tree they can no longer choose to advance into either of their Hybrid Class options. They may still take all Abilities from their Core Class, such as the Engineer Abilities if they were an Engineer."
+    },
+    {
+      "name": "Bio-Titan",
+      "info": "",
+      "detail": "Gigantic and terrifying mutated organisms formed of an amalgamation of mechanized flesh. \nThey have a bizarre range of powers and adaptations that make them incredibly powerful foes to encounter. They can be salvaged for vast amounts of Bio-Titan Salvage when slain which can be sold as Tech 1 Scrap"
+    },
+    {
+      "name": "Blind",
+      "info": "",
+      "detail": "If someone is Blind, they gain the Vulnerable Trait and cannot take any actions that would require \nsight unless they find another means to circumvent this."
+    },
+    {
+      "name": "Core Abilities",
+      "info": "",
+      "detail": "The main Abilities that the 6 Core Classes gain access to. Trained with 1 Training Point during \nDowntime."
+    },
+    {
+      "name": "Core Class",
+      "info": "",
+      "detail": "The 6 Core Pilot Classes of Salvage Union. Players play as one of these.\nEngineer, Hacker, Hauler, Salvager, Scout, Soldier"
+    },
+    {
+      "name": "Corpo",
+      "info": "",
+      "detail": "The enemy. Refers both to the exploitative corporations who hold most of the power in the \nworld and individuals who belong to or work for a Corpo. "
+    },
+    {
+      "name": "Creature",
+      "info": "",
+      "detail": "Broadly covers all people, animals, mutants and cyborgs in the game. \nDoes not include Bio-Titans or Meld."
+    },
+    {
+      "name": "Damaged",
+      "info": "",
+      "detail": "If a System, Module, or Chassis is damaged it is inoperable and cannot be used in any way until \nrepaired and restored to the Intact Condition. "
+    },
+    {
+      "name": "Death Blow",
+      "info": "",
+      "detail": "A special type of attack made against a target in Close Range that is on 0 SP or HP or is otherwise \nincapacitated that kills or destroys them entirely"
+    },
+    {
+      "name": "Destroyed",
+      "info": "",
+      "detail": "A destroyed System, Module, Chassis, or Vehicle is entirely inoperable. It cannot be repaired, \nsalvaged, scrapped, or used in any way."
+    },
+    {
+      "name": " Difficult Terrain",
+      "info": "",
+      "detail": "Any type of terrain that would be difficult to cross such as mountainous and hilly terrain, heavy \nswamp, or a thick forest. Movement over long distances through Difficult Terrain takes 2× as \nlong. This does not apply in combat and action scenes though the Mediator may apply other \npenalties as appropriate."
+    },
+    {
+      "name": "Downtime",
+      "info": "",
+      "detail": " A period of one week, typically spent on a Union Crawler. Used to restore all Mech and Pilot\nstatistics, train new Abilities, craft and repair Mechs and move across the wasteland via the Crawler."
+    },
+    {
+      "name": "Downtime Action",
+      "info": "",
+      "detail": "Actions that you can perform during your week of Downtime. Typically in your Union Crawler."
+    },
+    {
+      "name": " Drone",
+      "info": "",
+      "detail": "Refers to all remotely controlled or automated mechanical Drones. Treat Drones as Mechs \nfor the purpose of the rules and Abilities. "
+    },
+    {
+      "name": "Energy Points",
+      "info": "",
+      "detail": " Each Mech has an Energy Point value representing the output of its reactor. These are spent to activate a wide range of Abilities. Energy Points restore fully after 1 week of Downtime \nin a Mech Bay of the Tech Level of the Mech or higher. "
+    },
+    {
+      "name": "Environmental Effects ",
+      "info": "",
+      "detail": "Environmental effects include heat and cold, heavy rain, radiation storms, high winds and \nflooding. These can cause a variety of negative effects in play as decided by the Mediator."
+    },
+    {
+      "name": "Free Action",
+      "info": "",
+      "detail": "A simple action like talking which does not take up much time in a round and can be done for free."
+    },
+    {
+      "name": "Group",
+      "info": "",
+      "detail": "The Pilots and their Mechs count as a group and will often be referred to as such. Any allied group \ncounts as a group as well. During Group Initiative, play switches between different groups."
+    },
+    {
+      "name": "Heat",
+      "info": "",
+      "detail": "Generates on your Mech when you perform various tasks. When you reach your Heat Capacity you must make a Heat Check. If you start your turn at your Heat Capacity you must also make a Heat Check."
+    },
+    {
+      "name": "Heat Check",
+      "info": "",
+      "detail": "To make a Heat Check you roll a d20. If the result is equal to or under your current Heat you must roll on the Reactor Overload Table. A roll of a 20 is always a success, as your Heat Capacity can be higher than 20."
+    },
+    {
+      "name": "Hit Points",
+      "info": "",
+      "detail": "How resilient your Pilot, a creature, or a person is. When your Pilot is reduced to 0 HP they must \nroll on the Critical Injury Table. NPCs typically die at 0 HP. Any attack that deals SP damage \ndeals 2× that amount to anything that has a Hit Point value."
+    },
+    {
+      "name": "Hybrid Classes",
+      "info": "",
+      "detail": "A Pilot that has specialized in multiple roles. A \nPilot can advance into a Hybrid Class once they have taken 6 Core Abilities,\nincluding all 3 Abilities linked to the Hybrid Class they have chosen.\n\nFor example the Engineer must take all 3 Abilities in the Forging Tree before advancing into the \nFabricator Class. Once a Pilot has chosen their Hybrid Class they cannot advance into any other \nHybrid Class or Advanced Tree. They also can no longer choose Abilities from their Core Class that \ntheir Hybrid Class cannot learn.\n\nFor example if the Engineer advances into the Fabricator Class they cannot take any Abilities \nfrom the Mech-Tech Tree, though they can retain any Abilities they have previously picked from \nthat tree."
+    },
+    {
+      "name": "Incapacitated",
+      "info": "",
+      "detail": "If a creature is incapacitated it is unconscious and typically on 0 HP. A death blow can be performed upon an incapacitated creature."
+    },
+    {
+      "name": "Inoperable",
+      "info": "",
+      "detail": "If a System, Module, Chassis, Vehicle, or Pilot Equipment is inoperable it cannot be used in \nany way. Mechs and Vehicles cannot be piloted, weapons cannot be used to make attacks, and no Abilities can be activated. This typically applies when damaged, but some effects will also make things inoperable."
+    },
+    {
+      "name": "Intact",
+      "info": "",
+      "detail": "If a System, Module, Chassis, Vehicle, or Pilot Equipment has the Intact Condition, it is in full \nworking order and can be used normally."
+    },
+    {
+      "name": "Integrated",
+      "info": "",
+      "detail": "If a System or Module is integrated into a Mech Chassis it comes as part of it. It does not take \nup any additional System or Module Slots and cannot be removed, replaced or fitted on another \nMech. It can still be targeted with any Ability that would target a System or Module. If damaged or \ndestroyed it can be repaired or restored by any effect that would Repair the Chassis. Use the \nTech Level and Salvage Value of the Chassis for any such Abilities."
+    },
+    {
+      "name": "Irradiated",
+      "info": "",
+      "detail": "An area that’s Irradiated puts strain on Mech reactors, causes wildlife to wither and die, blights \nsoil and causes untold damage to humans and animals in the area. \n\nMechs in an irradiated area increase their Heat by 1 every hour they are within it. \n\nPilots exposed in an irradiated area can suffer  bloody vomit, internal bleeding, fever, infection, \nand eventually death, gaining a Major Injury every day they are exposed.\n\nRadiation storms are significantly more likely to occur in Irradiated areas and Bio-Titans and \nmutants are likely to be found within the area. This effect lasts in the area for at least 1 to 5 \nyears. In extreme cases the area can be irradiated for 1,000 to 20,000 years"
+    },
+    {
+      "name": "Lance",
+      "info": "",
+      "detail": "A formation of four Mechs, typically referred to in the context of combat"
+    },
+    {
+      "name": "Legendary Abilities",
+      "info": "",
+      "detail": "Powerful, end game, Abilities that a Core Class and Hybrid Class gains access to once they have trained in 6 Core Abilities and 3 Advanced Abilities. Trained with 3 Training Points during Downtime."
+    },
+    {
+      "name": "Long Action",
+      "info": "",
+      "detail": "An action that takes an hour to complete. This includes actions such as area salvaging as well as many Systems, Modules, and Abilities. It is also the length needed to fully Shutdown a Mech and reduce its Heat to 0."
+    },
+    {
+      "name": "Major Injury",
+      "info": "",
+      "detail": "A significant injury such as broken bones, permanent scarring, deep burns or cranial fractures. \nYour Max Health is permanently reduced by 2 until healed during Downtime in a Tech 5-6 Med \nBay."
+    },
+    {
+      "name": "Mech",
+      "info": "",
+      "detail": "A walking, armored, and often armed mechanical construct that can be piloted. You will spend \nmuch of the game controlling one of these."
+    },
+    {
+      "name": "Meld",
+      "info": "",
+      "detail": "The Meld are an intelligent, alien, nanite entity that can take over creatures and machines. Can \nbe Salvaged for Meld Nanites."
+    },
+    {
+      "name": "Minor Injury",
+      "info": "",
+      "detail": "A simple injury such as a scar, burn, or laceration. Your Max Hit Points are permanently reduced \nby 1 until healed during Downtime in a Tech 3-4 Med Bay."
+    },
+    {
+      "name": "Module",
+      "info": "",
+      "detail": "An internal part such as a communicator, hacking chip, or coolant flow manifold that \ninserts into a Mech."
+    },
+    {
+      "name": "Module Slots",
+      "info": "",
+      "detail": "The total number of Modules a Mech can install. Also the number of Modules a Module takes up \non a Mech."
+    },
+    {
+      "name": "Morale",
+      "info": "",
+      "detail": "The will of an NPC to stay engaged in combat or dangerous situations. NPCs make Morale \nChecks by rolling on the Morale Table when they are injured, or see their allies hurt. This can cause \nthem to retreat or surrender.  Player Pilots never roll morale and must decide themselves whether \nthey fight or flee in a situation."
+    },
+    {
+      "name": "Mount / Dismount",
+      "info": "",
+      "detail": "Mounting and Dismounting are actions that Mechs and Pilots can perform if they have access to a System or Module with the Rigging Trait. This lets them remove and attach Systems and Modules to a Mech. \n\nYou may not Mount a damaged System or Module to a Mech. "
+    },
+    {
+      "name": "Move",
+      "info": "",
+      "detail": "Refers to moving from one Range Band to another. E.g. from Medium Range to Long Range. \nCan be done once during your turn by default."
+    },
+    {
+      "name": "Operable",
+      "info": "",
+      "detail": "If a System, Module, Chassis, Vehicle, or Pilot Equipment is operable it can be used, piloted, \nused to make an attack, and any of its Abilities can be activated as normal."
+    },
+    {
+      "name": "Passive",
+      "info": "",
+      "detail": "Denotes that a System, Module, Pilot Equipment or Ability is used passively, often refers to things that increase a stat such as the Capacitance Bank System or are always assumed active such as a Locomotion System."
+    },
+    {
+      "name": "People",
+      "info": "",
+      "detail": "People are any human or human-like beings in the game such as wasters, cyborgs, and salvagers."
+    },
+    {
+      "name": "Pilot",
+      "info": "",
+      "detail": "Refers typically to the player’s Pilot character who controls their Mech. Can also refer to NPC Pilots in the world."
+    },
+    {
+      "name": "Pilot Equipment",
+      "info": "",
+      "detail": "Gear and personal items that Pilots carry. Each takes up 1 Inventory Slot."
+    },
+    {
+      "name": "Prone",
+      "info": "",
+      "detail": "If something is Prone it has fallen over, been knocked down, and is on the ground. It gains \nthe Immobile and Vulnerable Traits. It takes a Turn Action to get up from being prone. "
+    },
+    {
+      "name": "Push",
+      "info": "",
+      "detail": "You may choose to Push your Mech after you roll the die. This allows you to re-roll the die, but \nyou must accept the second result. Your Mech then increases its Heat by 2 and must make a \nHeat Check.\n\nIf you Push ‘for free’ you may re-roll the die without adding Heat or making a Heat Check. Pilots cannot Push rolls and roll the die once for all actions, unless otherwise noted."
+    },
+    {
+      "name": "Range",
+      "info": "",
+      "detail": "The Range of a System, Module, Ability, or Pilot Equipment. Splits into Close Range, Medium \nRange, Long Range, and Far Range. Ranges in Salvage Union are intended to be relative."
+    },
+    {
+      "name": "Ranged Weapon",
+      "info": "",
+      "detail": "Any weapon that does not have the Melee Trait and is used to make some sort of Ranged based \nattack counts as a Ranged weapon."
+    },
+    {
+      "name": "Reaction",
+      "info": "",
+      "detail": "A type of action typically done in response to something such as activating a shield when \ngetting hit or attempting to escape from a Mech when it is destroyed.\n\nA Player may always choose to use a Reaction System, Module, or Ability as a Turn Action \ninstead if they wish."
+    },
+    {
+      "name": "Retreat",
+      "info": "",
+      "detail": "Pilots and NPCs can use the Retreat Ability during an Action Scene to flee from a combat \nor dangerous situation as a group. This involves rolling on the Retreat Table to find out what \nhappens."
+    },
+    {
+      "name": "Round",
+      "info": "",
+      "detail": "A Round is over in an action scene when every character in the scene has taken a turn. Play then \npasses to the next round."
+    },
+    {
+      "name": "Salvage Value",
+      "info": "",
+      "detail": "Each Mech, System, and Module has a Salvage Value represented by this symbol. This value determines the following:\n\n• The amount of Salvage you get when you \nperform the Scrap action on a Chassis, System, \nModule, Vehicle, or Bio-Titan. \n\n• The amount of Scrap you need to use of its \nTech Level or higher to repair a damaged \nChassis, System, or Module.\n \n• The amount of Cargo Slots a System, Module, \nor Chassis takes up on a Mech."
+    },
+    {
+      "name": "Scrap",
+      "info": "",
+      "detail": "Scrap is an abstract representation of the wide array of components that can be salvaged in the wastelands. They can include semiconductors, wiring looms, titanium alloys, and more, but the name is only there to provide in-game flavour.\n\nThere are six Tech Levels of Scrap broadly representing the rarity, value, and complexity of the components. Scrap is used as a form of barter based currency and can be used to craft and repair Mech Chassis, Systems, and Modules. Scrap takes up 1 Cargo Slot on a Mech and 3 Inventory Slots on a Pilot."
+    },
+    {
+      "name": "Setback",
+      "info": "",
+      "detail": "A consequence that can occur as a result of Pilot actions, rolling a Tough choice or when \nThe Mediator decides. Can include taking damage, Systems or Modules being damaged, \nallies refusing to work with you, being attacked, gaining Heat or wasting an hour of time. A Severe \nSetback is a harsher version of this with more extreme consequences."
+    },
+    {
+      "name": "Severe Environmental Effects",
+      "info": "",
+      "detail": "Severe environmental effects include extreme heat and cold, solar storms, firestorms, hailstorms, tsunamis, acid rain, hurricanes and tornadoes. These all have a variety of severely negative effects in play as decided by the Mediator."
+    },
+    {
+      "name": "Short Action",
+      "info": "",
+      "detail": "An action that takes about 10 minutes to complete and is typically used outside of action \nscenes. "
+    },
+    {
+      "name": "Shutdown",
+      "info": "",
+      "detail": "A Mech that is Shutdown is inoperable and gains the Vulnerable Trait. It cannot be used in any way. \nIf a Mech is Shutdown fully for an hour, it reduces its Heat to 0. A Pilot can activate a Shutdown \nMech as a Turn Action. It takes a Mech a Turn to boot up from Shutdown and it will be active at \nthe start of that Pilots next Turn."
+    },
+    {
+      "name": "Squad",
+      "info": "",
+      "detail": "Groups of NPCs are collected into Squads for ease of use and tracking in play. These have \nhigher HP and do more damage than individual units and often have multiple attacks."
+    },
+    {
+      "name": "Structure Points",
+      "info": "",
+      "detail": "How resilient to damage a Mech, Vehicle, or Bio-Titan is. When this reaches 0, you must roll \non the Critical Damage Table to find out what happens to your Mech. NPCs are typically \ndamaged or destroyed at 0 SP. If something has Structure Points, any attack that deals HP \ndamage deals half damage to it instead. Vehicles, Bio-Titans, Drones, and many other tough \ncreatures have Structure Points as well and this applies to them too."
+    },
+    {
+      "name": "System",
+      "info": "",
+      "detail": "An external part such as a weapon, arm, or tool that attaches to a Mech. "
+    },
+    {
+      "name": "System Slots",
+      "info": "",
+      "detail": "The total number of Systems a Mech can mount. Also the number of System Slots a System takes \nup on a Mech. "
+    },
+    {
+      "name": "Tech Level",
+      "info": "",
+      "detail": "How technologically advanced a Mech Chassis, System, Module, Vehicle, or Pilot Equipment is, \nas well as a determination of the value of Scrap."
+    },
+    {
+      "name": "Turn",
+      "info": "",
+      "detail": "A turn is a unit of measurement during action scenes within the game. During a turn a Mech, Pilot, or NPC can move a Range band in any direction and take a Turn Action such as making an attack or using certain Abilities."
+    },
+    {
+      "name": "Turn Action",
+      "info": "",
+      "detail": "An action that takes around a minute to complete and can be done once in a standard turn."
+    },
+    {
+      "name": "Turrets",
+      "info": "",
+      "detail": "Static form of automated or manned defense. Unless otherwise stated Turrets have the Immobile Trait and deal damage as their Weapon System. They have SP equal to 2× their Weapon Systems Tech Level, for example a Green Laser Turret has 4 SP and attacks as a Green Laser. (p. 170)"
+    },
+    {
+      "name": "Union Crawler",
+      "info": "",
+      "detail": " A large Mech which is home to an entire community of salvagers and is capable of deploying \nMechs. It has a range of facilities split into Bays which enable a wide range of actions such as \ntraining Abilities and gathering rumors and requires Upkeep to keep functioning."
+    },
+    {
+      "name": "Vehicle",
+      "info": "",
+      "detail": "Any non-Mech mechanical transport that can be driven or piloted is counted as a vehicle. This \nincludes the likes of cars, power loaders, trucks, tanks, and helicopters. "
+    },
+    {
+      "name": "Weapons System",
+      "info": "",
+      "detail": "A Weapons System is any System that has an explicit damage value within its stat block. For \nexample, a Green Laser, Missile Pod, or a Heavy Duty Mining Rig. All Weapons Systems require a \nTurn Action to activate unless stated otherwise"
+    },
+    {
+      "name": "Wheeled",
+      "info": "",
+      "detail": "If something is wheeled it moves via use of wheels. Wheeled vehicles cannot cross areas of \nDifficult Terrain and can only be used effectively on roads or other flat expanses, few of which \nexist in the wastelands."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Tech 1 (Systems)",
+  "data": [
+    {
+      "name": ".50 Cal Machine Gun",
+      "info": "Range: Close // Damage: 2 SP // Ballistic // Jamming // Pinning ",
+      "detail": "`T1`  🔺 -  1 ⚙️ - 1\n\nThis simple ballistic weapon of the Opus Institute design fires solid, high calibre rounds that can puncture a Mech hull and shred through infantry. It has been a main- stay of battlefields for as long as anyone remembers and remains ubiquitous today."
+    },
+    {
+      "name": "Armour Plating",
+      "info": "Passive",
+      "detail": "`T1`  🔺 -  2 ⚙️ - 1\n\n\nSlapping some extra layers of scrap on your Mech can make you feel more comfortable about piloting a nuclear reactor-powered death machine.\n\nThe first time that your Mech is hit by an attack, or takes damage, prevent the damage and all effects of the attack. Your Armour Plating System is then destroyed."
+    },
+    {
+      "name": "Cargo Pod",
+      "info": "Passive",
+      "detail": "`T1`  🔺 -  1 ⚙️ - 1\n\nThis small cargo pod allows you to squeeze that extra bit of storage space out of your Mech.\n\nA Cargo Pod increases the Cargo Capacity of a Mech by 1. "
+    },
+    {
+      "name": "Chainsaw Arm",
+      "info": "Range: Close // Damage: 2 SP // Melee // Salvaging",
+      "detail": "`T1`  🔺 -  3 ⚙️ - 3\n\nOriginally developed as a tool for lumberjack Mechs by Hodgson & Vasquez, an Evantis subsidiary, this saw arm has remained in use for its salvaging capabilities, utility, and stopping power even as the forests have been cut down across the world"
+    },
+    {
+      "name": "Escape Hatch",
+      "info": "Reaction // Escape // Recommended System",
+      "detail": "*Recommended System*\n\n`T1`  🔺 -  1 ⚙️ - 1\n\nAn Escape Hatch is a sealed hatch that can be opened and escaped through in the event a Mech suffers critical damage or the Pilot needs to make a swift exit. When activated, by pulling a lever, a bolted charge blows the Escape Hatch from the Mech Chassis, allowing for the Pilot to crawl through to safety.\n\n*ROLL THE DIE:*\n\n`20`: You escape safely from your Mech in Medium Range.\n`11 - 19`: You escape safely from your Mech in Close Range.\n`6 - 10`: You escape in Close Range, but are injured in the process. Roll on the Critical Injury Table.\n`2 - 5`: The Escape Hatch fails to trigger and is damaged in the process, it must be repaired to Intact Condition to be used again.\n`1`: The Escape Hatch severely malfunctions trapping you in your Mech and injuring you. You must roll on the Critical Injury Table,"
+    },
+    {
+      "name": "Floodlights",
+      "info": "Free Action // Range: Medium",
+      "detail": "`T1`  🔺 -  1 ⚙️ - 1\n\nFloodlights, light up a wide area up to Medium Range from a Mech as a Free Action. This allows you to see more clearly in dark or foggy conditions. The Floodlights can be adjusted for tight or wide beam illumination."
+    },
+    {
+      "name": "FM-3 Flamethrower",
+      "info": "Range: Close // Damage: 1 SP // Anti-Organic // Burn (1) // Overheat",
+      "detail": "`T1`  🔺 -  3 ⚙️ - 3\n\nDeveloped by the Opus Institute for use in forestry and demolition operations, or at least that is what they tell themselves. The FM-3 shoots a superheated stream of fire at a target. Most Mechs are armoured enough that this only licks them, but it can mess up internals enough to stop them firing anything hot back at you. Flesh bubbles and screams."
+    },
+    {
+      "name": "High Pressure Hose",
+      "info": "Turn Action // Range: Close // Pinning // Uses (5)",
+      "detail": "`T1`  🔺 -  2 ⚙️ - 2\n\nA useful tool in the wastes, the Opus Institute originally designed the High Pressure Hose and was the first to make the blueprints freely available for use by fire fighting Mechs following the chaos of Impact Day. Sakura Futures would deploy them as a riot control measure against waves of food protestors. Though somewhat limited by its heavy water tank, this can be refilled in the field.\n\nYou fire a stream of highly pressurized water at any target or location in Range.\nThis can douse fire and make ground boggy and wet. A Mech doused in water\nreduces its Heat by 1. "
+    },
+    {
+      "name": "Hydraulic Crusher",
+      "info": "Range: Close // Damage: 3 SP // Melee // Rigging // Salvaging // Unwieldy",
+      "detail": "`T1` 🔺 - 4 ⚙️ - 4\n\nThis hydraulic crushing system can be used to scour an area of salvage or as an impromptu weapon. Sometimes both. \n\nWhen you Area Salvage with this System you gain a single additional Scrap of the Tech Level of the area in addition to what you roll on the Area Salvaging Table."
+    },
+    {
+      "name": "Locomotion System",
+      "info": "Passive // Recommended System",
+      "detail": "*Recommended System*\n\n`T1`  🔺 -  2 ⚙️ - 2\n\nA sturdy and dependable Locomotion System allowing a Mech to traverse most standard terrain types and adaptable to fit on most Chassis. Locomotion Systems vary widely from bipedal to quadrupedal,\nand beyond. Some esoteric designs are\nknown to have as many as eight legs!\n\nA Locomotion System allows a Mech to move normally. If a Mech does not have\na Locomotion System or it is damage."
+    },
+    {
+      "name": "Loud Speakers",
+      "info": "Free Action // Range: Medium",
+      "detail": "`T1`  🔺 -  1 ⚙️ - 1\n\nThese externally mounted speakers can be clearly heard by anything up to Medium Range from you. They can be used to communicate externally with those outside of your Mech or play some beats from your cassette deck.\n\nThe Immortan Raiders made effective use of Loudspeakers as a crude shock and\nawe tool during their devastating raids in the Ferrous Wars. "
+    },
+    {
+      "name": "Mechapult",
+      "info": "Turn Action // Range: Long",
+      "detail": "`T1`  🔺 -  5 ⚙️ - 3\n\nThe Mechapult is an invention that could only have been thought of by salvagers. Scrap has many uses in the wastelands from trade, from crafting to repair and most obviously launching at high velocity towards whoever looked at you the wrong way.\n\nA Mechapult must be loaded with one piece of Scrap to fire. The effect is randomly determined and differs based on the Tech Level of Scrap you choose. Choose a target in Range to fire the Mechapult at. Instead of making an attack roll, roll the die on the table below to determine the effect. You may Push this roll as normal. The Scrap is always destroyed irrespective of the result.\n\n*ROLL THE DIE*:\n\n`20`: A dense ball of concentrated scrap hits the target with catastrophic force dealing SP damage equal to 6× the Tech Level of the Scrap.\n`19`: A heavy lump of scrap strikes the target with a devastating blow. The target is hit for SP damage equal to 4× the Tech Level of the Scrap\n`18`: The scrap carves through the target flaying chunks off of it. A number of random Systems equal to the Tech Level of the Scrap on the target are damaged. In addition, it takes SP damage equal to the 2× Tech Level of the Scrap.\n`17`: A bundle of carbon fibre rods fire at the target. It takes SP damage equal to 3× the Tech Level of the Scrap and is skewered to the ground. It cannot move and gains the Vulnerable Trait until it takes an action to free itself.\n`16`: Shards of refractive glass fire at the target. It is hit for SP damage equal to 2× the Tech Level of the Scrap and the area around the target is hit by multiple rays of dazzling light, blinding the target and everything within Close Range for one round.\n`15`: A chaotic mess of circuit boards hits the target causing a static discharge. The target Mech is Shutdown for one turn.\n`14`: The Mechapult was loaded with crude oil. The target is hit for SP damage equal to 2× the Tech Level of the Scrap and the area around them is coated in slippery, flammable oil. This can be ignited and moving within it can cause a Mech or Creature to fall prone.\n`13`: Streams of superheated gas lash out at the target. The attack deals SP damage equal to the 2× the Tech Level of the Scrap and the attack has the Burn (X) Trait, where X is the Tech Level of the Scrap.\n`12`: The target is struck by dense coils of wiring looms which wind around it. It takes SP damage equal to 2× the Tech Level of the Scrap and falls Prone.\n`11`: Heavy superconductors charged with electricity arc towards the target. The target and up to three other targets within Medium Range of the target of your choice each take SP damage equal to 2× the Tech Level of the Scrap. Each of these attacks count as having the Ion Trait.\n`10`: A leaky uranium shell strikes the target. It takes SP damage equal to 3× the Tech Level of the Scrap. The target and the area within Close Range of it becomes Irradiated.\n`9`: A superheated lump of scrap is fired at the target. The target is hit for SP damage equal to 2× the Tech Level of the Scrap and this attack has the Explosive (X) and Burn (X) Trait where X is the Tech Level of the Scrap. Your Mech gains 2 Heat and must make a Heat Check.\n`8`: Splat! A wasteland critter was inadvertently caught in the Mechapult when it launched and has smeared gore over the target. The target is hit for Tech Level of the Scrap and must make a Morale Check.\n`7`: The Mechapult guzzles up another piece of Scrap and fires them both. A random piece of Scrap your Mech is carrying is loaded onto the Mechapult. Roll on the Mechapult Table twice and resolve both results. If you have no other Scrap, then roll once on the Mechapult Table and resolve the result.\n`6`: A shower of pistons, gears, and mechanisms scatters across the area wildly. Every target within Long Range, including Allies, takes SP damage equal to the Tech Level of the Scrap.\n`5`: Dense slabs of rigid plastics fire from the Mechapult into the ground around you. These act as a barricade protecting your Mech from harm. For the next 10 minutes you may use them as though they were a single Armour Plating System.\n`4`: The Mechapult swings wildly out of control. Your Mech spins in a random direction and hits a random target within Range for SP damage equal to 3× the Tech Level of the Scrap.\n`3`: The Mechapult backfires, hitting a random Ally in Range for SP damage equal to the Tech Level of the Scrap.\n`2`: The Mechapult overloads collapsing in on itself. Your Mech takes damage equal to the Tech Level of the Scrap and the Mechapult is damaged.\n`1`: The Mechapult explodes and is destroyed. Deal SP damage equal to 2×\nthe Tech Level of the Scrap to your Mech and everything within Close Range."
+    },
+    {
+      "name": "Mini Mortar",
+      "info": "Range: Medium // Damage: 5 SP // Explosive (1) // Uses (5)",
+      "detail": "`T1`  🔺 -  5 ⚙️ - 5\n\nThe Herrsch Pattern Miniaturised Mortar lobs an explosive, high velocity round against a target, flaying everything around it with superheated shrapnel. "
+    },
+    {
+      "name": "Mining Rig",
+      "info": "Range: Close // Damage: 4 SP // Melee // Salvaging // Unwieldy",
+      "detail": "`T1`  🔺 -  5 ⚙️ - 5\n\nAn industrial excavator designed for mining and salvaging operations. Allows drilling, excavating, and salvaging of rock and other dense material. These were used extensively in the Ferrous Range by Thatcher Steel miners and their carcasses still litter the rocky outcrops. "
+    },
+    {
+      "name": "Red Laser",
+      "info": "Range: Close // Damage: 3 SP // Energy // Hot (1)",
+      "detail": "`T1`  🔺 -  3 ⚙️ - 3\n\nRed lasers strike a target with a small, focussed beam of heat. Their blueprint has been made widely available by the Opus Institute and are commonly used by corpos as much as they are by salvagers and wastelanders."
+    },
+    {
+      "name": "Rigging Arm",
+      "info": "Range: Close // Rigging",
+      "detail": "`T1`  🔺 -  2 ⚙️ - 2\n\nThis industrial rigging arm is designed to enable a Mech to pick up and manipulate objects in its external environment. \n\nIt is important to note that Mechs are not equipped with arms by default. \n\nTo avoid any embarrassment in the field, please remember to install a Rigging Arm on your Mech, as it will be unable to pick up objects without one."
+    },
+    {
+      "name": "Riveting gun",
+      "info": "",
+      "detail": "`T1`  🔺 -  3 ⚙️ - 4\n\nThis mech-mountable riveting gun can be used to make field repairs to the most basic of Mechs, Systems, and Modules.\n\n*2EP Patch*\n`Range: Close // Turn Action`\nYou restore up to 4 Structure Points to any Mech in Range that has at least 1 SP.\n\n*2EP System Repair*\n`Range: Close // Short Action`\nYou repair a damaged Tech 1 System or Module in Range to Intact Condition. It is now usable.\n\n*4EP Chassis Repair*\n``Range: Close // Long Action``\nYou repair a damaged Tech 1 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP"
+    },
+    {
+      "name": "Sand Blaster",
+      "info": "Turn Action // Range: Close // Damage: 1 SP",
+      "detail": "`T1`  🔺 -  3 ⚙️ - 2\n\nA compressor and a nozzle which propels an abrasive material like sand to slowly erode, clean, or shape a surface.\n\nAny target hit cannot use any system or module with the targeter trait for 1 turn."
+    },
+    {
+      "name": "Transport Hold",
+      "info": "Passive",
+      "detail": "`T1`  🔺 -  2 ⚙️ - 2\n\nA simple hold designed to store salvage on a Mech. Not the most flashy option, but nothing beats the feeling of having a hold full of Scrap to bring home to the Crawler. A Transport Hold increases the Cargo Capacity of a Mech by 4."
+    }
+  ]
+}

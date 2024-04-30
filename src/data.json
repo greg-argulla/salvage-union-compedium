@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1714464014993,
+    "isGM": false,
+    "details": {
+      "callsign": "Encode here",
+      "class": "",
+      "motto": "",
+      "keepsake": "",
+      "background": "",
+      "appearance": "",
+      "mottoUsed": false,
+      "keepsakeUsed": false,
+      "backgroundUsed": false,
+      "avatar": ""
+    },
+    "stats": {
+      "HP": 10,
+      "maxHP": 10,
+      "AP": 5,
+      "maxAP": 5,
+      "TP": 0,
+      "SP": 0,
+      "EP": 0,
+      "HT": 0,
+      "T1": 0,
+      "T2": 0,
+      "T3": 0,
+      "T4": 0,
+      "T5": 0,
+      "T6": 0
+    },
+    "abilities": [
+      {
+        "categoryName": "Tech 1 (Systems)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 2 (Systems)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 3 (Systems)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 4 (Systems)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": false
+      },
+      {
+        "categoryName": "Tech 5 (Systems)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 6 (Systems)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 1 (Modules)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 2 (Modules)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 3 (Modules)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 4 (Modules)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 5 (Modules)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 6 (Modules)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 1 (Chassis)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": false
+      },
+      {
+        "categoryName": "Tech 2 (Chassis)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": false
+      },
+      {
+        "categoryName": "Tech 3 (Chassis)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 4 (Chassis)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 5 (Chassis)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 6 (Chassis)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Tech 1 (Equipment)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": false
+      },
+      {
+        "categoryName": "Tech 2 (Equipment)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": false
+      },
+      {
+        "categoryName": "Tech 3 (Equipment)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": false
+      },
+      {
+        "categoryName": "Tech 4 (Equipment)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": false
+      },
+      {
+        "categoryName": "Tech 5 (Equipment)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": false
+      },
+      {
+        "categoryName": "Tech 6 (Equipment)",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": false
+      },
+      {
+        "categoryName": "Traits",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [],
+        "collapse": false
+      }
+    ],
+    "mechs": [],
+    "lastEdit": "58e53dfe-1e2f-482a-807a-df1fad3c1cef"
+  },
+  {
+    "id": 1714464876561,
+    "isGM": false,
+    "details": {
+      "callsign": "Classes",
+      "class": "",
+      "motto": "",
+      "keepsake": "",
+      "background": "",
+      "appearance": "",
+      "mottoUsed": false,
+      "keepsakeUsed": false,
+      "backgroundUsed": false,
+      "avatar": ""
+    },
+    "stats": {
+      "HP": 10,
+      "maxHP": 10,
+      "AP": 5,
+      "maxAP": 5,
+      "TP": 0,
+      "SP": 0,
+      "EP": 0,
+      "HT": 0,
+      "T1": 0,
+      "T2": 0,
+      "T3": 0,
+      "T4": 0,
+      "T5": 0,
+      "T6": 0
+    },
+    "abilities": [
+      {
+        "categoryName": "Engineer",
+        "categoryInfo": "",
+        "edit": true,
+        "items": [
+          {
+            "name": "Mechanical Knowledge Tree",
+            "info": "",
+            "detail": "*1: Engineering Expertise*\n`1AP//TURN ACTION\nYou are able to answer questions pertaining to mechanical and engineering topics.\nYou may ask the Mediator two questions that cover these areas, and they must answer truthfully. \nYou can use this Ability to ask for the full stats of any Mech Chassis, System, Module, or Pilot \nEquipment that you can see and interact with, as one of these questions. \n\n*2: Talk Shop*\n`3AP//TURN ACTION`\nYou can easily converse and build rapport with other mechanics, salvagers, workers, \nwith at least 1 SP. and similar wasteland folk. You invent a local saying to exchange with the person you are talking to, something like, “The only thing that overcomes hard luck is hard work” or “Get the show on the road”. Explain what this means\n\nYou are now friendly with this NPC and can ask them for three of the following favours. You \nmay choose the same option multiple times.\n\n• Restore up to 4 SP on a single Mech or Vehicle with at least 1 SP.\n• Answer any question about the local area, Mechs, and mechanical & engineering topics.\n • Repair a single damaged System or Module to Intact Condition. This must be of a Tech Level \nthe wastelander could reasonably repair as decided by the Mediator. \n• Provide food, shelter, and lodgings for you and the other salvagers in your crew.\n• Provide a favour within their power and ability to grant as adjudicated by the Mediator.\n\nIf you meet that same person again you may repeat the phrase and they will offer you a single favour.\n\nYou may deploy your Auto-Turret in a location you are in as a Turn Action\n\nYour Auto-Turret has a unique personality. Choose this or roll on the A.I. Personality Table \np. 91. Name your Auto-Turret if you want to get especially attached.\n\nYour Auto-Turret has a Tech Level equal to your Union Crawler. Your Auto-Turret is upgraded \nalong with your Union Crawler, it gains additional stats as shown for each Tech level above the first. If your Auto-Turret becomes destroyed or is misplaced you can acquire a new one during Downtime. You may only ever have one Auto-Turret at a time. \n\n*Auto-Turret*\n`Structure Pts`: 9\n`Energy Pts`: 2\n`Heat Cap:` 4\n`System Slots:` 9\n`Module Slots:` 1\n`Cargo Cap:` -\n`Tech Level:` 1\n`Salvage Value:` 2\n\n*BONUS per Tech Level(FOR AUTO-TURRET)*\n`Structure Pts`: +3\n`Energy Pts`: +2\n`Heat Cap:` +2\n`System Slots:` +3\n`Module Slots:` +1\n`Cargo Cap:` -\n`Tech Level:` +1\n`Salvage Value:` -\n\n`Immobile:` Your Auto-Turret cannot move, even\nif you attach a Locomotion System, it will be unable\nto move.\n`Portable:` Your Auto-Turret takes up 2 Pilot \nInventory Slots\n\n*3: Mech Acquisition*\n`2AP//LONG ACTION`\nYou are able to use your intimate knowledge of engineering to track down and acquire specific \nMech parts within wasteland settlements and trading hubs.\n\nYou may use this Ability in the field when you are in a settlement within the wastelands or \nany location that has access to Mech parts. Name any Mech Chassis, System, or Module \nof a Tech Level less than, equal to, or one level higher than the settlement you are in. The Mediator\ndecides the Tech Level of the settlement. This now becomes available for purchase for \nan amount of Scrap equal to its Salvage Value of its Tech Level. It is in the Intact Condition.\n\n• Wastelander Settlements typically have a \nTech Level of 1-2 \n• Corporate Settlements typically have a Tech \nLevel of 3-4\n• Corporate Arcos typically have a Tech Level \nof 5-6\n\nDuring Downtime this Ability may instead be used once, at no cost, to allow you to choose \nany Mech Chassis, System, or Module of a Tech Level less than, equal to or one level higher than \nyour Union Crawler.\n\nThis becomes available to purchase in Intact Condition within your Trading Bay as per the \nnormal trading rules (see p. 222)\n\n\n\n\n\n\n\n"
+          },
+          {
+            "name": "Mech-Tech Tree",
+            "info": "",
+            "detail": "*1: Mass Field Maintenance*\n`XAP//LONG ACTION// RANGE: CLOSE`\nFor each Ability Point you spend when you activate this\nAbility you restore up to 4 SP amongst any number of target Mechs or Vehicles within Range,\nas long as they have at least 1 SP.\n\nFor example, if you spend 3 AP you may restore up to 12 SP between all target Mechs or Vehicles.\nYou may distribute this SP however you wish amongst the targets. \n\n*2: IF I cut this wire...*\n`2AP//TURN ACTION//RANGE: CLOSE`\nYou can work out exactly where to target a Mech in order to disable its Systems or Modules. Describe how you do this.\n\nPick a System or Module on a target Mech within Range. It becomes damaged and cannot be used until repaired.\n\n*3: Mass field Repair*\n`XAP//LONG ACTION//RANGE: CLOSE`\nYou repair any number of damaged Mech Chassis, Vehicles, Systems, or Modules within \nRange to Intact Condition. They must be of a Tech Level equal to or lower than your Union Crawler. \n\nThis Ability costs 1 AP per target that you repair.\n\n\n"
+          },
+          {
+            "name": "Forging Tree",
+            "info": "",
+            "detail": "*Jury Rig*\n`2AP//TURN ACTION`\nYou are able to hastily craft improvised equipment from everyday objects taken from your surroundings. \n\nWhen you are in an area with everyday objects at your disposal, you may craft any Pilot Equipment\nof your choice of a Tech Level equal to or lower than your Union Crawler.\n\nThis Pilot Equipment gains the Unwieldy Trait, and is destroyed on any roll of 1-5 when used, in addition to any other setbacks.\n\n*2: Mech-Gyver*\n`3AP//SHORT ACTION`\nYour ability to improvise extends to being able to craft mech parts from scrap in the field. \n\nWhen you are in an area with Scrap at your disposal, you may craft any System or Module \nof your choice of a Tech Level equal to or lower than your Union Crawler. You must spend \n1 Scrap of the Tech Level of the System or Module or higher to use this Ability.\n\nThis System or Module gains the Unwieldy Trait, and is destroyed on any roll of 1-5 when \nused, in addition to any other setbacks.\n\n*3: Auto-Turret*\n`Pilot Equipment`\nYou construct an immobile Auto-Turret and train yourself in using it. Only you may use the \nAuto-Turret. It is powered by a simple reactor and controlled by a rudimentary A.I. It can \nbe used to defend an area and obey simple commands. It acts independently of you, and \nhas its own turn in the round.\n\n\n\n"
+          },
+          {
+            "name": "Advanced Engineer Tree",
+            "info": "",
+            "detail": "*1: Union Engineer*\n\n"
+          },
+          { "name": "", "info": "", "detail": "" }
+        ],
+        "collapse": true
+      },
+      {
+        "categoryName": "Soldier",
+        "categoryInfo": "",
+        "edit": true,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Scout",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Hacker",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Hauler",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Cyborg",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Fabricator",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Union Rep",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Smuggler",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      },
+      {
+        "categoryName": "Ranger",
+        "categoryInfo": "",
+        "edit": false,
+        "items": [{ "name": "", "info": "", "detail": "" }],
+        "collapse": true
+      }
+    ],
+    "mechs": [],
+    "lastEdit": "58e53dfe-1e2f-482a-807a-df1fad3c1cef"
+  },
+  {
+    "id": 1714488832515,
+    "isGM": false,
+    "details": {
+      "callsign": "Brigz's",
+      "class": "",
+      "motto": "",
+      "keepsake": "",
+      "background": "",
+      "appearance": "",
+      "mottoUsed": false,
+      "keepsakeUsed": false,
+      "backgroundUsed": false,
+      "avatar": ""
+    },
+    "stats": {
+      "HP": 10,
+      "maxHP": 10,
+      "AP": 5,
+      "maxAP": 5,
+      "TP": 0,
+      "SP": 0,
+      "EP": 0,
+      "HT": 0,
+      "T1": 0,
+      "T2": 0,
+      "T3": 0,
+      "T4": 0,
+      "T5": 0,
+      "T6": 0
+    },
+    "abilities": [
+      {
+        "categoryName": "Keywords",
+        "categoryInfo": "",
+        "edit": true,
+        "items": [],
+        "collapse": true
+      }
+    ],
+    "mechs": [],
+    "lastEdit": "58e53dfe-1e2f-482a-807a-df1fad3c1cef"
+  }
+]
