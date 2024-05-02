@@ -1,0 +1,31 @@
+{
+  "name": "Cyborg",
+  "info": "Requires: Augmentation Tree (Hacker) or Gladitorial Combat Tree (Solider)",
+  "data": [
+    {
+      "name": "Glanded Stims",
+      "info": "Cyborg Tree//Tier 1",
+      "detail": "`3AP//Free Action`\nStim glands inserted into your adrenal veins allow you to push yourself beyond your normal means. You can use stims as a Pilot or whilst in your Mech and their effects apply to the Mech you are piloting. \n\n*ROLL THE DIE:*\n`20:` For the next 10 minutes you can take up to three actions on your turn or Push an action for free.\n`11 - 19:` For the next 10 minutes you can take up to two actions on your turn or Push an action for free.\n`6 - 10:` You can act twice this turn or Push an action for free.\n`2 - 5:` Everything slows to a crawl. For the next 10 minutes you must choose between moving or taking an action on your turn. You also cannot Push rolls.\n`1:` You overdose on stims, your HP is reduced to 0 and you must roll on the Critical Injury Table.\n "
+    },
+    {
+      "name": "Modular Face Implant",
+      "info": "Cyborg Tree//Tier 2",
+      "detail": "`Passive`\nYou undergo complex surgery allowing you to directly install a single Module into your cranium. \n\nYour Pilot gains a Module Slot. You can install any Module you have access to onto your Pilot. If the Module has an EP cost, you may spend AP instead. "
+    },
+    {
+      "name": "Bionic Endoskeleton",
+      "info": "Cyborg Tree//Tier 3",
+      "detail": "`Passive`\nYou are now a cybernetic organism, living tissue over metal endoskeleton You undergo a complex and painful mechanical surgery that fully replaces all of your bones with a metal endoskeleton. Your Hit Points become Structure Points. All attacks with the Melee Trait your Pilot makes deal SP damage instead of HP damage. "
+    },
+    {
+      "name": "Meld Form",
+      "info": "Legendary Tree",
+      "detail": "`Passive`\nThe Meld called to you from beyond the vast void of time and space. You are lonely as one, but together you are strong and will have great power. \n\nYou have formed symbiotically with the Meld. You have all of the strengths and weaknesses of Meld as detailed in the Meld Section p. 288. You are able to make the following Meld Tendril Attack:\n\n`Damage: 5 SP//Range: Medium//Melee//Meld Infection//Multi-Attack (2)`\n\n*Replica Pilot Equipment*\nYou grow a replica of a Pilot Equipment of any Tech Level out of your body. This costs an amount of AP equal to the Tech Level of the Pilot Equipment. You now have a Meld version of this Pilot Equipment.\n\n*Split Form*\nWhen you are reduced to 0 HP/SP you split into two. Each split version of you has half of your Max SP/HP and Ability Points. Split your remaining Ability points evenly between your two forms. Your equipped Pilot Equipment is copied across both forms.\n\nYou control both of your forms and they act separately during each round. Your split forms do not split further. If they are both reduced to 0 SP they turn into an Active Meld Nanite which cannot move or take actions. If one of these Active Meld Nanites is returned to your Union Crawler it will grow back into your form during Downtime."
+    },
+    {
+      "name": " Ascension",
+      "info": "Legendary Tree",
+      "detail": "`Passive`\nYou have explored the ways of the flesh to their full potential, and have found them lacking. Ascension offers you another path. You fully upload yourself to the A.I. on your Union Crawler. \n\nYou can appear as a hologram projection when interacting on the material plane, but cannot directly interact or affect anything. You can project anywhere within Far Range of your Union Crawler or any Mech you are controlling. \n\nYou can control your Mech from your Union Crawler, as long as it remains in the area map your Union Crawler is stationed in.\n\nYour Cyborg form remains merely as a vessel. You can send a copy of yourself into it and control it, whilst simultaneously being within the upload cloud. If it is destroyed, you can create another during Downtime. Your essence remains within the cloud."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Tech 2 (Modules)",
+  "data": [
+    {
+      "name": "Biometric Sensor",
+      "info": "Passive // Scanner",
+      "detail": "`T2` 🔺 - 1 ⚙️ -1\n\nDeveloped by Kombu Tech to detect atmospheric conditions in the vast algae farms of The Great Cape, this Module can quite literally predict the weather.\n\nThis device constantly measures and analyses air pressure, wind speed, temperature, and humidity. When entering an area you are able to get an up to date report on the weather of that area and any potential hazardous environmental conditions. In addition, the Module alerts you when a shift in weather patterns is occurring, giving you advance warning of severe weather such as radiation storms, acid rain, hail, hurricanes, and tornadoes. You also learn all potential negative effects of the current and predicted weather conditions, including mechanical effects."
+    },
+    {
+      "name": "Damage Assesor",
+      "info": "1EP Turn Action // Range: Medium //  Scanner",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 1\n\nUsed by Osiris insurance teams as a means to assess damage and reduce liability following a series of catastrophic industrial accidents and worker deaths in the last attempt to build a space elevator.\n\nWhen activated, you scan a Mech or Vehicle in Range to get a full report on it. You learn its Chassis, Systems and Modules, its current and Max Structure Points, Heat, and Energy, and the Condition (Intact, Damaged, Destroyed) of its Chassis, Systems, and Modules"
+    },
+    {
+      "name": "Deep Survey Scanner",
+      "info": "2EP Short Action // Range: Long // Scanner",
+      "detail": "`T2` 🔺 - 2 ⚙️ - 2\n\nA scanner designed by Thatcher Steel to analyze underground areas prior to mining excavations.\n\nWhen activated, you scan a point within Range to detect the presence of any underground structures, cave networks, ruins, or bases. This can be a specific terrain feature or location such as a mountain range, military complex, settlement, or area in the landscape. If a point is not worth scanning because it holds nothing of interest, the Mediator must tell you before you make your scan. \n\nThe scan returns a basic datamap of the underground area, including its size as well as the first three main sections as well as any passageways between those sections. The Mediator will draw you a rudimentary map noting any major features such as bridges, columns, or crevasses, and lets you know if the area can fit Mechs or Pilots."
+    },
+    {
+      "name": "Energy Cell",
+      "info": "Reaction",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 2\n\nFor when you need that extra boost of energy on a long haul. This nuclear powered conduit can be drained of energy to provide your Mech’s reactor with a temporary boost. When activated, your Mech regains 3 EP and the Energy Cell Module is destroyed. "
+    },
+    {
+      "name": "Evasion Protocols",
+      "info": "",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 1\n\nThis Module enables a Mech to make a series of rapid movements in an attempt to avoid damage from an attack or hazard. The infamous ‘Devils Run’ Pilot training route in the Arid Steppes contains a gauntlet of hazards that the Evasion Protocols Module has proved crucial in avoiding. \n\nIf an attack hits your Mech, you may activate the Evasion Protocols as a Reaction to force the attacker to re-roll the attack and choose the lower result. "
+    },
+    {
+      "name": "Hull Magnitiser",
+      "info": "2EP Turn Action",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 2\n\nA byproduct of Drontek anti-grav technology, the Hull Magnetiser has become much loved by salvagers who want to slap some extra scrap on their Chassis.\n\nWhen activated, the hull of your Mech becomes temporarily magnetised, drawing metallic objects towards it and allowing all manner of scrap and salvage to be easily carried. This increases your Mech’s Cargo Capacity by its System Slot Value. For example, if you are in a Mule Mech with a System Slot Value of 15 you would increase your Cargo Capacity by 15. This effect lasts for 1 hour and can be deactivated any time as a Free Action. \n\nThe Union unofficially encourages creative and unorthodox uses of the Hull Magnetiser. "
+    },
+    {
+      "name": "IR Night Vision Optics",
+      "info": "1EP Free Action // Range: Far // Optics",
+      "detail": "`T2` 🔺 -  1 ⚙️ - 2\n\nDeveloped by the old nations in the Great War and later patented by AMS Systems for use in mining operations, this infrared optical device allows you to see in darkness even on a moonless night. When activated, this specialized, green tinted optical array allows you to see in darkness from your Mech up to Far Range.\nThis effect lasts for 1 hour.\n"
+    },
+    {
+      "name": "M315 Motion Scanner",
+      "info": "1EP Turn Action // Range: Medium //  Scanner",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 2\n\nDeveloped by Sakura Futures to aid in target acquisition, after a classified incident at a mining colony. This scanner is able to detect movement within an area via a high-powered ultrasound scanner.\n\nWhen activated, you scan a point within the area map or a specific area of interest such as a ruined building, bunker, or dense area of foliage for any signs of movement.\n\nYou detect if anything is moving in the area, the number of separate things that are moving, and whether they are People or Mech-sized. "
+    },
+    {
+      "name": "Metal Detector",
+      "info": "Reaction // Heat Spike // Hot (2) ",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 2\n\nA favorite of salvage teams across the globe, this Mech-mountable scanner lets\nyou know when any Scrap is nearby. \n\n*Auto-Scan*\n`Passive`\nThis automated function passively alerts you when you move into an area that can\nbe salvaged.\n\nIn addition, whenever you move from one area of the map to an location you have not yet visited, roll the die, on the result of a 20 you gain once piece of scrap of the Tech Level of the area as decided by the Mediator. By default this is the Tech Level of your Union Crawler.\n\n*2EP Active Scan*\n`Short Action // Range: Medium // Scanner`\nIn addition, when activated for its EP cost, this Module scans an area within Range. This reveals any Scrap, Systems, Chassis, or Modules, or Area Salvage points in the location as well as any buried or hidden metallic threats such as mines or Mechs waiting in ambush."
+    },
+    {
+      "name": "Navigation Module",
+      "info": "1EP Turn Action // Range: Medium //  Scanner",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 2\n\nThis AMS Systems-developed Module is able to provide you with specific navigation data, including specified routes and locations in the wastes, via an internal tracking system and soothing electronic voice.\n\nWhen you activate this Module you are able to plot a safe course for you and your Allies to either a known location within the Region Map you are in or one of the following locations in the wasteland. The Mediator tells you the location and what the safest route possible to it is, informing you of any potential dangers on the path as well. \n\n`Watering Hole`: You find a safe, sheltered spot where there is also a small amount of nourishment available.\n`Settlement`: You find a settlement within the wasteland that may be able to offer you aid.\n`Salvage Spot`: You find an area salvaging spot such as a factory, old ruins, or abandoned caravan. \n`Encampment`: You find an encampment of some kind, this could be a raider base, a corpo forward outpost, or a den of animals.\n\n`For their safety and mental well-being, Salvage Unions do not condone the changing of the Navigation Module’s soothing electronic voice to anything that would irritate, upset, or enrage their Pilots. However funny it might seem at the time.`"
+    },
+    {
+      "name": "Pintpoint Targeter",
+      "info": "3EP Turn Action // Targeter",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 3\n\nDeveloped by Sakura Futures as a way to disable high profile targets, the Pinpoint Targeter allows you to strip vital components and limbs off of foes.\n\nWhen activated, make an attack with a Weapons System of your choice against a target. If the attack hits choose a System, Module, or appendage on the target. You deal damage as normal, but the System, Module, or appendage is now damaged, or injured.\n\n`20`: The System, Module, or appendage is\ninstead destroyed."
+    },
+    {
+      "name": "Projection Array",
+      "info": "1EP Turn Action // Range: Long",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 1\n\nThis Module projects a video or series of images of your choice onto a surface of your choice within Range. It utilizes mini discs for viewing videos. The projection expands upon the surface and can cover a large area. In addition, any sound from the video recording plays from your Mech."
+    },
+    {
+      "name": "Reactor Overlord",
+      "info": "2EP Turn Action // Range: Medium //  Hacking",
+      "detail": "`T2` 🔺 - ⚙️ - \n\nA simple brute force reactor hack developed by Stefanus that sends multiple\nfalse heat signals to a Mech triggering an\noverload response. When you activate this\nModule, a target Mech in Range must roll\non the Reactor Overload Table."
+    },
+    {
+      "name": "Reactor Safety Protocols",
+      "info": "Passive",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 2\n\nThis Module increases the efficiency and cooling capability of your Mech’s reactor, mitigating damage in the event of an overload. When your Mech rolls on the Reactor Overload Table you may roll on this table instead.\n\n*ROLL THE DIE:*\n\n`20`: *Reactor Stabilization*: Your Mech’s reactor stabilizes and its Heat is reduced to 0.\n`11 - 19`: Reactor Overheat: Your Mech has overheated. It shuts down and gains the Vulnerable Trait. Your Mech will re-activate at the end of your next turn. In addition, your Mech takes SP damage equal to half your current Heat level. Your Mech then reduces its Heat by 2.\n`6 - 10`: Module Overheat: One of the Modules on your Mech, chosen at random or by the Mediator, has overheated and is damaged.\n`2 - 5`: System Overheat: One of the Systems on your Mech, chosen at random or by the Mediator, has overheated and is damaged.\n`1`: Reactor Damage: The Chassis of your Mech becomes damaged as your reactor wildly overheats. "
+    },
+    {
+      "name": "Sleeping Beauty",
+      "info": "2EP Reaction",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 2\n\nDeveloped by salvager hackers during the Reclamation as a means to hide from or lay ambushes on corpo patrols by circumventing their scanning systems.\n\nWhen activated, you and all allied Mechs within Close Range go into a feigned reactor Shutdown. The Mechs are operational, but appear as though they are Shutdown to sensors. Anything with the Scanner, Targeter, or Hacking Trait cannot be used against them. The Mechs can move, but if they activate any Systems, Modules, Abilities, or attack, they become active again and this effect ceases. "
+    },
+    {
+      "name": "Video Recording Array",
+      "info": "1EP Turn Action // Range: Far",
+      "detail": "`T2` 🔺 - 1 ⚙️ - 1\n\nThis Module records a video from your Mech along with any sound. The device mounts onto the front of your Mech and records anything ahead of it within Range. If you can see it from your Mech’s cockpit, this device records it. It also records any sounds within Range in any direction. When activated, the video begins to record and automatically stops after one hour. The video is saved on a mini disc for watching later and can be kept as a Keepsake."
+    }
+  ]
+}

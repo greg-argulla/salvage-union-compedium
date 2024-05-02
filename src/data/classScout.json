@@ -1,0 +1,76 @@
+{
+  "name": "Scout",
+  "info": "Hybrid Classes: Smuggler and Ranger",
+  "data": [
+    {
+      "name": "Gather Intelligence",
+      "info": "Recon Tree//Tier 1",
+      "detail": "`2AP//Short Action`\nYou safely investigate an area to gather information about it. This can be a specific point on the Area Map or a location such as a ruin, encampment, settlement, or base. Describe how you go about doing this, then ask the Mediator two questions about the area which will be answered truthfully."
+    },
+    {
+      "name": "Tail",
+      "info": "Recon Tree//Tier 2",
+      "detail": "`2AP/Turn Action//Range: Long`\nYou are able to track and tail targets with expert skill. When you activate this Ability choose a target within Range. You are now able to follow that target without being seen by them. \n\nYou may safely get within Close Range of the target whilst tailing them. If you attack them or take a significant action that would get you noticed then they spot you, otherwise you follow them to their destination. You can also eavesdrop on any conversations they are having and see any activity they are engaging in."
+    },
+    {
+      "name": "Survery Drone",
+      "info": "Recon Tree//Tier 3",
+      "detail": "`Pilot Equipment`\nYou acquire and train in the use of a Survey Drone and Drone Controller that only you can use. Add the Drone Controller to your Pilot Equipment when using the Survey Drone. You may control the Survey Drone up to Far Range.\n\nSending a command to your Survey Drone via the Drone Controller is a Free Action. The Survey Drone acts independently of you, on its own turn. It can be set to do automated tasks such as defending an area, attacking a target, or alerting you when it spots a threat. Your Survey Drone uses the same rules as Mechs for attaching Systems and Modules; taking damage and being repaired; as well as Heat and Heat Checks. Your Survey Drone cannot Push.\n\nYour Survey Drone has a Tech Level equal to your Union Crawler. If your Union Crawler is upgraded, so is your Survey Drone. It gains additional stats as shown for each Tech Level above the first. If your Survey Drone becomes destroyed or is misplaced you can acquire a new one during Downtime. You may only ever have one Survey Drone at a time. \n\n*Survey Drone*\n`Structure Pts:` 2\n`Energy Pts:` 4\n`Heat Cap:` 2\n`System Slots:` 3\n`Module Slots:` 1\n`Cargo Cap:` 1\n`Tech Level:` 1\n`Salvage Value:` 2\n\n*BONUS per Tech Level*\n`Structure Pts:` +2\n`Energy Pts:` +2\n`Heat Cap:` +1\n`System Slots:` +1\n`Module Slots:` +1\n`Cargo Cap:` +1\n`Tech Level:` +1\n`Salvage Value:` -\n*Integrated Hover Locomotion System*\nYour Survey Drone has the `Hover Trait`"
+    },
+    {
+      "name": "Silver Tounge",
+      "info": "Sleuth Tree//Tier 1",
+      "detail": "`AP//Turn Action`\nWhen you are in conversation with someone, you may appeal to something that motivates them in order to convince them to do something you want. The Mediator will decide what motivates them from one of the following options and secretly note it down. \n\n`Goodness:` They are motivated by an intrinsic desire to do good and treat others with kindness\n`Wealth:` They are motivated by increasing their wealth in some manner.\n`Fear:` They are motivated by fear of what might happen to them.\n`Power:` They are motivated by what power and influence they can attain in a situation.\n`Obligation:` They are motivated by social obligation, whether to family, community, or to an authority figure.\n\nYou must choose what you want from them, decide what you are appealing to and describe what you say in the conversation. If you choose the correct approach they will do what you’ve asked. Though you must do anything you’ve promised in the exchange.\n\nIf you choose incorrectly, they won’t do what you want. This may have additional consequences as decided by the Mediator depending on the context of the situation.\n\nFor 1 AP, the Mediator must offer you a narrative clue during the conversation that eliminates one of the incorrect choices. This can be something like, “You overheard this person saying she wasn’t afraid of the local raiders, even if they were dangerous.”"
+    },
+    {
+      "name": "Forked Tongue",
+      "info": "Sleuth Tree//Tier 2",
+      "detail": "`AP//Turn Action`\nYou are able to weave tall and grandiose tales that can fool even the most wary, cynical, or insightful of wastelanders.\n\nWhen you are in conversation with someone you may choose to do one of the following options during the conversation. You may further spend an additional 1 AP during the conversation to choose an additional option, or the same one again, until the conversation concludes.\n\n`Denial:`You deny one fact, accusation, or that occurs within the conversation and your denial is believed to be true.\n`Omission:`You carefully omit one fact about yourself, your allies, or the situation you are in and this omission is believed to be true.\n`Fabrication:`You fabricate a fact about yourself, your allies, or the situation you are in and this fabrication is believed to be true.\n`Minimisation:`You distort the truth by minimising something that has happened, or that you or someone else has done and this minimisation is taken to be true.\n`Exaggeration:`You exaggerate the truth by taking something that is true and blowing it well beyond the bounds of reality and this exaggeration is believed."
+    },
+    {
+      "name": "Persona",
+      "info": "Sleuth Tree//Tier 3",
+      "detail": "`XAP//Long Action`\nYou carefully prepare a convincing alternate identity. You cannot create a Persona of an existing person or the identity of someone who holds an exclusive position, like the known CEO of a corpo. Each persona consists of a wardrobe, credentials, and a backstory. You may create and describe each element of the persona. When you use your alternate identity, you must outwardly present yourself as that person by wearing their costume. \n\nThis persona lasts until you choose to remove it or reveal yourself. \n\n`2 AP:` You create a persona of a wastelander of average means, like a scrap hauler, rad diver, rat farmer, travelling trader, mercenary, or guide.  You can effortlessly blend into crowds and travel unnoticed in public spaces.\n\n`4 AP:` You create the persona of someone in a formal position of power, wealth, or influence, e.g. a union representative, military officer, captain, wealthy business owner, prominent socialite, or politician. You can effortlessly mingle with such people and those ‘beneath’ you will treat you with deference.\n\n`6 AP:` You create the persona of someone at the top of their respective social hierarchy and \nin an immense position of power and influence, such as a corpo executive, union leader, or general. You are able to access the highest ranks of society and the majority of people will treat you with deference."
+    },
+    {
+      "name": "You Shot First",
+      "info": "Sniper Tree//Tier 1",
+      "detail": "`2AP//Free Action`\nYou have a knack for being the first to act in an altercation.\n\nWhen you activate this Ability you act first in the current situation. If using Group Initiative, assume you rolled a 20 on the Group Initiative Table, but you must be the first to act in the round and cannot choose to act later in the round."
+    },
+    {
+      "name": "Spotter",
+      "info": "Sniper Tree//Tier 2",
+      "detail": "`2AP//Free Action//Range: Medium`\nYou are able to identify targets and coordinate attacks against them with your allies.\n\nChoose a target within Range. One of your Allies may make a ranged attack against the target as a Reaction. This follows all of the normal rules for attacking."
+    },
+    {
+      "name": "Custom Sniper Rifle",
+      "info": "Sniper Tree//Tier 3",
+      "detail": "`Pilot Equipment`\nYou acquire and train in the use of a Custom Sniper Rifle that only you can use. \n\n`Damage: 2 SP // Range: Long`\n\nChoose if it is a Ballistic or Energy weapon and it gains the respective Energy or Ballistic Trait. In addition, choose a modification from the list below.\n\n`Rangefinder`: The Custom Sniper Rifle increases its Range to Far. \n`Laser Guidance:` You may spend 2 AP to automatically hit with the Custom Sniper Rifle. It also gains the Targeter Trait. \n`Pinpoint Targeter:` You may spend 2 AP when you make an attack. If it hits, a System, Module, or appendage of your choice on the target is damaged. It also gains the Targeter Trait.\n`Dum Dum Rounds:` The Custom Sniper Rifle gains the Anti-Organic Trait.\n`High Calibre Rounds:` The Custom Sniper Rifle deals an additional 1 SP damage.\n`Anti-Matter:` The Custom Sniper Rifle gains the Deadly Trait. \n`Flashy:` The Custom Sniper Rifle gains the Flashy Trait.\n`Silencer:` The Custom Sniper Rifle gains the Silent Trait. \n`Compact Design:` The Custom Sniper Rifle is designed to fold down into a briefcase, making it easily concealable.\n\nAt each Tech Level you may choose an additional modification for your Custom Sniper Rifle. In addition, its damage increases by 1 SP per Tech Level after the first, e.g. a Tech 3 Custom Sniper Rifle would deal 4 SP damage and you would be able to choose three modifications for it."
+    },
+    {
+      "name": "Flashback",
+      "info": "Advanced Scout Tree//Tier 1",
+      "detail": "`3AP//Reaction`\nYou have a knack for preparing for situations in advance, allowing you to get out of all sorts of binds. \n\nYou can activate this Ability as a Turn Action or Reaction, to retroactively say that you have a countermeasure in place for such a situation as you find yourself currently in. Describe what you did during your flashback, and the effect it now has to change or improve the situation you are in.\n\nFor example, if you open a door secretly trapped with an explosive, you can use this Ability to describe how you already disabled the explosives in advance."
+    },
+    {
+      "name": "Camo Suit",
+      "info": "Advanced Scout Tree//Tier 2",
+      "detail": "`3AP//Turn Action//Armour//Pilot Equipment`\nYou acquire and train in the use of a specialised Camo Suit that only you can use. It has miniature optical refractors which bend light away from you, allowing you to be effectively invisible for short periods of time as long as you do not move too quickly, make too much noise, or take any sudden actions\n\nWhen activated, you are hidden from sight andsensors for the next hour. You are effectively invisible. You cannot be noticed unless you make a lot of noise or perform a significant action like attacking."
+    },
+    {
+      "name": "Wingsuit",
+      "info": "Advanced Scout Tree//Tier 3",
+      "detail": "`1AP//Pilot Equipment//Armour`\nYou acquire and train in the use of a Wingsuit that only you can use. It is made out of an advanced, lightweight, polycarbonate mesh that allows for limited flight and propulsion.\n\nWhen activated, the Wingsuit propels you into the air, and then allows you to fly. You can move freely over obstacles and terrain and see targets clearly from your bird’s-eye view. All attacks made against you whilst flying are made as though you are always at Long Range. The flight lasts for an hour or until you land."
+    },
+    {
+      "name": "Wasteland Celebrity",
+      "info": "Legendary Tree",
+      "detail": "`2AP//Turn Action`\nYour presence is now respected by people everywhere. Wastelanders and Corpos alike will no longer attack you unless you mean to harm them. They will always provide you and any crew you are with, with food, lodging, safe passage, access to their settlements, and any other help within their means even if it puts them in danger. \n\nWhen you activate this Ability you extoll your various accomplishments and remind those around you of your fame in order to coerce them to your will. Describe how you do this. You may make a demand of an individual, even a high profile one such as a corpo exec and they will acquiesce to it. Alternatively, you can make a demand of a group of people such as a band of wastelanders, a squad of soldiers, a salvaging crew, or a band of Mech pilots and they will do what you say, even if it puts them in harm’s way."
+    },
+    {
+      "name": "Teleport Beacon",
+      "info": "Legendary Tree",
+      "detail": "`2AP//Turn Action//Pilot Equipment`\nWhen you activate this Ability you extoll your various accomplishments and remind those around you of your fame in order to coerce them to your will. Describe how you do this. You may make a demand of an individual, even a high profile one such as a corpo exec and they will acquiesce to it. Alternatively, you can make a demand of a group of people such as a band of wastelanders, a squad of soldiers, a salvaging crew, or a band of Mech pilots and they will do what you say, even if it puts them in harm’s way.\n\nWhen you activate this Ability via the controller, it allows you to teleport yourself and up to five other creatures of your choice to the location you placed the beacon in.\n\nIf the Teleport Beacon is misplaced, damaged, or destroyed, you can acquire a new one during Downtime."
+    }
+  ]
+}

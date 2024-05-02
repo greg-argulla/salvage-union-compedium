@@ -1,0 +1,25 @@
+{
+  "name": "Tech 6 (Modules)",
+  "data": [
+    {
+      "name": "DDR Module",
+      "info": "1EP Turn Action",
+      "detail": "`T6` 🔺 - 1 ⚙️ - 1\n\nThis Module utilizes Dynamic Diode Rotarization technology allowing a Mech to perform a series of complex movements in time with music typically meant to impress others as well as for recreation.\n\nYou may choose any dance you wish as part of activating the Module. Onlookers are highly impressed. It is not quite teleporting through walls, but trust me this, it is incredibly complicated to program a Mech to do."
+    },
+    {
+      "name": "Matter Phaser",
+      "info": "4EP Turn Action",
+      "detail": "`T6` 🔺 - 2 ⚙️ - 3\n\nDeveloped by Sakura Futures as the apex of their assassination capabilities, this Module allows your Mech to temporarily enter an anti-matter phase state. The tech blueprints were stolen by a hacker known as Case, and are now in the arsenal of the most powerful Union Crawlers in the wastes.\n\nWhen activated, your Mech becomes phased. Whilst in a phased state your Mech can move through walls, objects, structures, and other Mechs. Your Mech is visible, but only by a faint glowing outline. You cannot attack or otherwise interact with anything whilst phased. You can unphase as a Free Action at no cost. "
+    },
+    {
+      "name": "Reaction Protocols",
+      "info": "3EP Reaction // Heat Spike // Hot (2)",
+      "detail": "`T6` 🔺 - 1 ⚙️ - 2\n\nThis salvager-honed Module can push your Mech to react at sudden and alarming speeds to opponents in the field.\n\nWhen activated, you may attack with any Weapons System or activate any System, Module, or Ability your Mech has access to as a Reaction. This Reaction always resolves first. After this has resolved, increase your Mech’s Heat by 2 and make a Heat Check."
+    },
+    {
+      "name": "Reactor Transference",
+      "info": "Passive",
+      "detail": "`T6` 🔺 - 2 ⚙️ - 2\n\nThis Aeon-developed Module allows interchange between your Mech’s Heat and Energy. This allows your Mech to activate Energy Point Abilities by increasing its Heat by 2× that amount instead. For example: you could activate a 2 EP Ability by instead increasing your Mech’s Heat by 4.\n\nAnytime you would increase your Mech’s Heat you may instead decrease your Mech’s Energy Points by that amount. For example: if you attacked with a Hot (2) weapon you could spend 2 EP instead of increasing your Mech’s Heat by 2."
+    }
+  ]
+}

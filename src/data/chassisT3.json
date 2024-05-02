@@ -1,0 +1,40 @@
+{
+  "name": "Tech 3 (Chassis)",
+  "data": [
+    {
+      "name": "Atlas",
+      "info": "",
+      "detail": "The ‘MK8’ Atlas was developed by Evantis Heavy Industries as a mobile, heavily armoured, resupply base. When Evantis switched their Mech production to focus on their Colossus Chassis during the midst of the First Corpo War, it made the Atlas technically the smallest Mech they still\nproduced. This led to the Atlas being known colloquially as the ‘Evantis Scout’. \n\n`Structure Pts`: 30\n`Energy Pts`: 10\n`Heat Cap`: 14\n`System Slots`: 21 \n`Module Slots`: 2\n`Cargo Cap`: 30\n`Tech Level`: 3\n`Salvage Value`: 12 \n\n*Integrated Colossal Cargo Bay*: Increases the Cargo Capacity of the Atlas by 24, to 30"
+    },
+    {
+      "name": "Brawler",
+      "info": "",
+      "detail": "The ‘GC-C21’ Brawler is a combat Mech favoured by corpo mercs due to its relatively low scrip debt cost. The Terrestrial Democratic Alliance began to mass produce Brawlers during the Second Corpo War, and deployed them in the siege of the Central Wastes where they obliterated the Herrsch home arco. They later became one of the first combat Mechs to be produced as an open source blueprint by the Opus Institute.\n\n`Structure Pts`: 25\n`Energy Pts`: 10\n`Heat Cap`: 14\n`System Slots`: 16\n`Module Slots`: 3\n`Cargo Cap`: 6\n`Tech Level`: 3\n`Salvage Value`: 5 \n\n*Close Range Protocols*: The Brawler deals an additional 2 SP damage when it makes an attack at any target within Close Range of it. This bonus is applied before other modifiers."
+    },
+    {
+      "name": "Little Sestra",
+      "info": "",
+      "detail": "The ‘НC-15’ Little Sestra is a Mech designed by DronTek Systems to control a Sestra Drone in the\nfield. Little Sestra Mechs are utilised for reconnaissance or in larger numbers to support DronTek’s\nBig Brother Mechs in battle. Sestra Mechs were utilized effectively in the First Corpo War to pick off retreating Evantis forces following their failed invasion of the Northern Wastes. The majority of\nremote drones are unusable in the wastes, but the Little Sestra’s high end, specialized drone controller continues to function where others have failed. \n\n`Structure Pts`: 15\n`Energy Pts`: 8\n`Heat Cap`: 10\n`System Slots`: 9  \n`Module Slots`: 3\n`Cargo Cap`: 6\n`Tech Level`: 3\n`Salvage Value`: 7 \n\n*Sestra Drone Controller*: The Little Sestra comes with a single Sestra Drone that it controls up to Far Range. Roll on the A.I. Personality Table for the drone’s personality. \n\nThe Sestra Drone acts separately to the Little Sestra on its own turn, and is controlled by the Pilot. It functions effectively as a Mech, but cannot Push. It can be installed with Systems and Modules and restores its SP and EP in a T3 or higher Mech Bay during Downtime. If the Drone is damaged it can be repaired as though it was a Mech. If it is destroyed you may craft a new Sestra Drone for 2 Tech 3 Scrap as per the crafting rules. The Little Sestra may have one active Sestra Drone at a time.\n\n*Sestra Drone*\n\n`Structure Pts`: 7\n`Energy Pts`: 8\n`Heat Cap`: 6\n`System Slots`: 7\n`Module Slots`: 2 \n`Cargo Cap`: 3\n`Tech Level`: 3\n`Salvage Value`: 2\n\nIntegrated Hover Locomotion System"
+    },
+    {
+      "name": "Mantis",
+      "info": "",
+      "detail": "Developed as a collaboration between the software arm of Stefanus Industries and Sakura Futures, the ‘MCS-1337’ Mantis was designed as a lightweight hacking Mech. Rarely deployed on the battlefield, it has primarily been utilised in a series of Black Ops operations, most notably during the endless intra-corporate cold wars. With its high energy capacity and a wide array of Module customization options you sometimes just have to respect corpo engineering.\n\n`Structure Pts`: 15\n`Energy Pts`: 17\n`Heat Cap`: 7\n`System Slots`: 9\n`Module Slots`: 6 \n`Cargo Cap`: 6\n`Tech Level`: 3\n`Salvage Value`: 7\n\n*Integrated Frog Prince Module*: This specialized hacking module developed for the Mantis allows you to take control of defensive and security systems.\n\n*2EP Turn Action // Range: Medium // Hacking*\nYou take control of one of the following devices within Range, whilst it is under your control you\nmay send it commands such as attack, move, activate, or power down/up as well as read any\ndata it receives. You may not take other actions whilst it is under your control. Relinquishing\ncontrol is a Free Action. \n\n`• Security Cameras (Free Action to Command)`\n`• Automated Doors (Free Action to Command)`\n`• Lights (Free Action to Command)`\n`• Defensive Turrets (Turn Action to Command)`\n`• Drones (Turn Action to Command)`\n\nWhen this Module is activated you may pay 1 EP per additional device you would like to control."
+    },
+    {
+      "name": "Photon",
+      "info": "",
+      "detail": "The Photon was a byproduct of numerous aborted attempts to create clean energy reactors as global temperatures began to routinely rise to 50 degrees Celsius. Stefanus Corporation commissioned Noel Sküm, a populist tech mogul, to develop clean energy reactors that would fuel the vast mainframes within their home arco. Instead, he used the funds to build the ‘EM-28’ Photon, which whilst flashy and powerful was expensive, over designed and failed to gain mass adoption. When the venture with Sküm failed, the Stefanus Corporation instead moved their home arco to the frozen Forgotten Tundra.\n\n`Structure Pts`: 20\n`Energy Pts`: 10\n`Heat Cap`: 12\n`System Slots`: 15 \n`Module Slots`: 4\n`Cargo Cap`: 6\n`Tech Level`: 3\n`Salvage Value`: 8\n\n*Solar Reactor*: As a Long Action you may fully restore the Energy Points of the Photon to its maximum value. You must be in an area of sunlight to do this. You may only use this Ability once every 24 hours."
+    },
+    {
+      "name": "Solo",
+      "info": "",
+      "detail": "The ‘S-1300’ Solo was designed by Sakura for use in network operations due to its capability to smuggle deadly weaponry close to exposed targets, whilst avoiding radar and scanning systems. As a result of its design, it has become prized by smugglers across the wastes who utilize its Chassis to ferry all manner of contraband through the various arcos and militarized checkpoints dotted around the wastelands.\n\n`Structure Pts`: 16\n`Energy Pts`: 13\n`Heat Cap`: 10\n`System Slots`12:  \n`Module Slots`: 4\n`Cargo Cap`: 6\n`Tech Level`: 3\n`Salvage Value`: 4\n\n*Polycarbonate Stealth Chassis*: The Solo cannot be targeted with anything that uses the Targeter Trait such as targeting Modules. It also cannot be seen by anything with the Optics Trait or Scanner Trait. It does not appear on sensors, radar systems, or scanners, and needs clear and direct visual confirmation to be spotted. "
+    },
+    {
+      "name": "Terra",
+      "info": "",
+      "detail": "Designed as a terraforming Mech by Kombu Technology, the ‘T-246’ Terra is able to project a human habitable atmospheric bubble around it, making it invaluable in the process of colony formation. As the space elevators dotting the globe began to be destroyed or fell into disrepair, the Terra found a new use in the wastelands in creating habitable zones for wastelanders. It is utilized efficiently by salvagers for picking apart wreckage within hazardous zones.\n\n`Structure Pts`: 23\n`Energy Pts`: 12\n`Heat Cap`: 13\n`System Slots`: 18 \n`Module Slots`: 3\n`Cargo Cap`: 6\n`Tech Level`: 3\n`Salvage Value`: 9\n\n*Terraforming Bubble: 2EP Turn Action*\nWhen activated, the Terra projects a safe, oxygenated, and habitable atmospheric bubble around it for 1 hour, or until shut off as a Free Action. Within the bubble gravity levels, pressure, heat, and other environmental factors are comparable to an Earth-like planet. This extends to Medium Range, and everything within it is safe from all harmful environmental effects irrespective of their severity."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Tech 4 (Modules)",
+  "data": [
+    {
+      "name": "Aardvarks Tongue",
+      "info": "4EP Turn Action // Range: Close // Hacking",
+      "detail": "`T4` 🔺 - 1 ⚙️ - 2\n\nUnion designed hacking module that immobilizes target mechs. It then attempts to jump to another mech in range. When activated, roll on the following table \n\n*ROLL THE DIE:*\n\n`20`: Choose 3 targets in range, they all gain the immobile trait for 10 minutes.\n`11-19`: Choose 2 targets in range, they gain the immobile trait for 10 minutes.\n`6-10`: Choose 1 target in range, it gains the immobile trait for 10 minutes\n`2-5`: The module fails to activate\n`1`: The tongue replicates in your system, You gain the immobile trait for 10 minutes"
+    },
+    {
+      "name": "Advanced Reactor Safety Protocols",
+      "info": "Passive",
+      "detail": "`T4` 🔺 - 2 ⚙️ - 2\n\nThese advanced safety protocols are hyper efficient at keeping your reactor and core systems functional even in high stress situations that would otherwise result in a total reactor meltdown.\n\nWhen your Mech rolls on the Reactor Overload Table you may roll on this table instead.\n\n*ROLL THE DIE:*\n\n`20`: *Reactor Hyper Stabilization*: Your Mechs reactor stabilizes and its Heat is reduced to 0. You may Push your Mech’s next action for free.\n`11 - 19`: *Temporary Reactor Shutdown*: Your Mech has overheated and shuts down, gaining the Vulnerable Trait. Your Mech will re-activate at the end of your next turn. In addition, your Mech reduces its Heat to 0.\n`6 - 10`: *Module Overheat*: One of your Mech’s Modules, chosen at random or by the Mediator, has overheated and is inoperable for 10 minutes. An inoperable Module cannot be activated or used in any way.\n`2 - 5`: *System Overheat*: One of the Mech’s Systems, chosen at random or by the Mediator, has overheated and is inoperable for 10 minutes. An inoperable System cannot be activated or used in any way, and if it is a weapon it cannot be fired.\n`1`: *Reactor Disabled*: Your Mech is forced to Shutdown for one hour and cannot be powered back on in that period. Whilst Shutdown your Mech cannot move or take any actions and gains the Vulnerable Trait. Its Heat is reduced to 0 after the hour ends."
+    },
+    {
+      "name": "Alpha Strike Module",
+      "info": "XEP Turn Action // Hot (X) // Targeter",
+      "detail": "`T4` 🔺 - 1 ⚙️ - 2\n\nA favorite in the Osiris fighting pits for its spectacle if nothing else.\n\nWhen activated, you must attack with all mounted Weapons Systems on your Mech against any number of targets of your choice within Range. Make and resolve each attack separately. Activating this Module costs an amount of EP equal to the number of Weapon Systems you attacked with and you gain an amount of Heat equal to the amount of Weapons Systems you attacked with."
+    },
+    {
+      "name": "Auto-Repair Droid",
+      "info": "2EP Turn Action",
+      "detail": "`T4` 🔺 - 2 ⚙️ - 3\n\nThis compact repair droid with a rudimentary A.I. is hardwired into your Mech and can perform a variety of repair tasks on it whilst you focus on piloting. Roll on the A.I. Personality Table for your Repair-Droid’s personality or choose your own.\n\nWhen you activate the Auto-Repair Droid, and at the start of each of your turns whilst it remains active, you may choose from one of the following options. You must pay the EP cost each time you choose an option and this counts as a Free Action.  The Auto-Repair Droid remains active for 10 minutes.\n\n`•` You restore 6 SP to your Mech as long as it has at least 1 SP.\n`•` You repair a single, Tech 4 or lower, damaged System or Module mounted on your Mech to Intact Condition.\n`•` You reduce the Heat of your Mech by 2."
+    },
+    {
+      "name": "Dash Protocols",
+      "info": "Free Action // Heat Spike // Hot (2)",
+      "detail": "`T4` 🔺 - 1 ⚙️ - 1\n\nThis salvager-designed Module reroutes your Mech’s power to vastly increase the potential of its locomotive Systems. \n\nWhen activated, your Mech may move an additional Range Band this turn. Your Mech gains 2 Heat and must make a Heat Check. You may only activate this Module once per turn."
+    },
+    {
+      "name": "Em Self Destruct",
+      "info": "Reaction",
+      "detail": "`T4` 🔺 - 2 ⚙️ - 2\n\nDeveloped by Stefanus during the cyberwars, the Electro-Magnetic Self-Destruct was intended to counter the mass waves of suicidal drone attacks that their rivals Drontek were endlessly using to harry their nanite mining bases. It meant one Mech sacrificing itself so the rest could live.\n\nWhen activated, your Mech as well as all attached Systems, Modules, and all carried Cargo are destroyed as the reactor detonates in an electro-magnetic explosion. Your Pilot may attempt to escape as normal if they have access to anything with the Escape Trait. If they fail to escape, they are reduced to 0 HP.\n \nAll Mechs, Systems, Modules, and Vehicles including allies within Medium Range of your Mech become Shutdown and inactive for 10 minutes. In addition, any other electronic or technological equipment or hardware within Range becomes inoperable. Meld are also affected, going into an inert state for 10 minutes. This Module may only be mounted on a Mech. "
+    },
+    {
+      "name": "Laser Guidance",
+      "info": "3EP Free Action // Range: Long // Targeter",
+      "detail": "`T4` 🔺 - 1 ⚙️ - 2\n\nDeveloped by Contour Aerospace for use in high speed engagements, this Module allows laser guided computational precision. When you activate this Module, pick a target within Range. The next attack you make against that target automatically hits counting as an (11-19) result. "
+    },
+    {
+      "name": "Mech Scrambler",
+      "info": "XEP Turn Action // Range: Close // Hacking",
+      "detail": "`T4` 🔺 - 1 ⚙️ - 2\n\nThis Stefanus-built hacking Module scrambles multiple Mechs causing them to go haywire and perform random actions. When activated, choose up to 4 target Mechs in Range. This Ability costs 2 EP for each Mech you target with this Ability. Make a separate roll for each target.\n\n*ROLL THE DIE*:\n\n`20`: The target entirely loses control of itself, attacking wildly. It must make an attack with all its Weapons Systems against a random Ally within Range. It cannot move or take any actions until the end of your next turn.\n`11 - 19`: The target loses control of itself and cannot tell friend from foe. It must make an attack with a random Weapons System against a random Ally within Range.\n`6 - 10`: The target activates a random non-Weapons System. You decide a Tough Choice related to it that the target must resolve.\n`2 - 5`: The target activates a random Module. You decide a Tough Choice related to it that the target must resolve.\n`1`: The target goes haywire, it moves one Range Band in a random direction, falls Prone, and gains the Vulnerable Trait."
+    },
+    {
+      "name": "MRSI Co-Ordinator",
+      "info": "4EP Turn Action // Range: Medium //  Targeter",
+      "detail": "`T4` 🔺 - 1 ⚙️ - 2\n\nMultiple Rounds, Simultaneous Impact. This Contour Aerospace-developed Module aims a focused beam at a target which tracks their movement and coordinates and transmits it to other Allies, allowing you to coordinate attacks against them.\n\nWhen activated, choose a target within Range. You and up to 2 Allied Mechs in Range may attack the target immediately with a single Weapons System of their choice in Range of the target. Make each attack separately. These attacks count as having the Targeter Trait."
+    },
+    {
+      "name": "Thermal Optics",
+      "info": "1EP Free Action // Range: Long // Optics",
+      "detail": "`T4` 🔺 - 1 ⚙️ - 1\n\nThis Drontek-developed array of thermal optical devices highlights the heat signatures of Mechs, Vehicles, Creatures, or anything else that would generate heat. \n\nWhen activated, you are able to see the location of anything that generates heat within visual Range. You can see their location even if they are in an obscured area such as foggy conditions, in darkness, or behind solid objects such as buildings. This effect lasts for 1 hour."
+    },
+    {
+      "name": "Weapon Guidance",
+      "info": "1EP Free Action // Targeter // Guided",
+      "detail": "`T4` 🔺 - 1 ⚙️ - 1\n\nThis Aegean Dynamics-developed Module allows you to track targets even without visual confirmation from your Mech’s heads-up display.\n\nWhen activated, a Weapons System of your choice mounted on your Mech gains the Guided Trait meaning it does not need line of sight to hit any target within its Range"
+    }
+  ]
+}

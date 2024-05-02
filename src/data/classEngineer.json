@@ -1,0 +1,76 @@
+{
+  "name": "Engineer",
+  "info": "Hybrid Classes: Fabricator and Union Rep.",
+  "data": [
+    {
+      "name": "Engineering Expertise",
+      "info": "Mechanical Knowledge Tree//Tier 1",
+      "detail": "`1AP//Turn Action`\nYou are able to answer questions pertaining to mechanical and engineering topics.\nYou may ask the Mediator two questions that cover these areas, and they must answer truthfully. \nYou can use this Ability to ask for the full stats of any Mech Chassis, System, Module, or Pilot Equipment that you can see and interact with, as one of these questions."
+    },
+    {
+      "name": "Talk Shop",
+      "info": "Mechanical Knowledge Tree//Tier 2",
+      "detail": "`3AP//Turn Action`\nYou can easily converse and build rapport with other mechanics, salvagers, workers, with at least 1 SP. and similar wasteland folk. You invent a local saying to exchange with the person you are talking to, something like, “The only thing that overcomes hard luck is hard work” or “Get the show on the road”. Explain what this means.\n\nYou are now friendly with this NPC and can ask them for three of the following favours. You may choose the same option multiple times.\n\n• Restore up to 4 SP on a single Mech or Vehicle with at least 1 SP.\n• Answer any question about the local area, Mechs, and mechanical & engineering topics.\n • Repair a single damaged System or Module to Intact Condition. This must be of a Tech Level \nthe wastelander could reasonably repair as decided by the Mediator. \n• Provide food, shelter, and lodgings for you and the other salvagers in your crew.\n• Provide a favour within their power and ability to grant as adjudicated by the Mediator.\n\nIf you meet that same person again you may repeat the phrase and they will offer you a single favour."
+    },
+    {
+      "name": "Mech Acquisition",
+      "info": "Mechanical Knowledge Tree//Tier 3",
+      "detail": "`3AP//Long Action`\nYou are able to use your intimate knowledge of engineering to track down and acquire specific \nMech parts within wasteland settlements and trading hubs.\n\nYou may use this Ability in the field when you are in a settlement within the wastelands or any location that has access to Mech parts. Name any Mech Chassis, System, or Module of a Tech Level less than, equal to, or one level higher than the settlement you are in. The Mediator decides the Tech Level of the settlement. This now becomes available for purchase for an amount of Scrap equal to its Salvage Value of its Tech Level. It is in the Intact Condition.\n\n• Wastelander Settlements typically have a Tech Level of 1-2 \n• Corporate Settlements typically have a Tech Level of 3-4\n• Corporate Arcos typically have a Tech Level of 5-6\n\nDuring Downtime this Ability may instead be used once, at no cost, to allow you to choose any Mech Chassis, System, or Module of a Tech Level less than, equal to or one level higher than your Union Crawler. \n\nThis becomes available to purchase in Intact Condition within your Trading Bay as per the normal trading rules (see p. 222)."
+    },
+    {
+      "name": "Mass Field Maintenance",
+      "info": "Mech-Tech Tree//Tier 1",
+      "detail": "`XAP//Long Action//Range: Close`\nFor each Ability Point you spend when you activate this Ability you restore up to 4 SP amongst any number of target Mechs or Vehicles within Range, as long as they have at least 1 SP.\n\nFor example, if you spend 3 AP you may restore up to 12 SP between all target Mechs or Vehicles. You may distribute this SP however you wish amongst the targets."
+    },
+    {
+      "name": "IF I cut this wire...",
+      "info": "Mech-Tech Tree//Tier 2",
+      "detail": "`2AP//Turn Action//Range: Close`\nYou can work out exactly where to target a Mech in order to disable its Systems or Modules. Describe how you do this.\n\nPick a System or Module on a target Mech within Range. It becomes damaged and cannot be used until repaired."
+    },
+    {
+      "name": "Mass field Repair",
+      "info": "Mech-Tech Tree//Tier 3",
+      "detail": "`XAP//Long Action//Range: Close`\nYou repair any number of damaged Mech Chassis, Vehicles, Systems, or Modules within Range to Intact Condition. They must be of a Tech Level equal to or lower than your Union Crawler. \n\nThis Ability costs 1 AP per target that you repair."
+    },
+    {
+      "name": "Jury Rig",
+      "info": "Forging Tree//Tier 1",
+      "detail": "`2AP//Turn Action`\nYou are able to hastily craft improvised equipment from everyday objects taken from your surroundings. \n\nWhen you are in an area with everyday objects at your disposal, you may craft any Pilot Equipment of your choice of a Tech Level equal to or lower than your Union Crawler.\n\nThis Pilot Equipment gains the Unwieldy Trait, and is destroyed on any roll of 1-5 when used, in addition to any other setbacks."
+    },
+    {
+      "name": "Mech-Gyver",
+      "info": "Forging Tree//Tier 2",
+      "detail": "`3AP//Short Action`\nYour ability to improvise extends to being able to craft mech parts from scrap in the field. \n\nWhen you are in an area with Scrap at your disposal, you may craft any System or Module of your choice of a Tech Level equal to or lower than your Union Crawler. You must spend 1 Scrap of the Tech Level of the System or Module or higher to use this Ability.\n\nThis System or Module gains the Unwieldy Trait, and is destroyed on any roll of 1-5 when used, in addition to any other setbacks."
+    },
+    {
+      "name": "Auto-Turret",
+      "info": "Forging Tree//Tier 3",
+      "detail": "`Pilot Equipment`\nYou construct an immobile Auto-Turret and train yourself in using it. Only you may use the Auto-Turret. It is powered by a simple reactor and controlled by a rudimentary A.I. It can be used to defend an area and obey simple commands. It acts independently of you, and has its own turn in the round.\n\nAn Auto-Turret uses the same rules as Mechs for attaching Systems and Modules; taking damage and being repaired; as well as Heat and Heat Checks. Your Auto-Turret cannot Push.\n\nYou may deploy your Auto-Turret in a location you are in as a Turn Action.\n\nYour Auto-Turret has a unique personality. Choose this or roll on the A.I. Personality Table p.91. Name your Auto-Turret if you want to get especially attached. \n\nYour Auto-Turret has a Tech Level equal to your Union Crawler. Your Auto-Turret is upgraded along with your Union Crawler, it gains additional stats as shown for each Tech level above the first. If your Auto-Turret becomes destroyed or is misplaced you can acquire a new one during Downtime. You may only ever have one Auto-Turret at a time. \n\n*AUTO-TURRET*\n`Structure Pts:` 9\n`Energy Pts:` 2\n`Heat Cap:` 4\n`System Slots:` 9\n`Module Slots:` 1\n`Cargo Cap:` -\n`Tech Level:` 1\n`Salvage Value:` 2\n\n*BONUS per Tech Level*\n`Structure Pts:` +3\n`Energy Pts:` +2\n`Heat Cap:` +2\n`System Slots:` +3\n`Module Slots:` +1\n`Cargo Cap:` -\n`Tech Level:` +1\n`Salvage Value:` -\n\n*Immobile:* Your Auto-Turret cannot move, even if you attach a Locomotion System, It will be unable to move.\n*Portable:* Your Auto-Turret takes up 2 Pilot inventory Slots."
+    },
+    {
+      "name": "Union Engineer",
+      "info": "Advanced Engineer Tree//Tier 1",
+      "detail": "You have specialized in getting your hands dirty, you can patch up even the most brutally damaged Mechs with ease, even in the midst of conflict.\n\n*Mender*\n`Passive`\nWhen you, or a Mech you are piloting uses any Ability that restores Structure Points, the Ability restores an additional 4 SP each time you use it. For example, if you use the Welding Laser’s ‘Weld’ Ability, it restores an additional 4 Structure Points when used."
+    },
+    {
+      "name": "This one goes to 11...",
+      "info": "Advanced Engineer Tree//Tier 2",
+      "detail": "`3AP//Short Action//Range: Close`\nYou are able to overcharge a Mech Reactor far beyond its usual capacity. Risky, but if anything goes wrong you’ve got the skills to repair it. \n\nYou overcharge the reactor on a target Mech. For the next hour, this Mech can Push twice on any of its attacks or actions, re-rolling the same die twice. In addition, it can Push to take an additional action on its turn. This follows all of the rules of Pushing."
+    },
+    {
+      "name": "Mass Energy Recharge",
+      "info": "Advanced Engineer Tree//Tier 3",
+      "detail": "`4AP//Long Action//Range: Close`\nYou have gained mastery and intimate knowledge of how a Mech reactor performs, to the point you are able to recharge limited amounts of their energy in the field."
+    },
+    {
+      "name": "Tip Top Shape",
+      "info": "Legendary Tree//Tier 1",
+      "detail": "`Passive`\nYou have learned every inch of your Union Crawler, and know it better than the back of your own hand. The team of onboard engineers you work with are at peak efficiency when you are on board. \n\nYour Union Crawler no longer needs to pay Upkeep as long as you are on board during Downtime, and it does not deteriorate."
+    },
+    {
+      "name": "The Full Works",
+      "info": "Legendary Tree//Tier 2",
+      "detail": "`3AP//Long Action//Range: Close`\nYour engineering abilities are unparalleled, you can take apart and put back together a Mech at an incredible speed, repairing any faults or issues that may exist within its behemoth Chassis. \n\nWhen you activate this Ability you fully restore the SP and EP of a Mech. The Mech’s Heat is reduced to 0, and its Chassis is repaired to the Intact Condition if it was damaged. In addition, any damaged Systems or Modules on the Mech are repaired to the Intact Condition."
+    }
+  ]
+}

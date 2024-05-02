@@ -1,0 +1,35 @@
+{
+  "name": "Tech 5 (Modules)",
+  "data": [
+    {
+      "name": "Adv. Targeting Array",
+      "info": "",
+      "detail": "`T5` 🔺 - 2 ⚙️ - 2\n\nThis mil-tech Module combines Laser Guidance, Pinpoint Targeter, and Multi-Targeter into one Module. You may activate each separately.\n\n*3EP Pinpoint Targeter p. 196*\n`Turn Action // Targeter`\nMake an attack at a selected target. If it hits select a system or appendage to be damaged/injured. If you roll a 20 it is destroyed instead. You also deal damage as normal.\n\n*XEP Multi-Targeter p. 200*\n`Turn Action // Targeter`\nMake an attack with any number of weapons. Each weapon must select a different target. Costs 1 EP per weapon fired.\n\n*3EP Laser Guidance p. 204*\n`Free Action // Range: Long // Targeter`\nThe next attack you make against that target automatically hits counting as an (11-19) result."
+    },
+    {
+      "name": "He2 Coolant Flush",
+      "info": "Reaction // Uses (3)",
+      "detail": "`T5` 🔺 - 1 ⚙️ - 2\n\nThis Module rapidly flushes your Mech’s Reactor with sub-zero liquid Helium coolant manufactured in the Opus Institute Labs in the Frozen Gulf.\n\nWhen activated, reduce the Heat on your Mech to 0. "
+    },
+    {
+      "name": "Holo Projector",
+      "info": "2EP Turn Action // Range: Medium",
+      "detail": "`T5` 🔺 - 1 ⚙️ - 2\n\nDeveloped by Ascension PLC as a means for their corporate minds to communicate with the material realm, this holo projector uses a complex laser array to project solid, life-like, three dimensional holograms into the world.\n\nWhen activated, this Module projects a lifelike, three dimensional, hologram into an area within Range. The hologram appears to onlookers as though it was realistic and can be viewed from multiple angles. It can be spoken through or set to repeat a message, make animal calls, or mimic the sounds of explosions or weapons firing. The hologram can have any appearance that you choose and can be either Mech or Pilot-sized. The hologram stays in place within the location you set for 24 hours."
+    },
+    {
+      "name": "Multi-Optics",
+      "info": "",
+      "detail": "`T5` 🔺 - 2 ⚙️ - 2\n\nThis Module combines Zoom Optics p.193, Thermal Optics p. 204, and IR Night Vision Optics p. 195, into one. You gain the use of all three and may activate each separately"
+    },
+    {
+      "name": "Neuralink Communicator",
+      "info": "Free Action // Range: Long // Communicator",
+      "detail": "`T5` 🔺 - 2 ⚙️ - 3\n\nDeveloped by Ascension PLC, this Module connects directly to your Pilot’s brain whilst in the Cockpit, and allows telepathic communication with anything that has the Communicator Trait within Range. In addition, you may choose what the output of your brain frequencies sounds like, altering the pitch and tone to your liking. This works as a Voice Modulator p. 202. These communications are also encrypted, working as an Encrypted Comms p. 200. The Neuralink Communicator may also be detached and used by your Pilot in the field as a Portable Communications Unit p. 81. "
+    },
+    {
+      "name": "Omega Push Module",
+      "info": "",
+      "detail": "`T5` 🔺 - 2 ⚙️ - 2\n\nThis Module combines Evasion Protocols p. 194, Offensive Protocols p. 200, and Dash Protocols p.203, into one Module. You may activate each separately as desired."
+    }
+  ]
+}

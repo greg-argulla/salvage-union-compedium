@@ -1,0 +1,61 @@
+{
+  "name": "Soldier",
+  "info": "Hybrid Classes: Cyborg and Ranger",
+  "data": [
+    {
+      "name": "Charge",
+      "info": "Gladitorial Combat Tree//Tier 1",
+      "detail": "`1AP//Free Action//Range: Medium`\nYou charge a target in Range, moving to Close Range of them. If you make an attack with the Melee Trait on the turn you use this Ability you deal an additional amount of damage equal to the Tech Level of the Weapon or Weapons System you are attacking with. You may only use this Ability once per turn."
+    },
+    {
+      "name": "Overpower",
+      "info": "Gladitorial Combat Tree//Tier 2",
+      "detail": "`2AP//Turn Action//Range: Close`\nYou overpower a target creature. Describe how you overpower them. You put the target in a compromised position until they spend a Turn Action to get out of it. During this time they gain the Vulnerable Trait, and cannot move. If you use this Ability whilst piloting a Mech you may also overpower a target Mech, Vehicle, or Bio-Titan."
+    },
+    {
+      "name": "Duel",
+      "info": "Gladitorial Combat Tree//Tier 3",
+      "detail": "`3AP//Turn Action//Range: Close`\nYou compel a creature in Range to fight you in single combat. They must be able and willing to fight. This plays out as regular combat, but nobody else can interfere. Whoever is reduced to 0 HP first loses the duel. The winner may choose to show mercy or murder. If they show mercy, the loser gains 1 HP and is stable after 10 minutes. If they show murder, the loser must roll on the Critical Injury Table.\n\nIf you use this Ability whilst piloting a Mech, you may instead compel another piloted Mech to fight you in single combat instead. This works in the same way, except whoever is reduced to 0 SP first loses the duel and the loser has to roll on the Critical Damage Table if the winner chooses murder."
+    },
+    {
+      "name": "Wastlander Rapport",
+      "info": "Survivalist Tree//Tier 1",
+      "detail": "`1AP//Turn Action`\nYou have an affinity with the people of the wastes. When you activate this Ability you become friendly with a wastelander who you can communicate with. Describe how you do this.\n\nYou may ask this wastelander up to two questions about the local area and they will answer to the full extent of their knowledge. In addition, they will provide you with what help they can as long as it does not put them in danger. For example, by providing you with food or shelter.\n\nIf you meet this wastelander again you may ask them one question and they will answer it"
+    },
+    {
+      "name": "Resourceful",
+      "info": "Survivalist Tree//Tier 2",
+      "detail": "`1AP//Short Action`\nYou are hardened to surviving out in the wastelands. You are unaffected by any standard environmental effects and take half damage from any severe effects that you are unable to avoid. In addition, you are able to find food and water for yourself in the wastelands. \n\nWhen you use this Ability you scour the wastelands for one of the following:\n\n• You find healing herbs, plants, and poultices. These can be used to heal a Minor Injury, eliminate poison, heal a target 2 HP, or revive someone who is unconscious to 1 HP. \n• You scavenge the area for salvage and find 1 Scrap of a Tech Level appropriate to the area as decided by the Mediator. You only may choose this option once per area unless the Mediator says otherwise.\n • You find a safe shelter with enough food and water to sustain yourself and up to 10 people for 24 hours"
+    },
+    {
+      "name": "Custom Missile Launcer",
+      "info": "Survivalist Tree//Tier 3",
+      "detail": "`Pilot Equipment`\nYou acquire and train in the use of a Custom Missile Launcher that only you can use. It can be customised how you desire. \n\nIts Tech level is equal to that of your Union Crawler. It has the following stats at Tech 1, in addition, choose a single modification from the list below.\n\n`Damage: 3SP//Range: Medium//Missile//Explosive(1)//Heavy\n\n`Rangefinder:`The Custom Missile increases its Range to Long. \n`Laser Guidance:`You may spend 2 AP to automatically hit with the Custom Missile Launcher. This attack counts as having the Targeter Trait.\n`A.I. Tracking:`You may spend 1 AP to give the Custom Missile Launcher the Guided Trait for the next attack. This attack counts as having the Targeter Trait.\n`Napalm Rounds:`The Custom Missile Launcher gains the Anti-Organic and Burn (1) Trait. \n`Bigger Boom:`The Custom Missile Launcher gains the Explosive (2) Trait.\n`Flashy:`The Custom Missile Launcher gains the Flashy Trait. \n`Expanded Warhead:`The Custom Missile Launcher deals an additional 1 SP damage. \n`Portable:`The Custom Missile Launcher loses the Heavy Trait"
+    },
+    {
+      "name": "Critical Strike",
+      "info": "Advanced Soldier//Tier 1",
+      "detail": "`Passive`\nYou can identify points on an enemy that strike for the utmost amount of carnage.\n\nWhen rolling attacks as a Pilot or in your Mech, you score a ‘Nailed it’ result on a result of `19 - 20.`"
+    },
+    {
+      "name": "Defy Death",
+      "info": "Advanced Soldier//Tier 2",
+      "detail": "`3AP//Reaction`\nYou have the resilience and survival abilities to weather blows that would otherwise pulverise others into the dust. \n\nYou have the resilience and survival abilities to weather blows that would otherwise pulverise others into the dust. \n\nIn addition, increase your Pilot’s HP Max by 2."
+    },
+    {
+      "name": " Whirlwind Strike",
+      "info": "Advanced Soldier//Tier 3",
+      "detail": "`3AP//Turn Action`\nYou have learned to deliver a flurry of attacks against your foes.\n\nChoose a weapon you are equipped with or Weapons System on your Mech. You can attack all enemies in Range of that weapon with a single whirlwind salvo. If the weapon causes you to gain Heat or has any additional costs you must pay them for each target.\n\n*ROLL THE DIE*\n` 19 - 20:` You strike all enemies within Range of the weapon, hitting them for double damage.\n`11 - 18:` You hit all enemies within Range of the weapon.\n`6 - 10:` You hit all enemies within Range of the weapon. Choose one: you deal half damage to all targets or you deal full damage, but your weapon is damaged after finishing the attack.\n`2 - 5:` You hit one enemy in Range of the weapon, then your weapon is damaged.\n`1:` Your attacks miss. You spin wildly and then collapse, falling Prone."
+    },
+    {
+      "name": "Omega Strike",
+      "info": "Legendary Tree",
+      "detail": "`XAP//Turn Action`\nYou coordinate a team wide attack against a target, working perfectly in unison to destroy those standing against you and your allies. When activated, you and any number of Allies can make a single attack against a target of your choice. Roll each attack separately. This Ability costs 1 AP per ally that is making an attack."
+    },
+    {
+      "name": "Steel Pact",
+      "info": "Legendary Tree",
+      "detail": "`Passive`\nChoose a Weapon and Weapons System that you own. You form an extraordinary bond with these weapons. They can never be broken or destroyed through use.\n\nWhen you make an attack with either of these weapons you may roll two dice and choose the highest result. If you Push the roll you re-roll both dice. You also deal an additional amount of damage with both these weapons equal to their Tech Level."
+    }
+  ]
+}

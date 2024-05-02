@@ -1,0 +1,31 @@
+{
+  "name": "Union Rep.",
+  "info": "Requires: Mechanical Knowledge Tree (Engineer) or Leadership Tree (Hauler)",
+  "data": [
+    {
+      "name": "Union Representative",
+      "info": "Union Rep Tree//Tier 1",
+      "detail": "`Passive`\nAs a Union Rep you act as a liaison and representative between your Union Crawler and other organisations within the wastelands. These include other Union Crawlers, corporate arcologies, and wasteland settlements. You and anyone you choose as your entourage are welcomed into any of these places in a diplomatic capacity, allowing you to gain access to them and safe passage as long as you are not witnessed breaking any rules or committing any acts of violence. In addition, basic needs such as food, shelter, and clothing are provided for you\n\nIf there are any other Union Crawlers, or corporate arcologies or wasteland settlements in the are you are in, you know their location\n\nAny time you are in one of these locations you may ask the Mediator a question about the area and the answer they give must be true."
+    },
+    {
+      "name": "Union Call",
+      "info": "Union Rep Tree//Tier 2",
+      "detail": "`Downtime Action`\nAs a Union Rep you can call upon the aid of other Pilots to support you in a variety of missions. You can use this Ability once during Downtime. \n\nName the mission you wish to be completed, and name the reward. This must be something of value, such as scrap or salvage, that fits the mission. This can be discussed between the player and the Mediator. Below are some guidelines. \n\n*Sample Mission*\n• Assassinate a person.\n• Destroy a Mech. \n• Destroy the defences of a military base.\n• Find out who is responsible for a crime. \n• Escort a trade caravan or VIP to a location.\n• Perform reconnaissance in a settlement or area of the wastelands.\n• Retrieve a piece of salvage or equipment.\n\nThe standard reward for any of these missions is 5 Tech 3 Scrap or equivalent.\n\nIf the mission is deemed particularly difficult, for example, assassinating an incredibly well protected target, performing reconnaissance in a main corporate arco, or defending a high profile VIP, there ward is increased to 10 Tech 3 Scrap or the equivalent\n\nThe Mediator may adjust these values as fits the situation.\n\n*ROLL THE DIE*\n`20:`The mission is completed within a week. You pay the reward during Downtime.\n`11 - 19:`The mission is completed within two weeks. You pay the reward during Downtime.\n`6 - 10:`The mission will be completed within two weeks, but only if you pay twice the agreed reward during Downtime. \n`2 - 5:`You wait two weeks and realize the mission is not completed. You may post the mission offer again or choose a different one.\n`1:`The mission fails, and cannot be completed as something has gone badly wrong, for example, the target of an assassination attempt escapes and places a bounty on you instead, the trade caravan is destroyed, or the salvage is taken by a corpo or raider band instead."
+    },
+    {
+      "name": "Recruit",
+      "info": "Union Rep Tree//Tier 3",
+      "detail": "`4AP//Turn Action`\nYou command an NPC who can understand and assist you. They cannot be hostile towards you. You can have them join a fight or perform some other task like watching a door, defending an area, or delivering a message. If they have access to a Mech or Vehicle they can use this during the task. \n\nThey do not follow obviously absurd or suicidal orders, or anything that seriously contradicts their moral or personal codes as decided by the Mediator. \n\nThe Mediator plays the part of the NPC. If you deem them successful in their task, you can ask them to join you as part of your Union Crawler crew and go on missions together.\n\nThe recruit can pilot any Mech you have access to, and uses their own statistics as set by the Mediator. Once recruited, you control them and are responsible for tracking their information.\n\nOnce the recruit has survived a single mission or foray into the wastelands, they can choose a base Pilot Class and learn Abilities as a Pilot. They start with 10 HP and 5 Ability Points. You or the Mediator can choose these Abilities.\n\nYou may have a maximum of one recruit at a time."
+    },
+    {
+      "name": "VIP Beacon",
+      "info": "Legendary Tree",
+      "detail": "`Turn Action//Uses (1)\nYou can place a distress beacon down that will be answered within one hour. You can choose from the following options, and they come to your aid. The Mediator decides what and who the individual Mechs and Pilots are.\n\n`Corpo Mercenary Lance:` 4 Corpo Mechs of up to Tech Level 3 armed for combat.\n`Salvage Crew:` 4 Salvager Mechs of up to Tech Level 3 armed with salvaging and rigging tools\n`Corpo Mercenary Squad:` 4 Corpo Squads of up to Tech 3 armed for combat.\n`Pilot Salvage Crew:` 4 Salvager Squads of up to Tech 3 armed with salvaging and rigging tools.\n`Wasteland Mech Mob:` 10 Wasteland Mechs of up to Tech 1. \n`Wasteland Mob:` 10 Wasteland Squads of up to Tech 1"
+    },
+    {
+      "name": "Inspirational Union Leader",
+      "info": "Legendary Tree",
+      "detail": "`Turn Action//Uses (1)`\nYou are a font of inspiration, courage, and stability for your Salvage Crew, in the face of the wasteland’s myriad dangers.\n\nWhen you activate this Ability describe how you inspire your allies. You can give a speech, perform an act of courage, or bolster them in some other way of your choice.\n\nYou and all your Allies fully restore their Hit Points and Ability Points and heal all Minor Injuries. All rolls you and your Allies make for the next 10 minutes may be re-rolled, accepting the second result.\n\nThis Ability can be used once and is restored after Downtime."
+    }
+  ]
+}

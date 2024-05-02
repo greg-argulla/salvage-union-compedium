@@ -1,0 +1,75 @@
+{
+  "name": "Tech 3 (Modules)",
+  "data": [
+    {
+      "name": "Advanced Weapons Link",
+      "info": "Turn Action // Heat Spike // Hot (X)",
+      "detail": "`T3` 🔺 - 2 ⚙️ - 2\n\nAn Advanced Weapons Link Module allows you to connect any number of different Weapons Systems together. For example, you may link a Green Laser, a 30mm Autocannon, and a Red Laser. Once you link weapons this is permanent and they cannot be fired separately via any means until you uninstall this Module. \n\nYou make an attack with all weapons linked together with this Module against a single target in Range of all linked weapons. Make and resolve each attack separately. You gain 1 Heat for each linked weapon you attack with and must make a Heat Check after the attacks have been resolved."
+    },
+    {
+      "name": "Auto-Doctor",
+      "info": "",
+      "detail": "`T3` 🔺 - 2 ⚙️- 4\n\nThe Auto-Doctor is a medical droid with a rudimentary A.I. that can heal a Pilot in the field via a complex array of mechanical surgery arms. The Auto-Doctor is immobile and is installed internally within your Mech. Roll on the A.I. Personality Table for your Auto-Doctor personality or choose your own.\n\n*2EP Heal*\n`Short Action // Range: Close`\nThe Auto-Doctor heals a creature within Range up to 10 HP. If they were on 0 HP this restores them to consciousness and heals them to 10 HP.\n\n*2EP Physio*\n`Short Action // Range: Close`\nThe Auto-Doctor heals a creature within Range of a single Minor Injury.\n\n*2EP Therapy*\n`Short Action // Range: Close`\nThe Auto-Doctor engages its therapeutic and drinks dispensation protocols. A single People who talks through things with the Auto-Doctor feels a lot better about themselves, their life, and the situation they are in. (The drinks dispensation protocol does not include alcohol, but the\ntea is surprisingly passable.)\n\n*2EP First Aid*\n`Free Action // Range: Close`\nThe Auto-Doctor heals a creature within Range of up to 4 HP. If they were on 0 HP this restores them to consciousness and heals them 4 HP. "
+    },
+    {
+      "name": "Comms Tapper",
+      "info": "2EP Turn Action // Range: Long // Hacking",
+      "detail": "`T3` 🔺 - 1 ⚙️ - 2\n\nThis Stefanus-patented hacking unit allows you to tap into other communication units and listen to them. You may target anything with the Communicator Trait in Range and listen in on it for 10 minutes, hearing all inbound and outbound comms traffic. "
+    },
+    {
+      "name": "Concealed Locker",
+      "info": "Passive",
+      "detail": "`T3` 🔺 - 2 ⚙️ - 3\n\nThis equipment locker can carry up to 6 pieces of Pilot Equipment in your Mech Cockpit for easy access. Any Pilot Equipment stored in this locker cannot be found via inspection, or be seen or affected by anything with the Scanner, Hacking, or Targeter Trait. The enigmatic smuggler simply known as ‘Mx’ was said to have transported Active Meld Nanites through multiple Stefanus checkpoints and safe zones using one of these."
+    },
+    {
+      "name": "Coolant Flow Manifold",
+      "info": "",
+      "detail": "`T3` 🔺 - 1 ⚙️ - 2 \n\nThis manifold provides more control over the coolant flowing through your reactor, allowing you to inject more coolant as required.\n\n*2EP Coolant Flow*\n`Free Action`\nAdjusted valves provide coolant where required. Reduce the Heat of your Mech by 4.\n\n*1EP Coolant Flush*\n`Short Action`\nThe coolant system runs through a flush cycle. Reduce the Heat of your Mech to 0"
+    },
+    {
+      "name": "ECM Transmitter",
+      "info": "3EP Turn Action // Range: Long",
+      "detail": "`T3` 🔺 - 1 ⚙️ - 3 \n\nThis Electronic Countermeasure device developed by Stefanus nullifies electronics within a radius, preventing them from being used temporarily, jamming comms, shields, and nullifying Targeters and hacking attempts.\n\nWhen activated, all enemy Pilots, Mechs, and Vehicles within Range cannot activate or use any Pilot Equipment, Systems, Modules, or Abilities that have the Targeter, Hacking, Shield or Communicator Trait. This effect lasts for 10 minutes. "
+    },
+    {
+      "name": "Emergency Power Conduit",
+      "info": "Passive",
+      "detail": "`T3` 🔺 - 2 ⚙️ -  3\n\nIn the event that your Mech is Shutdown, this Module can reroute reactor power to keep basic functions active. \n\nIf your Mech is Shutdown, either voluntarily or involuntarily, the Emergency Power Conduit activates automatically. \nWhilst the Emergency Power Conduit is active your Mech can move and your Pilot is protected internally via any life support systems. It also does not have the Vulnerable Trait. \n\nHowever, your Mech cannot attack or activate any Systems, Modules, or Abilities whilst the Emergency Power Conduit is active, and its Heat will not reduce as it would if it were fully Shutdown. "
+    },
+    {
+      "name": "Encrypted Comms",
+      "info": "Passive",
+      "detail": "`T3` 🔺 - 1 ⚙️ -  2\n\nThis Sakura Futures-developed comms add-on encrypts all of your outgoing and ingoing communications. Anything you have installed on your Mech the Comms Trait becomes encrypted. This means any voice or text communications you send or receive cannot be listened to, tapped into, hacked, or analysed. Anything with the Hacking or Scanner Trait does not work on them."
+    },
+    {
+      "name": "Hacking Repeater Node",
+      "info": "1EP Free Action // Range: Long // Hacking",
+      "detail": "`T3` 🔺 - 1 ⚙️ -  2\n\nDeveloped by Stefanus as a means to extend the radius of their hacking zones during the cyberwars.\n\nWhen activated, your Mech acts as a range extender to various electronic devices. Any Ally within Long Range of you may use any System, Module, or Ability with the Communicator, Hacking, Scanner, or Optics Trait as though it originated from your Mech.\n\nThis effect lasts for 1 hour."
+    },
+    {
+      "name": "Multi Targeter",
+      "info": "XEP Turn Action // Targeter",
+      "detail": "`T3` 🔺 - 1 ⚙️ -  3\n\nWhen activated, you may attack with any number of Weapons Systems mounted on your Mech. Each attack must have a different target, which you must choose before you make any attacks. Make and resolve each attack separately. This Ability costs 1 EP per weapon you attack with."
+    },
+    {
+      "name": "Offensive Protocols",
+      "info": "Free Action // Heat Spike // Hot (2)",
+      "detail": "`T3` 🔺 - 1 ⚙️ -  2\n\nDesigned by salvager engineers, this module pushes your reactor to reroute energy towards your Weapons Systems, increasing their potency.\n\nWhen you activate this Module, choose a Weapons System mounted on your Mech. The next time you make an attack with this Weapons System, it deals an additional amount of SP damage equal to its Tech Level. For example, a Tech 3 Missile Pod System would deal 3 SP additional damage.\n\nWhen activated, your Mech gains 2 Heat and must make a Heat Check. You may activate this Ability on multiple different Weapons Systems on the same turn, but cannot apply it to the same Weapons System more than once."
+    },
+    {
+      "name": "Panda Sneeze",
+      "info": "2EP Turn Action // Range: Medium  Hacking",
+      "detail": "`T3` 🔺 - 1 ⚙️ -  2\n\nThis Stefanus developed hacking program allows you to hack into a Mech, database, or computer system and manipulate data within it. When activated, choose a target Mech, database, or computer system within Range.\n\n*ROLL THE DIE:*\n\n`20`: You may change or manipulate up to 5 pieces of data within the target.\n`11 - 19`: You may change or manipulate up to 3 pieces of data within the target.\n`6 - 10`: You may change or manipulate up to 2 pieces of data within the target. One of these manipulations will have a Setback attached as decided by the Mediator.\n`2 - 5`: The hacking attempt fails. The Mediator may choose an appropriate Setback.\n`1`: The hack fails and the target is alerted of your hacking attempt. They can retaliate as appropriate"
+    },
+    {
+      "name": "Sonic Screecher",
+      "info": "2EP Turn Action // Range: Medium",
+      "detail": "`T3` 🔺 - 1 ⚙️ -  2\n\nThis Drontek-manufactured Module emits a piercing sound at an ultra high frequency that stuns anyone who hears it and causes them immense and sudden pain, with potential for cerebral haemorrhages and internal bleeding. \n\nThis Module affects creatures and People that can hear, but does not affect Bio-Titans or Meld, nor does it affect anyone piloting a Mech.\n\n*ROLL THE DIE:*\n\n`20`: All targets that can hear within Range are reduced to 0 HP.\n`11-19`: All targets that can hear within Range cannot take any actions and gain the Vulnerable Trait until the end of your next turn.\n`6 - 10`: All targets that can hear within Range can choose to either not be able to take any actions until the end of your next turn or gain the Vulnerable Trait until the end of your next turn.\n`2 - 5`: The targets manage to resist the effect and are unharmed beyond some mild nausea.\n`1`: The targets are entirely unharmed. The Module malfunctions causing the sound to reverberate through your Mech’s Cockpit, your Pilot must roll on the Critical Injury Table."
+    },
+    {
+      "name": "Voice Modulator",
+      "info": "Free Action",
+      "detail": "`T3` 🔺 - 1 ⚙️ -  1\n\nThis AMS-manufactured add-on unit allows you to modulate your outgoing voice communications, allowing you to disguise your voice. The modulator allows you to alter the pitch and tone of your voice, or choose from a variety of preset voice options such as robotic, sultry, intimidating, cartoonish, and animal-like. You may also choose any other option of your choice that you can think of."
+    }
+  ]
+}

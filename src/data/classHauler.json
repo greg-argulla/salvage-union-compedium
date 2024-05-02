@@ -1,0 +1,76 @@
+{
+  "name": "Hauler",
+  "info": "Hybrid Classes: Smuggler and Union Rep.",
+  "data": [
+    {
+      "name": "Squeeze it in",
+      "info": "Salvaging Tree//Tier 1",
+      "detail": " `1AP//Turn Action//Range: Close`\nYou always find a way to squeeze that last bit of cargo into a Mech. When activated, you may temporarily increase the Cargo Capacity of a Mech in Range by 4. This effect lasts for 12 hours. You may activate this Ability multiple times on the same Mech."
+    },
+    {
+      "name": "Expert Salvager",
+      "info": "Salvaging Tree//Tier 2",
+      "detail": " You are a dab hand at scouring the wastes for every piece of salvage.\n\n*Area Salvage*\n`Passive`\nWhen you Area Salvage you gain one additional Scrap of the Tech Level of the area, and always find at least 1 Scrap. If you roll a 20 when you Area Salvage you find an additional Mech Chassis, System, or Module of the Tech Level of the area in the Damaged Condition. This is chosen randomly or by the \nMediator. \n\n*Mech Salvage*\n`1AP//Free Action`\nWhen you Salvage a Mech you may activate this Ability to choose to Salvage the Mech Chassis or any attached System or Module of your choice without rolling the die. The rest of the Mech is unsalvageable as per the normal salvaging rules."
+    },
+    {
+      "name": "Emergency Salvage Drop",
+      "info": "Salvaging Tree//Tier 3",
+      "detail": "`3AP//Short Action`\nYou can call in an emergency salvage drop that deploys from your Union Crawler. \n\nWhen you activate this Ability, choose one of the following options and it will be delivered to you from your Union Crawler in 10 minutes. You must be in the same region as Union Crawler.\n\n• Any Mech Chassis you currently have stored in your Union Crawler.\n• Any System or Module you currently have stored in your Union Crawler. \n• Up to 10 Scrap of any type you have stored in your Union Crawler. \n• Up to 5 of any Pilot Equipment you currently have stored in your Union Crawler."
+    },
+    {
+      "name": "Read a Person",
+      "info": "Trading Tree//Tier 1",
+      "detail": "`1AP//Turn Action`\nYou have a knack for being able to read people during a conversation. Choose an NPC that you are in conversation with.\n\nDuring the conversation, you can spend 1 AP to learn one of the following options. You can do this as many times as you wish during the conversation.\n\n• You learn something the target intends to do soon.\n• You learn something the target wants. \n• You learn what the target is currently feeling.\n • You learn what internally motivates the target. \n• You learn one of the target’s weaknesses or flaws.\n• You learn if the target is telling the truth or not."
+    },
+    {
+      "name": "Let's Make a Deal",
+      "info": "Trading Tree//Tier 2",
+      "detail": "`1AP//Turn Action`\nYou have a knack for being able to make a deal with the staunchest and most hard nosed folk, even in dire situations. When you use this Ability you use your leverage to negotiate a deal with a group of wastelanders, traders, corpos, or anyone else you can communicate with. \n\n*Choose your leverage*\nThis is what you are bringing to the table for the deal and offering on your end. It could be an amount of scrap, a favour, a threat, your reputation, or something else substantial appropriate to the situation.\n\n*Name your request*\nThis is what you are asking for as part of the deal. It could be aid, healing, salvage, repair, significant help, use of facilities, or anything else appropriate to the situation.\n\n*ROLL THE DIE:*\n`20:` The deal is accepted and you may ask for an additional request.\n`11 - 19:` The deal is accepted based on your leverage.\n`6 - 10:` The deal is accepted, but you must offer your leverage now. If it was scrap they want the payment in advance, if it was a threat you have to follow through on the threat immediately, if it was your reputation you must find a way to flex it now.\n`2 - 5:` The deal is rejected.\n`1:` The deal is rejected and the people you are making a deal with become hostile to you and cannot be negotiated with further."
+    },
+    {
+      "name": "No Job Too Big",
+      "info": "Trading Tree//Tier 3",
+      "detail": "`2AP//Reaction`\nYou summon all your reserves in the face of death to finish what you started. Your reputation is all you have in the wastes and yours is that you get the job done no matter the cost.\n\nActivate this Ability when you are reduced to 0 HP or a Mech you are Piloting is reduced to 0 SP. You may immediately take any Turn Action or Reaction of your choice."
+    },
+    {
+      "name": "Folk Song",
+      "info": "Trading Tree//Tier 1",
+      "detail": "`1AP//Turn Action`\nYou sing a song that kindles strong feelings in NPCs nearby. \n\nRead or sing the chorus of a song at the table, and describe your performance. You may write your own or use one from another songwriter.\n\n*Choose a mood to set for your audience:*\n`Bright:` Hearts swell with friendly enthusiasm, sparking joyful conversations.\n`Sombre:` The audience falls silent, and begins a sorrowful reflection on their suffering.\n`Proud:` Zealous feelings are ignited, making the crowd noisy and excitable.\n`Fear:` You strike fear into those gathered around you, making them agitated, furtive, and itching for a solution. \n`Comfort:` The crowd is calmed and comforted with warm feelings of safety, home, and rosy tinted memories."
+    },
+    {
+      "name": "Behemoth",
+      "info": "Trading Tree//Tier 2",
+      "detail": "`2AP//Turn Action//Range: Medium`\nYou strike fear into the hearts of any number of targets within Range. The targets must be able to understand you. Explain how you do this, and ask for what you want.\n\n*ROLL THE DIE:*\n`20:`They flee from you or acquiesce to your demands. You may choose which and may demand something in addition to what you originally requested.\n`11-19:`They flee from you or acquiesce to your demands.\n`6-10:`They flee from you, but barricade themselves in or alert something stronger to your presence.\n`2 - 5:` They stand strong in the face of you, ready to fight, and do not retreat or acquiesce. \n`1:`They stand strong in the face of you, and are much stronger than you thought. The Mediator may add reinforcements to their numbers, or improve their strength or capabilities in some other way."
+    },
+    {
+      "name": "Valiant Speech",
+      "info": "Trading Tree//Tier 3",
+      "detail": "You inspire your Allies with a rousing speech. You can write your own or borrow one from a play or movie. It can be short; reading a few powerful lines is enough.\n\nGive the speech at the table. When you complete it, each of your Allies can re-roll a single die within the next 10 minutes, accepting the second result. In addition, count a result of 19-20 for all rolls they make as a ‘Nailed It’ result for the next 10 minutes. Finally, each Ally heals 4 Hit Points, as long as they have at least 1 Hit Point."
+    },
+    {
+      "name": "Beefcake",
+      "info": "Advanced Hauler Tree// Tier 1",
+      "detail": "`Passive`\nBigger is always better. Bigger than that is the best. Any Mech you Pilot increases its Max Structure Points by 3+X (where X is the Mech’s Tech Level) and increases its Cargo Capacity by 6\n\nIn addition, your Pilot increases their Max Hit Points by 2 and Inventory Capacity by 4"
+    },
+    {
+      "name": "Mechapult Master",
+      "info": "Advanced Hauler Tree// Tier 2",
+      "detail": "You have become a master of the sacred art of scrap flinging, making you highly versed at using the Mechapult System (see p. 166).\n\n*Let me double check that*\n`1AP//Free Action`\nYou may activate this Ability when you make an attack with the Mechapult System. You may roll three times on the Mechapult Table and choose the result you want.\n\n*Load ‘er up!//1AP*\n`Free Action`\nWhen you activate this Ability you may attack twice with the Mechapult System on your turn. Make each attack separately. You may only activate this Ability once per turn. This follows all other normal rules for using the Mechapult."
+    },
+    {
+      "name": "Can't Stop, Won't Stop",
+      "info": "Advanced Hauler Tree// Tier 3",
+      "detail": "`3AP//Turn Action//Range: Medium//Melee`\nYou have learned to use the momentum and bulk of the vast weight of cargo you can carry to crush your enemies and see them driven before you. \n\nWhen you activate this Ability, choose a target in Range.\n\nYou make a special charge attack against the target. Roll to hit as normal. On a hit, this deals HP damage equal to the amount of Inventory Slots your Pilot has filled, for example, if you have 6 Inventory Slots filled, it deals 6 HP damage. Non-Bio-Titan or Meld creatures hit by this attack are knocked Prone and gain the Vulnerable Trait.\n\nIf you use this Ability whilst piloting a Mech, it deals SP damage equal to the amount of Cargo Slots you currently have filled on your Mech, for example, if you have 10 Cargo Slots filled, the attack deals 10 SP damage. Any target hit by this attack is knocked Prone and gains the Vulnerable Trait."
+    },
+    {
+      "name": "Master Salvager",
+      "info": "Legendary Tree",
+      "detail": "`2AP//Short Action//Range: Close\nYou are able to take things that are long broken and make them whole again.\n\nWhen you activate this Ability, a destroyed System, Module, or Mech Chassis in Range that you can interact with now has the Damaged Condition instead. This allows you to salvage it as per the normal salvaging rules."
+    },
+    {
+      "name": "Hauling All Day",
+      "info": "Legendary Tree",
+      "detail": "`Passive`\nYou’ve been there, seen it all, and can take on just about anything thrown at you. \n\nAny Mech that you Pilot doubles its Structure Points and Cargo Capacity. This is doubled after all other modifiers are applied."
+    }
+  ]
+}

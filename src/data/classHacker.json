@@ -1,0 +1,77 @@
+{
+  "name": "Hacker",
+  "info": "Hybrid Classes: Fabricator and Cyborg",
+  "data": [
+    {
+      "name": "Hacking Kit",
+      "info": "Hacker Tree//Tier 1",
+      "detail": "`Pilot Equipment//Hacking`\nYou acquire and train in the use of a Hacking Kit that only you can use. Add this to your Pilot Inventory. This has a basic suite of hacking transmitters and tools that can be utilized by programming hacks into it.\n\nWhen you acquire the Hacking Kit you may program a single Ability with the Hacking Trait from any System, Module, or Mech Chassis Ability you have access to into your Hacking Kit. The Hacking Kit can store a number of Abilities equal to the Tech Level of your Union Crawler, additional Abilities can be added during Down time.\n\nOnce programmed, you can use the Abilities stored on your Hacking Kit as your Pilot, and can spend AP instead of EP when using them. \n\nIn addition, any Pilot Ability you have with the Hacking Trait may be performed from your Mech. You can spend EP for this Ability instead of AP.\n\nIf your Hacking Kit is misplaced or destroyed you can acquire a new one during Downtime, it still has all your stored abilities backed up."
+    },
+    {
+      "name": "System and Software Hacker",
+      "info": "Hacker Tree//Tier 2",
+      "detail": "`2AP//Turn Action//Range: Medium//Hacking\nYou attempt to hack into a System or Module in order to disable, damage, or destroy it in some way. Choose a target System or Module in Range.\n\n*ROLL THE DIE:* \n`20:` : The System or Module is destroyed.\n`11 - 19:` The System or Module is damaged.\n`6 - 10:` The System or Module is inoperable and cannot be used until the end of the next turn.\n`2 - 5:` The hacking attempt fails. \n`1:` The hacking attempt fails and the target cannot be targeted by any Abilities with the Hacking Trait for the next 10 minutes."
+    },
+    {
+      "name": "Denial of Service Attack",
+      "info": "Hacker Tree//Tier 3",
+      "detail": "`XAP//Range: Medium//Hacking`\nThis allows you to flood any number of Mechs or Vehicles in Close Range with numerous false signals, overwhelming them with so much information that they temporarily Shutdown. This costs 1 AP per Mech or Vehicle you target.\n\n*ROLL THE DIE:*\n`20:`All targets Shutdown for one round. They are active again at the end of their next turn.\n`11 -19:`All targets Shutdown for one round. They are active again at the end of their next turn\n `6 - 10:` All targets must choose to either move or take an action during its next turn.\n `2 - 5:` The hacking attempt fails.\n `1:` All Mechs within Close Range of your Mech Shutdown for 10 minutes. This includes your Mech and those of any allies. "
+    },
+    {
+      "name": "Well actually...",
+      "info": "Electronics Tree//Tier 1",
+      "detail": "`1AP//Turn Action`\nYou can casually answer questions about Systems, Modules, Mechs, or technology even if you do not actually know the answer.\n\n*ROLL THE DIE:*\n`20:` You can ask the Mediator five questions about it and they must give you true answers.\n`11 - 19:` You can ask the Mediator three questions about it and they must give you true answers.\n`6 - 10:` You can ask the Mediator two questions about it. One of these answers must be true, but the other can be false. \n`2 - 5:` You do not actually know, and must make up a convincing answer to save your pride. \n`1:` You do not know the answer, and everyone realizes this."
+    },
+    {
+      "name": "Techno Babble",
+      "info": "Electronics Tree//Tier 2",
+      "detail": "`2AP//Turn Action`\nYou can effortlessly enunciate a stream of esoteric and mostly incomprehensible thoughts about technology. When you talk to luddites and other such regular folk whilst using this Ability, you distract them for at least 10 minutes as they try to comprehend or at least politely nod and smile.\n\nWhen you talk to any other Hacker or technophile, this Ability can be used to build rapport with them making them friendly to you. During this conversation you can request a single favour from them which they will do as long as they have the ability to, and it does not put them in significant danger, or go strongly against their moral or personal code."
+    },
+    {
+      "name": "Holo Companion",
+      "info": "Electronics Tree//Tier 3",
+      "detail": "`Pilot Equipment`\nYou have created an intelligent, holographic, A.I. companion that only you can use. Describe your Companion’s appearance, and name them. They project from a small, portable device which you can hold on your person. Add this to your Pilot Inventory.\n\nYour Holo Companion cannot interact physically with the material world, but can see, be seen, speak, and traverse it. You can project or un-project them as a Turn Action, and they can appear anywhere within Medium Range of the device. Nominate another player at the table to voice your companion. \n\nTheir personality develops over time, based on a learning algorithm. During Downtime, they gain an A.I. Personality Trait based on their recent experiences. You can use the A.I. Personality Trait Table p. 91 for this or consider your own.\n\nIf your projection device is misplaced or Crawler. destroyed you can acquire a new one during Downtime. Your A.I. is downloaded onto the device from a backup stored on your Union Crawler."
+    },
+    {
+      "name": "Bionic Senses",
+
+      "info": "Augmentation Tree//Tier 1",
+      "detail": "`Passive`\nYou gain your choice of integrated Thermal Optics, Zoom Optics, or IR Night Vision Optics. This is installed in your cranium via surgical procedure, and grants your Pilot all of the Abilities of the chosen Module. You must spend AP instead of EP to use any of these Abilities. During Downtime you may undergo a further surgical procedure in a Med Bay to remove your current integrated optics and install another one of your choice from the list above."
+    },
+    {
+      "name": "Bionic Arms",
+      "info": "Augmentation Tree//Tier 2",
+      "detail": "`Passive`\nYou gain a set of bionic arms, surgically installed to any specification you desire. They provide you the following weapon attack, where X is equal to the Tech Level of your Union Crawler.\n\n`Range: Close//Damage: X SP//Melee`\n\nIn addition, you can heal a Minor Injury during Downtime by spending 2 Tech 1 Scrap at any Crafting Bay. \n\nYou also increase your Pilot’s Max HP by 2."
+    },
+    {
+      "name": "Bionic Legs",
+      "info": "Augmentation Tree//Tier 3",
+      "detail": "`Passive`\nYou gain a set of bionic legs, surgically installed to any specification you desire. This allows you to move an additional Range band during your turn as a Turn Action.\n\nIn addition, you can heal a Major Injury during Downtime by spending 4 Tech 1 Scrap at any Crafting Bay.\n\nYou also increase your Pilot’s Max HP by 2."
+    },
+    {
+      "name": "Trojan Horse",
+      "info": "Advanced Hacking Tree//Tier 1",
+      "detail": "`4AP//Turn Action//Range: Medium//Hacking`\nYou have learned how to hack into the root control systems of a Mech in order to `pwn` them.\n\nWhen you activate this Ability you gain full control of a Mech within Range for 10 minutes. You learn all of its Stats, Systems, Modules, and Abilities, and can control it as though it was 2 your Mech. Whilst it is under your control, you cannot take any actions as a Pilot or with your Mech except for free actions such as talking.\n\nYou can choose to end control of the Mech at any time as a Free Action. If you are reduced to 0 HP, or your Mech is reduced to 0 SP, you also lose control of the hacked Mech."
+    },
+    {
+      "name": "Counter-Hacking",
+      "info": "Advanced Hacking Tree//Tier 2",
+      "detail": "`1AP//Reaction//Range: Medium//Hacking`\nYour firewalls are bristling with multiple worms which can create backdoors directly into an opposing hacker’s Systems. Now the hunter becomes the hunted. You may activate this Ability as a Reaction in response to any other Ability with the Hacking Trait that targets you or an Ally within Medium Range. \n\n*ROLL THE DIE:*\n`20:` You stop the hacking attempt. In addition, you can activate any of your Abilities with the Hacking Trait in response as a Reaction, without paying their EP or AP cost.\n`11 - 19:` You stop the hacking attempt. In addition, you can activate any of your Abilities with the Hacking Trait in response as a Reaction. \n`6 - 10:` You can choose to stop the hacking attempt, or activate one of your Abilities with the Hacking Trait in response.\n`2 - 5:` Your counter hacking attempt fails\n`1:` Your counter hacking attempt fails, and the opposing hacker can activate any Ability with the Hacking Trait in response to your attempt\n"
+    },
+    {
+      "name": "Worm",
+      "info": "Advanced Hacking Tree//Tier 3",
+      "detail": "`XAP//Turn Action//Range: Medium//Hacking`\nYou have programmed a complex worm virus that can traverse through a network of multiple Mechs, causing havoc and chaos amongst their installed Systems and Modules, and even potentially disabling their Chassis entirely. \n\nChoose any number of target Mechs within Medium Range. This Ability costs 1 AP per Mech you target.\n\n*ROLL THE DIE:*\n`20:` The Chassis of all targeted Mechs is damaged and inoperable until repaired. \n`11 - 19:` A System and Module of your choice on each Mech is damaged. \n`6 - 10:` A System or Module of your choice on each Mech is damaged.\n`2 - 5:` A System or Module on one targeted Mech of your choice is damaged.\n`1:` The Worm fails to upload to the targets and has no effect."
+    },
+    {
+      "name": "Network Takeover",
+      "info": "Legendary Tree",
+      "detail": "`5AP//Turn Action//Range: Far//Hacking`\nYou no longer even see the code, you simply see, corpo, construction mech, redhead, base defences.\n\nYou can hack into the entire network of a settlement in the wastelands within Far Range, and gain full control of it for 10 minutes. This can be an entire corporate arco, a Union Crawler, or a wastelander settlement. Whilst in control, you can take any action that would make sense for the network, for example, you can activate or deactivate any of the defence systems in the arco, disable the reactor of a Union Crawler, or disable the life support systems of a wasteland settlement. You can also send corpo mercenaries towards a fake distress signal, disable base defences, and turn off all of the lights and scanning systems in a settlement."
+    },
+    {
+      "name": "Spyware",
+      "info": "Legendary Tree",
+      "detail": "`5AP//Turn Action//Range: Far//Hacking`\nYou have developed advanced Spyware which is able to access confidential information from an entire settlement and permanently spy upon them.\n\nYou can hack into any settlement network in the wastelands within Far Range, and install your spyware onto their systems. This allows you to permanently spy on them. This can be an entire corporate arco, a Union Crawler, or a wastelander settlement. You gain knowledge of all of their communications, any troop or Mech movements, any logs or data reports, and can view information from any scanning or radar devices they have and anything else that would make sense to be recorded on their computer or electronic systems. You can only have your Spyware installed on one settlement at a time, but it remains permanently installed on the settlement’s network."
+    }
+  ]
+}

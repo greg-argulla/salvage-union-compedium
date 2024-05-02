@@ -1,0 +1,60 @@
+{
+  "name": "Tech 5 (Systems)",
+  "data": [
+    {
+      "name": "Amphibious Locomotion System",
+      "info": "Passive // Amphibious",
+      "detail": "`T5` 🔺 - 5 ⚙️ - 3\n\nDeveloped by Aegean Dynamics, this System allows your Mech to move on land and underwater. You may move underwater with ease, suffering no restrictions or penalties, and can operate in underwater conditions indefinitely at significant depths. Aegean Dynamics suffered a hostile takeover from Contour Dynamics and was forced to be their subsidiary, but there are rumors they have a hidden arco somewhere in the depths of the Oceanic Rim. "
+    },
+    {
+      "name": "Blue Beam Laser",
+      "info": "Range: Long // Damage: X SP // Hot (X) ",
+      "detail": "`T5` 🔺 -  7⚙️ - 4\n\nThis laser is designed to be charged before fired, burning up a reactor, but potentially dealing horrendous damage to a target. An effective siege weapon due to having time between attacks to cool down the Mech, these were deployed in the First Corpo War by Evantis to obliterate the Last Redoubt of Nations and pave the way for corpo rule.\n\nBefore you make an attack with this Weapons System, choose a number. Your Mech gains Heat equal to this number. If the attack hits the target it deals damage equal to this number. For example: if you increase your Heat by 3, the attack deals 3 SP damage. You cannot choose a number that would exceed your Mech’s Heat Capacity."
+    },
+    {
+      "name": "Ejector Pod",
+      "info": "Reaction // Escape",
+      "detail": "`T5` 🔺 - 3 ⚙️ - 3\n\nDeveloped by Sakura Futures as a means for their pilots to eject from their Mech in safety and comfort. This high-tech ejection System allows you to escape your Mech in the comfort of a well armoured Ejector Pod. The Ejector Pod rocket is propelled from your Mech and lands safely via the aid of a graviton stabilisation system.\n\nThe Ejector Pod has 5 SP when deployed.\n\n*ROLL THE DIE:*\n\n`20`: The pod ejects perfectly and lands in any location within Far Range of your Mech.\n`11 - 19`: The pod ejects safely and lands within Long Range of your Mech.\n`6 - 10`: The pod ejects and lands within Medium Range of the Mech. The ride is bumpy and your Pilot suffers a Minor Injury.\n`2 - 5`: The Ejector Pod fails to trigger. You may not attempt to use it again until your next turn.\n`1`: The Ejector Pod fails to trigger and is damaged in the process, it cannot be used until repaired to the Intact Condition."
+    },
+    {
+      "name": "Fabrication Bay",
+      "info": "3EP Short Action // Range: Close",
+      "detail": "`T5` 🔺 - 7 ⚙️ - 5\n\nDeveloped by Osiris Construction as a mobile field Repair Bay. This System mounts onto a Mech and allows other Mechs to repair and recharge within its restorative hull temporarily repairing damage to them through use of metal epoxy and hydrofluids.\n\nWhen activated, choose one of the following options. You may not use these Abilities on your own Mech.\n\n`•` Restore up to 15 SP to a target Mech within the Fabrication Bay with at least 1 SP.\n`•` Restore up to 2 EP to a target Mech within the Fabrication Bay.\n`•` Repair up to 3 damaged Systems or Modules of Tech 1-5 within the Fabrication Bay to Intact condition.\n`•` Repair up to 2 damaged Mech Chassis or Vehicles of Tech 1-5 within the Fabrication Bay to Intact Condition. "
+    },
+    {
+      "name": "Ion Cannon",
+      "info": "Range: Long // Damage: 3 SP // Anti-Shielding // Energy // Ion",
+      "detail": "`T5` 🔺 - 5 ⚙️ - 4\n\nThis Weapons System fires a disabling bolt of ionised energy at the target. A target hit by this weapon cannot activate any Systems, Modules, or Abilities that have an Energy Cost on their next turn.\n.\nStefanus forced Ascension PLC, one of their subsidiaries to develop this as a countermeasure to their own Neura-Phage Mech, as Neura-Phage Pilots are known to sometimes be driven insane after spending too long wired into the cockpit."
+    },
+    {
+      "name": "Mole Torpedo",
+      "info": "Range: Long // Damage: 7 SP // Anti-Shielding // Guided // Missile // Targeter // Uses (6)",
+      "detail": "`T5` 🔺 - 6 ⚙️ - 5\n\nThis Weapons System fires a bunker busting torpedo with an explosive charge that burrows into the earth and travels underneath a target, causing a controlled explosion beneath it making it effective against shields.\n\nThis weapon was used to bust open the underground home arco of the Spyre Corpo in the Central Wastes by TDA rebels. The ensuing massacre following the siege saw the corpo’s oligarchs, executives, and elites summarily tried and executed, and its holdings permanently liquidated."
+    },
+    {
+      "name": "Multi-Function Repair Arm",
+      "info": "",
+      "detail": "`T5` 🔺 - 3 ⚙️ - 3\n\nDeveloped by Stefanus initially to repair the intricately complex mechanisms within the Neura-Phage Chassis, this system can fix up some of the most advanced tech out in the wastes.\n\n*2EP Patch*\n`Turn Action // Range: Close`\nYou restore up to 8 Structure Points to any Mech in Range that has at least 1 SP.\n\n*2EP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, 4, or 5 System or Module in Range to Intact Condition. It is now usable.\n\n*4EP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, 4, or 5 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
+    },
+    {
+      "name": "Monomelecular Blade",
+      "info": "Range: Close // Damage: 7 SP // Deadly // Energy // Melee // Wield",
+      "detail": "`T5` 🔺 - 3 ⚙️ - 3\n\nA honed-carbon fibre blade with a monomolecular energy field that can slice through a Mech like butter.\n\nNobody is sure who designed these, but they started appearing in salvage spots around the Nanite Sea following the first Meld incident"
+    },
+    {
+      "name": "Multi-Phase Shield",
+      "info": "3EP Reaction // Shield",
+      "detail": "`T5` 🔺 - 6 ⚙️ - 5\n\nThis multi-phase shield array was developed as a collaboration between Aeon and Stefanus and protects a Mech against a wide array of attacks.\n\nWhen you are hit by an attack you may activate your Multi-Phase Shield to prevent the hit.\n\n*ROLL THE DIE:*\n\n`20`: The attack deals no damage and reflects back at the attacker, hitting them for the damage of the weapon they attacked with.\n`11 - 19`: The attack misses and deals no damage.\n`6 - 10`: You may choose to gain Heat equal to the damage of the weapon. If you do so, the attack deals no damage. If you do not, the attack deals damage as normal.\n`2 - 5`: The attack hits as normal.\n`1`: The attack hits as normal and the shield overloads. Your Mech gains 2 Heat and must make a Heat Check."
+    },
+    {
+      "name": "Plasma Shield",
+      "info": "Range: Medium // Damage: 5 SP // Burn (2) // Explosive (2) // Hot (2) // Overheat",
+      "detail": "`T5` 🔺 - 6 ⚙️ - 5\n\nThis Weapons System coats an area in superheated plasma which sticks to targets and burns through them. The effect is devastating against anyone in the open or unprotected terrain, burning them to a crisp in an instant. The weapon not only inflicts immediate damage against a Mech, it can also cause the Mech’s reactor to overheat.\n\nThis weapon was nearly banned under the terms of the Corporate Council Convention on Inhumane Weaponry. Aeon lawyers successfully argued that since the plasma heats to temperatures comparable to the centre of the sun, any man or woman hit by the weapon would instantly disintegrate and therefore not feel any pain."
+    },
+    {
+      "name": "Reflective Shielding",
+      "info": "2EP Reaction // Range: Close // Shield",
+      "detail": "`T5` 🔺 - 4 ⚙️ - 3\n\nThis shielding array of Stefanus design is specifically designed to reflect attacks back at the target.\n\nWhen you or a target in Close Range is hit by a weapon with the Ballistic or Energy Trait you may activate your Reflective Shielding to prevent the hit.\n\n*ROLL THE DIE:*\n\n`20`: The attack deals no damage and is reflected devastatingly back at the attacker, hitting them for 2× the damage of the weapon they attacked with.\n`11 - 19`: The attack deals half damage and is reflected back at the attacker dealing the full damage of the weapon they attacked with to them. \n`6 - 10`: The attack deals full damage and is reflected back at the attacker dealing half damage to them of the weapon they attacked with. \n`2 - 5`: The shielding fails and you are hit by the attack as normal.\n`1`: The shield malfunctions. You take no damage from the attack, but it is deflected to a random target within Medium Range, which takes the full damage of the attack. In addition, your Reflective Shielding System becomes damaged."
+    }
+  ]
+}

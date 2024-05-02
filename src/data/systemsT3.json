@@ -1,0 +1,110 @@
+{
+  "name": "Tech 3 (Systems)",
+  "data": [
+    {
+      "name": "120mm Cannon",
+      "info": "Range: Long // Damage: 6 SP // Ballistic // Explosive (1) ",
+      "detail": "`T3` 🔺 - 7 ⚙️ - 4\n\nThis chunky Weapons System fires a huge ballistic charge that explodes on impact. These are said to be so old they were used by actual nations during the First Corporate War.\n\nDespite their simplicity and weight, they’re still undeniably effective when combined with modern targeting and tracking\nsystems. "
+    },
+    {
+      "name": "AFF Coolant Foam",
+      "info": "1EP Turn Action // Range: Close  // Uses (5)",
+      "detail": "`T3` 🔺 - 2 ⚙️ - 2\n\nThis device sprays highly pressurized Aqueous Film Forming Coolant Foam on a Mech, rapidly reducing their Heat levels. It can also be used to quench blazing fires.\n\nReduces the Heat of a target Mech in Range to 0."
+    },
+    {
+      "name": "Articulated rigging Arm",
+      "info": "Rigging // Salvaging",
+      "detail": "`T3` 🔺 - 3 ⚙️ - 3\n\nThis advanced rigging arm has multiple interacting joints allowing for a much greater degree of movement and utility, enabling the user to dig through salvage and manipulate objects in their external environment.\n\nThe Mechs in the fighting pits of Osiris often have several articulated rigging arms to aid in grappling and ripping chunks off other Mechs.\n\nIf you have two or more Articulated Rigging Arms your Mech gains the Climbing Trait."
+    },
+    {
+      "name": "Capacitance Bank",
+      "info": "Passive",
+      "detail": "`T3` 🔺 - 4 ⚙️ - 2\n\nUsing Opus developed supercapacitors this hefty capacitor bank is attached externally and connected to a Mech’s reactor. Storing excess produced energy it is also capable of rapidly discharging that energy when needed.\n\nThis System increases your Mech’s Maximum EP by 2 for each bank installed"
+    },
+    {
+      "name": "Composite Armour",
+      "info": "Passive",
+      "detail": "`T3` 🔺 - 3 ⚙️ - 1\n\nLayered plates of highly resilient metals, plastics, and ceramics that provide additional protection to your Mech.\n\nThis System increases your Mech’s Max SP by 5 for each Composite Armour System you have installed.\n\nIf this System is Damaged or Destroyed reduce your Max SP by 5 and reduce your current SP to match your new Max SP."
+    },
+    {
+      "name": "Ejection System",
+      "info": "Reaction // Escape",
+      "detail": "`T3` 🔺 - 2 ⚙️ - 2\n\nAn Ejection System propels a Pilot from their Mech’s cockpit to a safe distance, where they land with the aid of a parachute. This allows you to escape your Mech in the event it suffers critical damage, is destroyed, or you find yourself in a tight spot.\n\n*ROLL THE DIE:*\n\n`20`: You eject perfectly from the Mech and land in any location up to Far Range of your Mech.\n`11 - 19`: You eject safely from the Mech and land unharmed within Long Range of your Mech.\n`6 - 10`: You eject, but suffer injury in the process. You land within Medium Range of your Mech and must roll on the Critical Injury Table for your Pilot.\n`2 - 5`: The Ejection System fails to trigger and is damaged in the process.\n`1`: The Ejection System severely malfunctions, harming you inside your cockpit.\nThe Ejection System is destroyed and your Pilot must roll on the Critical Injury Table."
+    },
+    {
+      "name": "Electro-Magnetic Shield Projector",
+      "info": "2EP Reaction // Range: Close // Shield",
+      "detail": "`T3` 🔺 - 2 ⚙️ - 2\n\nThis Aeon-designed shield projector emits an electro-magnetic field that can stop ballistics impacts in their tracks.\n\nWhen you or a target in Close Range is hit by a weapon with the Ballistic Trait, you may attempt to use your Electro-Magnetic Shield to prevent the hit.\n\n*ROLL THE DIE:*\n\n`20`: The attack misses, deals no damage, and is reflected back at the attacker, hitting\nthem for the damage of the weapon.\n`11 - 19`: The attack misses and deals no damage.\n`6 - 10`: You may choose to gain Heat equal to the damage of the weapon that attacked you. If you do the attack misses and deals no damage. if you do not, the attack deals damage as normal.\n`2 - 5`: The attack hits as normal.\n`1`: The attack hits as normal and your shield overloads. Your Mech gains 2 Heat and must make a Heat Check"
+    },
+    {
+      "name": "Fabrication Arm",
+      "info": "",
+      "detail": "`T3` 🔺 - 3 ⚙️ - 3\n\nThis multi-purpose fabrication arm produces a resilient form of metallic oxide epoxy allowing specialized field repairs.\n\n*2EP Patch*\n`Turn Action // Range: Close`\nYou restore up to 6 Structure Points to any Mech in Range that has at least 1 SP.\n\n*2EP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, or 3 System or Module in Range to Intact Condition. It is now usable.\n\n*4EP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, or 3 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
+    },
+    {
+      "name": "Heavy Duty Mining Rig",
+      "info": "Range: Close // Damage: 6 SP // Deadly // Melee // Salvaging // Unwieldy",
+      "detail": "`T3` 🔺 - 7 ⚙️ - 4\n\nA heavy duty industrial mining rig that can be used to deal carnage in a pinch.\n\nDeveloped by Evantis for use in offworld colony mining, based on the Thatcher Steel blueprint. As is typical of Evantis design they like to prove they do it bigger and better than the competition."
+    },
+    {
+      "name": "Long Barelled Green Laser",
+      "info": "Range: Long // Damage: 4 SP // Energy // Hot (1)",
+      "detail": "`T3` 🔺 - 5 ⚙️ - 2\n\nA Green Laser with an extended beam mount and heat sink allowing it to fire over a longer distance, whilst reducing its heat load. Salvagers adapted this tech from the original Opus Institute design and used them effectively in the Second Corpo War to take control of the great spires of the Aeon home arco in the Verdant Crescent."
+    },
+    {
+      "name": "Mech Melee Armament",
+      "info": "Range: Close // Damage: 5 SP // Melee // Wield",
+      "detail": "`T3` 🔺 - 2 ⚙️ - 2\n\nThis System covers a wide array of close combat weapons designed for Mechs including swords, hatchets, and clubs. When crafting this you may describe what the weapon looks like.\n\nGladiator Pilots who fight for corpo scrip in the pits of the sprawling Osiris home arco favor these weapons for the spectacle they engender.\n\n`Dueling is prohibited by Union Code § 914 - Art. 114. (b) unless under strict supervision by a chartered Union Rep.`"
+    },
+    {
+      "name": "Missile Pod",
+      "info": "Range: Long // Damage: 8 SP // Explosive (2) // Hot (1) // Missile // Uses (6)",
+      "detail": "`T3` 🔺 - 7 ⚙️ - 5\n\nMissile Pods fire a heavy salvo of unguided, rocket propelled explosives over a wide area of terrain.\n\nThe Contour Aerospace execs were so proud of this design that when Aegean Dynamics surrendered to them they decided to shell their home arco to oblivion anyway and chalk the cost up as research and development."
+    },
+    {
+      "name": "Prawn Sifter",
+      "info": "Rigging // Salvaging",
+      "detail": "`T3` 🔺 - 5 ⚙️ - 3\n\nThis complex prawn-like array of salvaging arms allows for the rapid and efficient Area Salvage, increasing your chances to find Mech Chassis, Systems, and Modules in an area.\n\nWhen performing Area Salvage with a Prawn Sifter, use the following table instead.\n\n*ROLL THE DIE:*\n\n`20`: You find a damaged Mech Chassis of the Tech Level of the area. This can be determined randomly or chosen by the Mediator.\n`11 - 19`: You find a damaged System of the Tech Level of the area. This can be determined randomly or chosen by the Mediator.\n`6 - 10`: You find a damaged Module of the Tech Level of the area. This can be determined randomly or chosen by the Mediator.\n`2 - 5`: You find 2 Scrap of the Tech Level of the area.\n`1`: You find 1 Scrap of the Tech Level of the area"
+    },
+    {
+      "name": "Radiation Sealing",
+      "info": "Passive",
+      "detail": "`T3` 🔺 - 3 ⚙️ - 3\n\nRadiation Sealing consists of layers of radiation proof materials combined with airtight sealant that protects your Mech and Pilot from radiation and other environmental hazards. This fully seals your Mech against radiation as well as other hazardous environmental effects. You and your Mech take no damage from radiation or hazardous environmental effects such as rad storms or areas of toxic waste. In addition, when dealing with severe environmental hazards, they may Push for free to circumvent or resist any effects. Your Mech can also function for up to an hour fully submerged in any non-corrosive liquid"
+    },
+    {
+      "name": "Rail Rifle",
+      "info": "Range: Far // Damage: 5 SP // Ballistic // Hot (1)",
+      "detail": "`T3` 🔺 - 7 ⚙️ - 4\n\nDeveloped by Sakura Futures for use in wetwork against heavily protected targets such as Consul Mechs, this lightweight railgun was reverse engineered from an original Evantis design. It fires an electro-magnetic ballistic charge at a phenomenal Range. "
+    },
+    {
+      "name": "Red Pulse Laser",
+      "info": "Range: Close // Damage: 5 SP // Energy // Hot (1)",
+      "detail": "`T3` 🔺 - 5 ⚙️ - 3\n\nShoots a hail of red lasers at a target sacrificing some range for increased firepower. Djinn Mechs mounted with these were effective in the retaking of the Aeon home arco in the Verdant Crescent from TDA rebels following Impact Day."
+    },
+    {
+      "name": "Rotary Minigun",
+      "info": "Range: Medium // Damage: 4 SP // Ballistic // Hot (1) // Jamming // Multi-Attack (2) // Pinning",
+      "detail": "`T3` 🔺 - 7 ⚙️ - 4\n\nThis Evantis-developed Mech-mountable rotary ballistic weapon fires a horrifying hail of firepower at a target. This was the favored weapon of the legendary salvager Flash, who was said to have held off an entire Evantis lance whilst defending their Union Crawler #129 during the Reclamation"
+    },
+    {
+      "name": "Smuggling Hold",
+      "info": "Passive",
+      "detail": "`T3` 🔺 - 5 ⚙️ - 2\n\nA black box hold that disguises cargo within it from scans and inspections by enforcement agents. It is likely the tenuous corporate economy would collapse if it was not for smugglers making hot runs \nbetween arcos to deliver all manner of contraband goods such as patented plant seeds, vital medicines, and weapons for anyone planning a rebellion.\n\nThis hold increases your Cargo Capacity by 8. In addition, all cargo you store in this hold and the hold itself cannot be found by any inspections or be seen or targeted by anything with the Scanning, Hacking, Optics, or Targeter Trait."
+    },
+    {
+      "name": "Spider Locomotion System",
+      "info": "Passive",
+      "detail": "`T3` 🔺 - 4 ⚙️ - 4\n\nA series of lightweight, spider-like legs that allow for easy traversal over terrain and vertical movement.\n\nThis Locomotion System, alongside allowing your Mech to move as normal, grants your Mech the Climbing Trait. This allows your Mech to easily traverse all forms of Difficult Terrain without penalty, and climb vertical and sheer surfaces with ease."
+    },
+    {
+      "name": "Target Painter",
+      "info": "2EP Turn Action // Range: Close // Targeter",
+      "detail": "`T3` 🔺 - 2 ⚙️ - 3\n\nThe Target Painter focusses a small beam on a target, tagging it so that missiles can automatically hit.\n\nWhen activated, choose any target in Range. Until the start of your next turn, all Ranged attacks your Allies make with the Missile Trait may automatically hit the target as though they rolled a 11-19. These attacks all count as having the Targeter and Guided Traits for this attack in addition to their other Traits."
+    },
+    {
+      "name": "Vectored Thrust Unit",
+      "info": "Free Action // Hot (2) ",
+      "detail": "`T3` 🔺 - 4 ⚙️ - 5\n\nDeveloped by Contour Aerospace, a Vectored Thrust Unit or VTU provides a Mech with limited air propulsion allowing them to jump over terrain, other Mechs and obstacles.\n\nWhen activated, the movement of your Mech this turn ignores all terrain and obstacles. You can leap on top of tall buildings and other structures, as well as behind targets within Close Range, granting you better vantage points for reconnaissance and attack."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Ranger",
+  "info": "Requires: Sniper Tree (Scout) or Survivalist Tree (Solider)",
+  "data": [
+    {
+      "name": "Mecha Companion",
+      "info": "Ranger Tree//Tier 1",
+      "detail": "`Pilot Equipment`\nYou have constructed a mechanical companion. Name and describe your new best friend and choose an A.I. Personality Trait for them. You may choose your own or roll on the A.I. Personality Table (see `p. 91`).\n\nYour Mecha Companion can look however you wish. It could be a quadrupedal dog-like construction, a chonky mecha-bear, an elongated mechanical snake, or anything else you can imagine. Your Mecha Companion acts independently of you, on its own turn. You can give it any command as a Free Action. \n\nYour Mecha Companion uses the same rules as Mechs for attaching Systems and Modules; taking damage and being repaired; as well as Heat and Heat Checks. Your Mecha Companion cannot Push.\n\nYour Mecha Companion has a Tech Level equal to your Union Crawler (Tech 3 minimum). If your Union Crawler is upgraded, so is your Mecha Companion, it gains additional stats as shown for each Tech level above the first. If your Mecha Companion becomes destroyed or is misplaced you can acquire a new one during Downtime. You may only ever have one Mecha Companion at a time. \n\n*Mecha Companion*\n`Structure Pts:` 12\n`Energy Pts:` 5\n`Heat Cap:` 8\n`System Slots:` 12\n`Module Slots:` 2\n`Cargo Cap:` 3\n`Tech Level:` 3\n`Salvage Value:` 2\n\n*BONUS per Tech Level*\n`Structure Pts:` +4\n`Energy Pts:` +1\n`Heat Cap:` +2\n`System Slots:` +3\n`Module Slots:` +1\n`Cargo Cap:` +1\n`Tech Level:` +1\n`Salvage Value:` -"
+    },
+    {
+      "name": "Snipe",
+      "info": "Ranger Tree//Tier  2",
+      "detail": "`3AP//Free Action`\n\nYou sharpen your senses, surpassing normal limits to pick off a target at Range. The next ranged weapon attack you make deals 2× damage if it hits. In addition, you may increase the Range Band of the attack by one, for example, Long Range becomes Far Range, or Close Range becomes Medium Range. "
+    },
+    {
+      "name": "Infiltration",
+      "info": "Ranger Tree//Tier 3",
+      "detail": "`3AP//Long Action`\nYou are unrivalled at being able to infiltrate the most dangerous and well-guarded areas of the wastelands, and carry out acts of assassination, sabotage, or theft, or simply cause chaos, before slipping away unseen.\n\nWhen you activate this Ability you infiltrate a settlement, arco, camp, home, or other dwelling. Describe how you do this. You infiltrate this place safely and unseen. \n\nWhilst in this area you may spend an additional 1 AP to perform an act of sabotage from the following list. You may perform up to three acts of sabotage in this way. Describe how you perform each of them.\n\n • Assassinate a wastelander, low ranking officer, or similar human target within the area. You will need an additional plan to kill higher ranked targets such as commanders or corpo execs.\n • Damage a structure such as a guard post, mech bay, or hab block. \n• Damage a Mech within the area.\n • Steal something Pilot-sized from within the area such as a piece of equipment, important documents, or a valuable artefact.\n • Rile up wastelanders within the area enough for them to riot and cause widespread damage and destruction.\n• An act of sabotage of your choice. The Mediator will decide if it is appropriate. You are able to leave this place safely and unseen whenever you desire."
+    },
+    {
+      "name": "Mecha Packmaster",
+      "info": "Legendary Tree",
+      "detail": "`Pilot Equipment`\nYou have trained to be able to construct and control an additional Mecha Companion. This follows all of the normal rules for the Mecha Companion Ability (see `p. 68`), but allows you to have up to two Mecha Companions active in the field at any one time."
+    },
+    {
+      "name": "One with the Wastelands",
+      "info": "Legendary Tree",
+      "detail": "`Passive`\nYou have gained pure affinity with the wastelands offering you the following benefits. These apply whilst on foot or when piloting your Mech.\n\n • When entering any point on the area map, you can ask the Mediator two questions about it, and the answer they give must be true.\n • You have expanded knowledge of the denizens of the wasteland. If you encounter a wastelander or wasteland creature, you can ask the Mediator one question about them, and the answer they give must be true.\n • Your Pilot can move from points on the Campaign Map in a day, points on the area map in an hour, and points on the Region Map in 10 minutes. \n• Difficult Terrain does not slow down your movement in the wastelands.\n • You can never become lost in the wastelands, and are always able to find a route from where you are to where you need to go.\n • You are always able to find food, water, and shelter in the wastelands\n • You are always alert to danger in the wastelands, and can never be ambushed. \n• You can rally a local populace to your cause. At any wastelander settlement you can muster a Wastelander Mob, a Wastelander Mech, or up to four Wastelanders; who join you as allies."
+    }
+  ]
+}

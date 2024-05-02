@@ -5,17 +5,45 @@ import ChatComponent from "./ChatComponent";
 import "./App.css";
 
 /* Data */
-import techOneChassis from "./data/techOneChassis.json";
-import techTwoChassis from "./data/techTwoChassis.json";
-import techOneSystems from "./data/techOneSystems.json";
-import techOneModules from "./data/techOneModules.json";
+import classEngineer from "./data/classEngineer.json";
+import classHacker from "./data/classHacker.json";
+import classHauler from "./data/classHauler.json";
+import classScout from "./data/classScout.json";
+import classSoldier from "./data/classSoldier.json";
 
-import techOneEquipment from "./data/techOneEquipment.json";
-import techTwoEquipment from "./data/techTwoEquipment.json";
-import techThreeEquipment from "./data/techThreeEquipment.json";
-import techFourEquipment from "./data/techFourEquipment.json";
-import techFiveEquipment from "./data/techFiveEquipment.json";
-import techSixEquipment from "./data/techSixEquipment.json";
+import hybridCyborg from "./data/hybridCyborg.json";
+import hybridFabricator from "./data/hybridFabricator.json";
+import hybridRanger from "./data/hybridRanger.json";
+import hybridSmuggler from "./data/hybridSmuggler.json";
+import hybridUnionRep from "./data/hybridUnionRep.json";
+
+import chassisT1 from "./data/chassisT1.json";
+import chassisT2 from "./data/chassisT2.json";
+import chassisT3 from "./data/chassisT3.json";
+import chassisT4 from "./data/chassisT4.json";
+import chassisT5 from "./data/chassisT5.json";
+import chassisT6 from "./data/chassisT6.json";
+
+import systemsT1 from "./data/systemsT1.json";
+import systemsT2 from "./data/systemsT2.json";
+import systemsT3 from "./data/systemsT3.json";
+import systemsT4 from "./data/systemsT4.json";
+import systemsT5 from "./data/systemsT5.json";
+import systemsT6 from "./data/systemsT6.json";
+
+import modulesT1 from "./data/modulesT1.json";
+import modulesT2 from "./data/modulesT2.json";
+import modulesT3 from "./data/modulesT3.json";
+import modulesT4 from "./data/modulesT4.json";
+import modulesT5 from "./data/modulesT5.json";
+import modulesT6 from "./data/modulesT6.json";
+
+import equipmentT1 from "./data/equipmentT1.json";
+import equipmentT2 from "./data/equipmentT2.json";
+import equipmentT3 from "./data/equipmentT3.json";
+import equipmentT4 from "./data/equipmentT4.json";
+import equipmentT5 from "./data/equipmentT5.json";
+import equipmentT6 from "./data/equipmentT6.json";
 
 import traits from "./data/traits.json";
 import keywords from "./data/keywords.json";
@@ -30,20 +58,46 @@ const Text = (props) => {
 };
 
 const collection = [
+  "Classes",
+  classEngineer,
+  classHacker,
+  classHauler,
+  classScout,
+  classSoldier,
+  "Hybrid Classes",
+  hybridCyborg,
+  hybridFabricator,
+  hybridRanger,
+  hybridSmuggler,
+  hybridUnionRep,
   "Chassis",
-  techOneChassis,
-  techTwoChassis,
+  chassisT1,
+  chassisT2,
+  chassisT3,
+  chassisT4,
+  chassisT5,
+  chassisT6,
   "Systems",
-  techOneSystems,
+  systemsT1,
+  systemsT2,
+  systemsT3,
+  systemsT4,
+  systemsT5,
+  systemsT6,
   "Modules",
-  techOneModules,
+  modulesT1,
+  modulesT2,
+  modulesT3,
+  modulesT4,
+  modulesT5,
+  modulesT6,
   "Equipment",
-  techOneEquipment,
-  techTwoEquipment,
-  techThreeEquipment,
-  techFourEquipment,
-  techFiveEquipment,
-  techSixEquipment,
+  equipmentT1,
+  equipmentT2,
+  equipmentT3,
+  equipmentT4,
+  equipmentT5,
+  equipmentT6,
   "Other",
   traits,
   keywords,
