@@ -47,12 +47,12 @@
       "detail": "`T4` 🔺 - 5 ⚙️ - 4\n\nA Hover Locomotion System allows a Mech to move by hovering over terrain, obstacles, and even bodies of water, entirely circumventing them through grav propulsion. Mechs with this System gain the Hover Trait. DronTek holds the main patent for this, which has helped them secure the market on hover Mechs and drones and protect the relatively small corpo from hostile takeover."
     },
     {
-      "name": "Laser anti-Missle System",
+      "name": "Laser anti-Missile System",
       "info": "1EP Reaction",
       "detail": "`T4` 🔺 - 2 ⚙️ - 3\n\nDeveloped by Drontek as a means to protect their Big Brother Mech, this Laser Anti-Missile System fires a series of nano-lasers at incoming missiles, destroying them before they strike.\n\nIf you are hit by an attack with the Missile Trait you may activate your LAMS as a Reaction. The missiles explode harmlessly, missing and dealing no damage."
     },
     {
-      "name": "Needle Missle Pod",
+      "name": "Needle Missile Pod",
       "info": "Range: Long // Damage: 1 SP // Guided // Targeter // Uses (30)",
       "detail": "`T4` 🔺 - 3 ⚙️ - 4\n\nRumoured to have been developed using nanite tech from the vast Nanite Sea near the Stefanus home arco in the Forgotten Tundra, it fires a stream of nano-missiles at a target which hone in and overwhelm their defences. \n\nWhen activated as a Turn Action, you may fire up to 6 Needle Missiles at a target of your choice in Range. This attack does not require you to be able to see the target, and automatically hits.\n\nEach individual Needle Missile fired takes up one ‘Use’ and is counted as a separate attack. Any modifiers or effects apply to each Needle Missile individually. For example, if you used the Offensive Protocols Module to increase the damage of the Needle Missile Pod apply this effect to only one of the Needle Missiles fired, not all 6."
     },

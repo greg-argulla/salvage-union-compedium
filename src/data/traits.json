@@ -132,7 +132,7 @@
       "detail": "A weapon with the Melee Trait is used in hand-tohand combat such as Monomolecular Swords, Mech Close Combat Armaments, and Heavy Duty Mining Rigs. If something specifies Ranged Weapons then weapons with this Trait are not counted. "
     },
     {
-      "name": "Missle",
+      "name": "Missile",
       "info": "",
       "detail": "A weapon with this Trait typically attacks with some kind of self propelled ordnance or explosive projectile that it launches at a target. "
     },
