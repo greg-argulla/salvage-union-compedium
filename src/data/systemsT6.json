@@ -1,10 +1,10 @@
 {
-  "name": "Tech 6 (Systems)",
+  "name": "Tech 6 Systems",
   "data": [
     {
       "name": "120mm Heavy Autocannon",
       "info": "Range: Long // Damage: 6 SP // Ballistic // Explosive (1) // Jamming // Multi-Attack (3)",
-      "detail": "`T6` 🔺 - 14 ⚙️ - 7\n\nThis obscenely oversized weapon rapidly fires 120mm explosive rounds. Evantis developed this as a means to show off the power of their Leviathan Heavy Mech which can mount two of these and still have room for a drinks dispenser. The drinks dispenser is known to dispense an unpleasant drink almost exactly unlike tea. This is why all good salvagers know not to blow all the scrap on the military budget.\n"
+      "detail": "`T6` 🔺 - 14 ⚙️ - 7\n\nThis obscenely oversized weapon rapidly fires 120mm explosive rounds. Evantis developed this as a means to show off the power of their Leviathan Heavy Mech which can mount two of these and still have room for a drinks dispenser. The drinks dispenser is known to dispense an unpleasant drink almost exactly unlike tea. This is why all good salvagers know not to blow all the scrap on the military budget."
     },
     {
       "name": "Executive Body Kit",
@@ -23,7 +23,6 @@
     },
     {
       "name": "Matter Phase Shield",
-      "info": "",
       "detail": "`T6` 🔺 - 4 ⚙️ - 4\n\nDeveloped by Sakura Futures at the peak of their technological prowess before the Wasteland Reclamation, a Matter Phase Shield disintegrates anything that attempts to pass through it by stripping it apart at a molecular level.\n\n*XEP Disintegrate*\n`Turn Action // Range: Close // Shield`\nYou extend the Matter Phase Shield outward from you. Everything within Close Range of you except for your own Mech and Pilot takes an amount of SP damage equal to 3× the EP you spend on this Ability. For example: if you spend 2 EP, you deal 6 SP damage.\n\nThis effect lasts until the start of your next turn. Anything that moves within Close Range of you whilst this Ability is active also takes the same amount of SP damage. You may deactivate it as a Free Action\n\n*2EP Shield*\n`Reaction // Range: Close // Shield`\nWhen you or a target in Close Range is hit by an attack with the Ballistic, Missile, or Melee Trait, you may activate the Matter Phase Shield to prevent the hit.\n\n*ROLL THE DIE:*\n\n`20`: The attack deals no damage. If the weapon that made the attack had the Melee Trait, it is destroyed. You may activate your Matter Phase Shield as a Reaction without spending EP for the next 10 minutes.\n`11 - 19`: The attack misses and deals no damage. If the weapon that made the attack had the Melee Trait, it is destroyed.\n`6 - 10`: The attack hits and deals half damage. If the weapon that made the attack had the Melee Trait, it is destroyed.\n`2 - 5`: The shield fails and the attack hits\nas normal.\n`1`: The attack hits as normal and the shield temporarily breaks down. It cannot be used for 10 minutes."
     },
     {
@@ -33,7 +32,6 @@
     },
     {
       "name": "Nanite Repair Arm",
-      "info": "",
       "detail": "`T6` 🔺 - 3 ⚙️ - 3\n\nThis highly specialised repair arm, developed by the Stefanus Solitude research team from their experiments with the Nanite Sea, fires a stream of nanites at a damaged mech or part restoring it to full functionality. The nanites’ highly adaptive nature means this can be used to repair just about anything you will find in the wastes.\n\n*2EP Patch*\n`Turn Action // Range: Close`\nYou restore up to 10 Structure Points to any Mech in Range that has at least 1 SP.\n\n*2EP System Repair*\n`Short Action // Range: Close`\nYou repair any damaged System or Module in Range to Intact Condition. It is now usable.\n\n*4EP Chassis Repair*\n`Long Action // Range: Close`\nYou repair any damaged Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
     },
     {

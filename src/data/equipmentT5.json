@@ -1,5 +1,5 @@
 {
-  "name": "Tech 5 (Equipment)",
+  "name": "Tech 5 Equipment",
   "data": [
     {
       "name": "Beta Fission Gun",
@@ -13,7 +13,6 @@
     },
     {
       "name": "Miniaturised Repair Arm",
-      "info": "",
       "detail": "This repair arm was developed by Stefanus to allow their field techs to make advanced repairs whilst in combat zones.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nYou restore up to 6 SP to a target Mech in Range with at least 1 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, 4, or 5 System or Module in Range to Intact Condition. It is now usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, 4, or 5 Mech Chassis or Vehicle in Range to Intact Condition.\nIt is now usable with 1 SP."
     },
     {

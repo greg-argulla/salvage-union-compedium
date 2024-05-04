@@ -1,0 +1,39 @@
+{
+  "name": "Scylla",
+  "info": "39 SP",
+  "data": [
+    {
+      "name": "Description",
+      "detail": "A gigantic, armoured, arachnid-like pred- ator beast. It has no concept that the war it was designed to fight ended aeons ago, and continues to tear apart anything that enters into its mountainous domain."
+    },
+    {
+      "name": " Titanic Actions",
+      "detail": "Scylla can take three Titanic Actions, choosing from the options below. Only one Titanic Action may be chosen at a time and only at the end of another Pilot’s or NPC’s turn. Scylla regains spent Titanic Actions at the start of their turn.\n\n• Scylla moves one Range Band.\n• Scylla makes a single Scythe Attack. This does not have the Multi-Attack Trait.\n• Scylla makes a Tail Sweep Attack (Costs 2 Titanic Actions)."
+    },
+    {
+      "name": "Scythe Attack",
+      "info": "Range: Close // Damage 4 SP // Melee // Multi-Attack (2)",
+      "detail": "Scylla stabs with its forearms attempting to pierce it’s prey."
+    },
+    {
+      "name": "Ambush Predator",
+      "info": "Passive",
+      "detail": "Unless detected, Scylla always acts first in combat."
+    },
+    {
+      "name": "Armour Plating x 3",
+      "info": "Passive",
+      "detail": "When Scylla takes damage, instead destroy a layer of Armour Plating and negate all of the damage and any effects."
+    },
+    {
+      "name": "Climb",
+      "info": "Passive",
+      "detail": "Scylla can effortlessly climb over difficult and vertical terrain, rocky surfaces, and other obsta- cles."
+    },
+    {
+      "name": "Tail Sweep",
+      "info": "Turn Action // Melee",
+      "detail": "Scylla makes one giant sweeping attack with their tail. This hits every target within Medium Range, dealing 3 SP damage on a hit. Targets hit are knocked Prone and gain the Vulnerable Trait."
+    }
+  ]
+}

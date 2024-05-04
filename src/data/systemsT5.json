@@ -1,5 +1,5 @@
 {
-  "name": "Tech 5 (Systems)",
+  "name": "Tech 5 Systems",
   "data": [
     {
       "name": "Amphibious Locomotion System",
@@ -33,7 +33,6 @@
     },
     {
       "name": "Multi-Function Repair Arm",
-      "info": "",
       "detail": "`T5` 🔺 - 3 ⚙️ - 3\n\nDeveloped by Stefanus initially to repair the intricately complex mechanisms within the Neura-Phage Chassis, this system can fix up some of the most advanced tech out in the wastes.\n\n*2EP Patch*\n`Turn Action // Range: Close`\nYou restore up to 8 Structure Points to any Mech in Range that has at least 1 SP.\n\n*2EP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, 4, or 5 System or Module in Range to Intact Condition. It is now usable.\n\n*4EP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, 4, or 5 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
     },
     {

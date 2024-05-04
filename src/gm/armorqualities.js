@@ -35,7 +35,6 @@ const qualities = [
     quality: "You are immune to all status effects",
     cost: 2000,
   },
-
   {
     category: "Enhancement Qualities",
     name: "Accuracy Up",

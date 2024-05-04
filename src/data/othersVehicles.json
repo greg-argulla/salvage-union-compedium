@@ -1,0 +1,40 @@
+{
+  "name": "Vehicles",
+  "data": [
+    {
+      "name": "Power Loader",
+      "info": "1 SP",
+      "detail": "T1  ⚙️- 1\nA pneumatically powered heavy loader for moving cargo.\n\n`Locomotion System`\n`Rigging Arm x 2`\nRange: Close // Damage: 1 SP // Melee // Load"
+    },
+    {
+      "name": "Box Wheel",
+      "info": "1 SP // PersonnelCapacity(4) // Wheeled",
+      "detail": "T1  ⚙️- 1\nA four seater box wheel vehicle designed for recreational driving. Not a lot of these nowadays.\n\n`Locomotion System`"
+    },
+    {
+      "name": "Fighting Box Wheel",
+      "info": "2 SP // PersonnelCapacity(4) // Wheeled",
+      "detail": "T1  ⚙️- 2\nAn improvised fighting vehicle, modified to carry heavy weaponry.\n\n`Locomotion System`\n`.50 Cal Machine Gun`\nRange: Close // Damage: 2 SP // Ballistic // Jamming // Pinning"
+    },
+    {
+      "name": "Machine Gun Turret",
+      "info": "2 SP // Immobile",
+      "detail": "T1  ⚙️- 1\nA static gun emplacement.\n\n`.50 Cal Machine Gun`\nRange: Close // Damage: 2 SP // Ballistic // Jamming // Pinning"
+    },
+    {
+      "name": "Armoured Box Wheel",
+      "info": " 4 SP // PersonnelCapacity(18) // Wheeled",
+      "detail": "T2  ⚙️- 3\npersonnel and provides fire support\n\n`Locomotion System`\n`30mm Autocannon`\nRange: Medium // Damage: 4 SP // Ballistic // Jamming"
+    },
+    {
+      "name": "Tank",
+      "info": "6 SP",
+      "detail": "T3  ⚙️- 4\nA conventional tracked, armoured battle vehicle.\n\n`Locomotion System`\n`120mm Cannon`\nRange: Long // Damage: 6 SP // Ballistic // Explo- sive (1)"
+    },
+    {
+      "name": "Rotorcraft",
+      "info": "3 SP // PersonnelCapacity(6) // Hover",
+      "detail": "T4  ⚙️- 3\nA flying vehicle that can hover over terrain.\n\n`Hover Locomotion System`\n`Rotary Mini Gun`\nRange: Medium // Damage: 4 SP // Ballistic // Hot (1) // Jamming // Multi-Attack (2) // Pinning"
+    }
+  ]
+}

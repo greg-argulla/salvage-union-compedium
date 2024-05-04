@@ -1,0 +1,35 @@
+{
+  "name": "Creatures",
+  "data": [
+    {
+      "name": "Irradiated Scorpion",
+      "info": "4 HP",
+      "detail": "Mutated beyond their usual size, they have been known to kill entire camps of wasters.\n\n`Stinger`\nRange: Close // Damage: 2 HP // Melee // Poison // Deadly (Creatures Only)"
+    },
+    {
+      "name": "Artl",
+      "info": "2 HP // Burrower",
+      "detail": "Burrowing, ambush predators that liquify their prey for easier digestion.\n\n`Acid Spit`\nRange: Medium // Damage: 2 HP // Burn (2)\n\n`Corrosive Skin Glands`\nWhen hit by a melee attack, the attacker takes 2 HP damage."
+    },
+    {
+      "name": "Chimeripede",
+      "info": "10 HP",
+      "detail": "A mutated, radiation scarred amalgamation of flesh.\n\n`Barbed Tentacles`\nRange: Close // Damage: 3 HP // Melee // Pinning // Poison // Multi-Attack (3)"
+    },
+    {
+      "name": "Wasteland Bear",
+      "info": "5 HP",
+      "detail": "Large, hungry, and ferocious, these bears are not just after your picnic basket.\n\n`Bear Carnage`\nRange: Close // Damage: 4 HP // Melee"
+    },
+    {
+      "name": "Carrion Bird",
+      "info": "3 HP //Fly",
+      "detail": "Large flying scavengers that feast on flesh and bone.\n\n`Talons`\nRange: Close // Damage: 3 HP"
+    },
+    {
+      "name": "Molebear",
+      "info": "12 HP Burrower",
+      "detail": "Terrifying, huge burrowing predators known to rend through metal.\n\n`Iron Claw`\nRange: Close // Damage: 4 SP // Melee"
+    }
+  ]
+}

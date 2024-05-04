@@ -1,0 +1,45 @@
+{
+  "name": "Meld",
+  "data": [
+    {
+      "name": "Description",
+      "detail": "Meld are an intelligent, nanite, alien entity of origins unknown, somewhere in the galaxy. First Meld reports came from the a pre-war Corpo Space Station called Andromeda.\n\nMeld nanites appear as a greyish black slime that glows under UV light. They move incredibly slowly across physical surfaces. They move fluidly in water.\n\nMeld infect creatures through ingestion via contaminated water. They also infect through open wounds or retinal membranes.\n\nMeld draw power from sources such as reac- tors or directly from a host’s bloodstream. They constantly seek sources of power and subse- quently drain them.\n\nA strong electromagnetic field will disable Meld, rendering them inert. Any Meld affected are unable to act for one turn and gain the Vulnerable Trait.\n\nMeld can also be made inert if their temperature is brought down to extremely low levels, for example, with liquid nitrogen. This renders them harmless and causes any of their constructs to disassemble.\n\nMeld can be affected by Hacker Abilities, as they are technically miniaturised computer systems. This has unpredictable results, as decided by the Mediator."
+    },
+    {
+      "name": "Nanite Salvage",
+      "detail": "When any Meld is reduced to 0 SP, a portion of it drops as Nanite Salvage. This occurs even if the Meld splits. This can be salvaged as though it was Scrap. Whenever any Nanite Salvage is found, Roll the Die. On the result of a 20, it is an Active Meld Nanite, otherwise it is an Inert Meld Nanite.\n\nRoll for each piece of Nanite Salvage that is found separately."
+    },
+    {
+      "name": "Inert Meld Nanite",
+      "detail": "An Inert Meld Nanite can be traded for the equivalent of 1 Tech 1 Scrap. It cannot be used for Crafting or Repairing. It takes up 1 Cargo Slot and can be transported safely."
+    },
+    {
+      "name": "Active Meld Nanite",
+      "detail": "An Active Meld Nanite is worth the equivalent of Tech 6 Scrap. In addition, it can be used to repair or craft any Mech Chassis, System, or Module as though it was Tech 6. The Active Meld Nanite takes up 1 Cargo Slot and must be transported in a specialised container that reduces its temper- ature to a point it becomes inert. Active Meld Nanites are typically transported using cryogenic containers.\n\nIf no such safety measures are taken Roll the Die for each hour the Active Meld Nanite is carried. On the roll of a 1, something goes wrong. Present the players with a Tough Choice involving the Active Meld Nanite. It might spawn into a Meld Nanoid, take control of a Mech temporarily, destroy a System or Module, or have some other anomalous effect.\n\nIf Active Meld Nanites are stored in a Union Crawler without safety measures make this roll once per week or Downtime cycle."
+    },
+    {
+      "name": "Meld Infection",
+      "detail": "Meld Infection: A target hit by Meld Infection becomes infected by the nanite swarm. If an infected Mech is reduced to 0 SP, it becomes a Meld Behemoth under the control of the Meld. If an infected creature is reduced to 0 SP, it becomes a Meld Drone under the control of the Meld. Meld Infection does not go away unless removed. The only widely known method of cleansing a Meld Infection is fire, but that will burn and harm the infected."
+    },
+    {
+      "name": "Meld Drone",
+      "info": "3 HP // N Salvage: 1",
+      "detail": "Meld when they take over a biological organism, around the size of a human. The brain is sludged, only the stem remains, they become a peon of the swarm.\n\n`Bite`\nThe Meld Drone mindlessly attacks the target with teeth and claw.\nRange: Close // Damage: 2 HP // Melee // Meld Infection"
+    },
+    {
+      "name": "Meld Nanoid",
+      "info": "5 SP // N Salvage: 5 // Fast",
+      "detail": "Meld in a small, swift form, about the size of a large wolf with lashing tendrils.\n\n`Nanoid Tendrils`\nThe nanoid lashes out with it’s tendrils\nRange: Close // Damage: 3 SP // Melee // Meld Infection"
+    },
+    {
+      "name": "Meld Drone Swarm",
+      "info": "6 HP // N Salvage: 3",
+      "detail": "A swarm of multiple zombie-like Meld Drones\n\n`Devour`\nThe Meld Drones bite and claw at a target with all their multitude limbs and maws.\nRange: Close // Damage: 3HP // Melee // Meld Infection // Multi-Attack (3)"
+    },
+    {
+      "name": "Meld Splitter",
+      "info": "10 SP // N Salvage: 10",
+      "detail": "Formless inky darkness, Meld Splitters are around the height of a Mech and made of boundless swarms of coagulated meld.\n\n`Splitter Tendrils`\nHuge tendrils lash out at anything nearby.\nRange: Medium // Damage: 4 SP // Melee // Meld Infection // Multi-Attack (2)\n`Split`\nWhen a Meld Splitter is reduced to 0 SP it turns into 2 Meld Nanoids. These act at the start of the next round."
+    }
+  ]
+}

@@ -45,6 +45,27 @@ import equipmentT4 from "./data/equipmentT4.json";
 import equipmentT5 from "./data/equipmentT5.json";
 import equipmentT6 from "./data/equipmentT6.json";
 
+import patternsT1 from "./data/patternsT1.json";
+import patternsT2 from "./data/patternsT2.json";
+import patternsT3 from "./data/patternsT3.json";
+import patternsT4 from "./data/patternsT4.json";
+import patternsT5 from "./data/patternsT5.json";
+import patternsT6 from "./data/patternsT6.json";
+
+import biotitanChrysalis from "./data/biotitanChrysalis.json";
+import biotitanElectrophorus from "./data/biotitanElectrophorus.json";
+import biotitanScylla from "./data/biotitanScylla.json";
+import biotitanTyphon from "./data/biotitanTyphon.json";
+import biotitanTyrant from "./data/biotitanTyrant.json";
+import biotitanMeld from "./data/biotitanMeld.json";
+import biotitanBehemoth from "./data/biotitanBehemoth.json";
+
+import otherCreatures from "./data/othersCreatures.json";
+import othersDrones from "./data/othersDrones.json";
+import othersPeople from "./data/othersPeople.json";
+import othersSquads from "./data/othersSquads.json";
+import othersVehicles from "./data/othersVehicles.json";
+
 import traits from "./data/traits.json";
 import keywords from "./data/keywords.json";
 
@@ -98,7 +119,29 @@ const collection = [
   equipmentT4,
   equipmentT5,
   equipmentT6,
-  "Other",
+  "Patterns",
+  patternsT1,
+  patternsT2,
+  patternsT3,
+  patternsT4,
+  patternsT5,
+  patternsT6,
+  "Biotitans",
+  biotitanChrysalis,
+  biotitanElectrophorus,
+  biotitanScylla,
+  biotitanTyphon,
+  biotitanTyrant,
+  "Meld",
+  biotitanMeld,
+  biotitanBehemoth,
+  "Others",
+  otherCreatures,
+  othersDrones,
+  othersPeople,
+  othersSquads,
+  othersVehicles,
+  "Terms",
   traits,
   keywords,
 ];

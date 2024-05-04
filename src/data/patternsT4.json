@@ -1,0 +1,275 @@
+{
+  "name": "Tech 4 Patterns",
+  "data": [
+    {
+      "name": "Giant Dad Pattern",
+      "info": "Aegis Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Named affectionately by the people of World’s End within the Frozen Gulf, this Mech was near worshipped as the protector deity of the settlement."
+        },
+        {
+          "name": "Systems",
+          "detail": "120mm Cannon\nMech Melee Armament (Great Sword)\nArmour Plating\nArticulated Rigging Arm\nEjection System\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Auto-Doctor\nAuto-Repair Droid\nComms Module"
+        }
+      ]
+    },
+    {
+      "name": "Escort Pattern",
+      "info": "Aegis Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed to escort high value targets between arcos, its array of shielding protects a convoy from even the harshest of onslaughts."
+        },
+        {
+          "name": "Systems",
+          "detail": "CACB Laser\nEjector Pod\nLaser Anti-Missile System\nLocomotion System\nCapacitance Bank"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nDash Protocols\nEnergy Cell\nLaser Guidance\nThermal Optics"
+        }
+      ]
+    },
+    {
+      "name": "Aeon Pattern",
+      "info": "Aegis Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A deadly mix of offensive and defensive power, this high-tech corpo pattern was used effectively by Aeon during their hostile takeover of Herrsch, making them the dominant player in the Verdant Crescent."
+        },
+        {
+          "name": "Systems",
+          "detail": "Railgun\nEjector Pod\nLocomotion System\nVectored Thrust Unit"
+        },
+        {
+          "name": "Modules",
+          "detail": "Advanced Reactor\nSafety Protocols\nComms Module\nLaser Guidance\nOffensive Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Sellsword Pattern",
+      "info": "Colossus Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Corpo mercs dream of being in enough debt to be leased one of these, those who have shed enough blood to do so are deeply in the thrall of their corporate masters and should be terminated without prejudice."
+        },
+        {
+          "name": "Systems",
+          "detail": "Rotary Minigun × 2\nEjection System\nMulti-Phase Shield\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Auto-Repair Droid\nAlpha Strike Module\nComms Module"
+        }
+      ]
+    },
+    {
+      "name": "Alien Hunter Pattern",
+      "info": "Colossus Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "At the height of the Meld Crisis, desperate to deal with the alien threat as it swarmed towards Haven, Evantis hired a salvager crew to find a solution to the arco’s defence. A plucky salvager by the name of Apex worked out this build, and her crew managed to force the Meld back to the Nanite Sea."
+        },
+        {
+          "name": "Systems",
+          "detail": "Blue Beam Laser\nNeedle Missile Pod\nAutomated Turret System - Green Laser\nStabilising Locomotion System\nEjection System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nElectro-Magnetic\nSelf-Destruct\nHe2 Coolant Flush\nOffensive Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Evantis Pattern",
+      "info": "Colossus Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "The main Mech of the Evantis line, hundreds of these crushed the nation forces in the Siege of the Central Wastes during the First Corpo War."
+        },
+        {
+          "name": "Systems",
+          "detail": "Railgun × 2\nStabilising Locomotion System\nEjection System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Advanced Targeting Array\nComms Module\nCoolant Flow Manifold"
+        }
+      ]
+    },
+    {
+      "name": "Primus",
+      "info": "Consul Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "This pattern is piloted by the Prime Union Rep who has a seat on the corporate council. Whilst salvagers cannot compete with the influence of the Big Five, our seat on the Corporate Council does allow us to maintain our salvage rights."
+        },
+        {
+          "name": "Systems",
+          "detail": "Articulated Rigging Arm × 2\nLocomotion System\nVectored Thrust Unit"
+        },
+        {
+          "name": "Modules",
+          "detail": "DDR Module\nEncrypted Comms\nPersonal Recreation Device\nVideo Projection Array\nVideo Recording Array"
+        }
+      ]
+    },
+    {
+      "name": "VIP Pattern",
+      "info": "Consul Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Sometimes a VIP, usually a corpo exec, will insist on travelling in one of these as part of a convoy to show that they are not ‘afraid’ of any would-be assassin. Since the VIP Pattern Consul stands out from the rest of Mechs in the convoy, its presence actually makes the task of the assassin a lot easier and the job of the escorts, usually salvagers, a lot harder, but who are we to argue with someone paying in scrap?"
+        },
+        {
+          "name": "Systems",
+          "detail": "Green Laser\nEjector Pod\nHover Locomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Auto-Repair Droid\nComms Module\nDash Protocols\nReactor Safety Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Terminator Pattern",
+      "info": "Consul Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "During the Colonial War of Independence, a corporate colonial agent infiltrated the TDA Council in a Mech of this pattern. Whilst weapons were banned, nobody detected the Self-Destruct. The ensuing explosion killed the entire TDA Council, decapitating the head from the snake."
+        },
+        {
+          "name": "Systems",
+          "detail": "Articulated Rigging Arm × 2\nHigh Gain Antenna\nLocomotion System\nEjector Pod"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEncrypted Comms\nFirewall\nPersonal Recreation Device\nSelf-Destruct"
+        }
+      ]
+    },
+    {
+      "name": "Scavenger Pattern",
+      "info": "Drop Bear Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "An aerial reconnaissance build designed to find diamonds in the rough."
+        },
+        {
+          "name": "Systems",
+          "detail": "Needle Missile Pod\nArticulated Rigging Arm\nEjection System\nGrav Assisted\nCargo Bay\nHigh Gain Antenna\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nMetal Detector\nSurvey Scanner\nThermal Optics"
+        }
+      ]
+    },
+    {
+      "name": "Chumba Pattern",
+      "info": "Drop Bear Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed to get in close and fire an array of low tech, but potent weapons at a target’s vulnerable points."
+        },
+        {
+          "name": "Systems",
+          "detail": "FM-3 Flamethrower\n.50 Cal Machine Gun\nM2-X Mauler\nEjection System\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Alpha Strike Module\nComms Module\nCoolant Flow Manifold\nMulti-Targeter"
+        }
+      ]
+    },
+    {
+      "name": "Countour Pattern",
+      "info": "Drop Bear Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "The stock build, named by the salvagers who have to deal with them as a constant threat. Mechs of this pattern swarm in patrols around the great peak of the Contour home arco."
+        },
+        {
+          "name": "Systems",
+          "detail": "Missile Pod\n.50 Cal Machine Gun ×3\nEjection System\nHigh Gain Antenna\nLaser Anti-Missile System\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nLaser Guidance\nMech Scrambler\nThermal Optics"
+        }
+      ]
+    },
+    {
+      "name": "Laser Boat Pattern",
+      "info": "Vorpal Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A scavenged together, waster build, sometimes all you have is a handful of red lasers, a prayer, and a high tech, heat efficient, mining Mech."
+        },
+        {
+          "name": "Systems",
+          "detail": "Red Laser × 4\nLocomotion System\nEscape Hatch"
+        },
+        {
+          "name": "Modules",
+          "detail": "Advanced Reactor\nSafety Protocols\nComms Module\nWeapon Link Red Laser × 4"
+        }
+      ]
+    },
+    {
+      "name": "Zap Pattern",
+      "info": "Vorpal Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "The Beam Laser is a risky beast to slap onto a Mech, but it does find a home on the Vorpal, which can manage its tremendous heat potential and deliver earth shattering blows as a result."
+        },
+        {
+          "name": "Systems",
+          "detail": "Blue Beam Laser\nLocomotion System\nEjection System\nAeon Shield Dome"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nMRSI Co-Ordinator\nMulti-Optics"
+        }
+      ]
+    },
+    {
+      "name": "Fissure Pattern",
+      "info": "Vorpal Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "The original mining pattern by Thatcher Steel, used to breach the hardest to reach rare earth deposits within the Ferrous Range."
+        },
+        {
+          "name": "Systems",
+          "detail": "Blue Mining Laser\nArticulated Rigging Arm\nEscape Hatch\nLocomotion System\nTarget Painter"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nLaser Guidance\nReactor Safety Protocols\nThermal Optics"
+        }
+      ]
+    }
+  ]
+}

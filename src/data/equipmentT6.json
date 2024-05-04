@@ -1,5 +1,5 @@
 {
-  "name": "Tech 6 (Equipment)",
+  "name": "Tech 6 Equipment",
   "data": [
     {
       "name": "Anti-Gravity Belt",
@@ -13,7 +13,6 @@
     },
     {
       "name": "Nanite Repair Injector",
-      "info": "",
       "detail": "This portable gun injects the surface area of a damaged Mech part with nanobots which rapidly replicate and restore the damaged structure.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nYou restore up to 8 SP to a target Mech in Range with at least 1 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair any damaged System or Module in Range to Intact Condition. It is now usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair any damaged Mech Chassis in Range to Intact Condition. It is now usable with 1 SP."
     },
     {

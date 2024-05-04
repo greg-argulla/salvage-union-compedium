@@ -1,0 +1,50 @@
+{
+  "name": "Drones",
+  "data": [
+    {
+      "name": "Defacer Drone",
+      "info": "2 SP",
+      "detail": "T1 ⚙️- 1\nUsed for salvaging and crowd control, their distinctive buzzsaw sound has struck fear into many protesters.\n\n`Hover Locomotion System`\n`Chainsaw Arm`\nRange: Close // Damage: 2 SP // Melee // Salvaging"
+    },
+    {
+      "name": "Survey Drone",
+      "info": "1 SP",
+      "detail": "T1 ⚙️- 1\nAn unarmed drone used as a reconnaissance tool.\n\n`Hover Locomotion System`\n`Survey Scanner`"
+    },
+    {
+      "name": "Salvo Drone",
+      "info": "3 SP",
+      "detail": "T1 ⚙️- 2\nA simple machine gun drone often used to defend areas of strategic importance.\n\n`Hover Locomotion System`\n`.50 Cal Machine Gun`\nRange: Close // Damage: 2 SP // Ballistic // Jamming // Pinning"
+    },
+    {
+      "name": "Combat Drone",
+      "info": "4 SP",
+      "detail": "T2 ⚙️- 2\nA laser armed drone used in a defensive capacity.\n\n`Hover Locomotion System`\n`Red Laser`\nRange: Medium // Damage: 3 SP // Energy // Hot (1)"
+    },
+    {
+      "name": "Heavy Combat Drone",
+      "info": "5 SP",
+      "detail": "T3 ⚙️- 2\nA heavily armoured drone designed for battle- field use.\n\n`Hover Locomotion System`\n`30mm Autocannon`\nRange: Medium // Damage: 4 SP // Ballistic // Jamming"
+    },
+    {
+      "name": "Walker Drone",
+      "info": "6 SP",
+      "detail": "T2 ⚙️- 3\nAn anthropomorphic, Mech-like drone.\n\n`Locomotion System`\n`Articulated Rigging Arm`\n`Green Laser`\nRange: Medium // Damage: 4 SP // Energy // Hot (2)"
+    },
+    {
+      "name": "Pest Drone",
+      "info": "4 SP",
+      "detail": "T3 ⚙️- 3\nA versatile multi-legged drone armed with a flamethrower for ‘industrial’ use.\n\n`Spider Locomotion System`\n`FM-3 Flamethrower x 2`\nRange: Close // Damage: 1 SP // Anti-Organic // Burn (1) // Multi-Attack (2) // Overheat"
+    },
+    {
+      "name": "Hover Drone",
+      "info": "4 SP",
+      "detail": "T4 ⚙️- 3\nA highly mobile missile platform used in offensive and defensive roles.\n\n`Hover Locomotion System`\n`Missile Pod`\nRange: Long // Damage: 8 SP // Missile // Explo- sive (2) // Hot (1) // Uses (6)"
+    },
+    {
+      "name": "Needle Drone",
+      "info": "2 SP",
+      "detail": "T4 ⚙️- 3\nA miniaturised corpo stealth drone developed for black ops and wetwork.\n\n`Hover Locomotion System`\n`Needler`\nRange: Close // Damage: 1 SP // Poison // Deadly (Creatures Only)\n`Polycarbonate Stealth Chassis`\nThe Needle Drone cannot be targeted with anything that uses the Targeter Trait such as\ntargeting Modules. It also cannot be seen by anything with the Optics Trait or Scanner Trait. It does not appear on sensors, radar systems, or scanners and needs direct visual confirmation to be spotted."
+    }
+  ]
+}

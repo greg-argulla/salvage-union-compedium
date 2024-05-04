@@ -1,0 +1,35 @@
+{
+  "name": "People",
+  "data": [
+    {
+      "name": "Wastelander",
+      "info": "2 HP",
+      "detail": "Represents the myriad of common denizens of the wastelands.\n\n`Improvised Melee Weapon`\nRange: Close // Damage: 2 HP // Melee\n`Salvaging Tools`"
+    },
+    {
+      "name": "Raider",
+      "info": "3 HP ",
+      "detail": "Wastelanders who take what they need by force.\n\n`Improvised Firearm`\nRange: Close // Damage: 3 HP // Ballistic // Unwieldy"
+    },
+    {
+      "name": "Trooper",
+      "info": "5 HP",
+      "detail": "Combat trained troops deployed in a wide range of roles.\n\n`Rifle`\nRange: Medium // Damage: 5 HP // Ballistic\n`Portable Comms Unit`"
+    },
+    {
+      "name": "Veteran",
+      "info": "9 HP",
+      "detail": "A well trained and seasoned soldier deployed on difficult operations.\n\n`Green Laser Rifle`\nRange: Medium // Damage: 5 HP // Energy\n`Portable Comms Unit`"
+    },
+    {
+      "name": "Combat Pilot",
+      "info": "10 HP",
+      "detail": "A combat trained Mech Pilot, such as a Union Salvager.\n\n`Pistol`\nRange: Close // Damage: 3 HP // Ballistic\n`Portable Comms Unit`"
+    },
+    {
+      "name": "Ace",
+      "info": "16 HP",
+      "detail": "A veteran Mech Pilot, usually with Corpo training.\n\n`Sniper Rifle`\nRange: Long // Damage: 6 HP // Ballistic\n`Portable Comms Unit`"
+    }
+  ]
+}

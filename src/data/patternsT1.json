@@ -1,0 +1,275 @@
+{
+  "name": "Tech 1 Patterns",
+  "data": [
+    {
+      "name": "Hauler Pattern",
+      "info": "Mule Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "This Mule, favoured by wastelanders and traders alike, is designed for hauling cargo, whilst being armed with some rudimentary defences."
+        },
+        {
+          "name": "Systems",
+          "detail": ".50 Cal Machine Gun\nEscape Hatch \nFloodlights \nLocomotion System \nLoudspeakers \nRigging Arm \nTransport Hold"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nReactor Flare"
+        }
+      ]
+    },
+    {
+      "name": "Crusher Pattern",
+      "info": "Mule Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Clean and simple, this Mule can salvage Scrap, haul it back to a Crawler or wasteland settlement, and defend itself in a pinch from any raiders."
+        },
+        {
+          "name": "Systems",
+          "detail": "Red Laser\nDozer Blades \nEscape Hatch \nHydraulic Crusher \nLocomotion System\nLoudspeakers \nRigging Arm"
+        },
+        {
+          "name": "Module",
+          "detail": "Comms Module\nSurvey Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Evantis Pattern",
+      "info": " Mule Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "These heavily armed and armoured Mules were used extensively during the Second Corpo War, to ferry cargo between arcos. Many salvager raids were rebuffed by corpos ‘Circling the Mules’ to create a devastating ring of missile fire."
+        },
+        {
+          "name": "Systems",
+          "detail": "Missile Pod\nArmour Plating\nComposite Armour\nEjection System\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nLaser Guidance"
+        }
+      ]
+    },
+    {
+      "name": "Buzzard Pattern",
+      "info": "Mazona Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Buzzards of the wastes, raiders relish these builds as it lets them overheat larger Mechs whilst stripping the flesh off of anything else."
+        },
+        {
+          "name": "Systems",
+          "detail": "FM-3 Flamethrower× 2\nLoudspeakers"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nSelf-Destruct Module\nWeapon Link\n(FM-3 Flamethrower × 2)"
+        }
+      ]
+    },
+    {
+      "name": "Scrap Flinger Pattern",
+      "info": "Mazona Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "This is not the most orthodox platform for a Mechapult, but who am I to stop you?"
+        },
+        {
+          "name": "Systems",
+          "detail": "Mechapult\nEscape Hatch\nLoudspeakers"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nMetal Detector\nPinpoint Targeter"
+        }
+      ]
+    },
+    {
+      "name": "Stefanus Pattern",
+      "info": "Mazona Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed for smuggling and covert reconnais- sance, being disguised as a delivery drone allows it to blend into the background within most arcos and settlements undetected."
+        },
+        {
+          "name": "Systems",
+          "detail": "Rigging Arm\nSmuggling Hold"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Tapper\nEggs Mayhem\nReactor Overload"
+        }
+      ]
+    },
+    {
+      "name": "Leaky Pattern",
+      "info": "Scrapper Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "The wasteland Scrapper is vital for survival, allowing repair, defence, and maintenance of a waster settlement even in the harshest of conditions."
+        },
+        {
+          "name": "Systems",
+          "detail": "Chainsaw Arm\nEscape Hatch\nLocomotion System\nRiveting Gun\nRigging Arm"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nPersonal Recreation Device"
+        }
+      ]
+    },
+    {
+      "name": "Rigger Pattern",
+      "info": "Scrapper Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "This salvager favoured pattern is built for heavy salvage and repair operations in dangerous conditions."
+        },
+        {
+          "name": "Systems",
+          "detail": "Hydraulic Crusher\nEscape Hatch\nLocomotion System\nTransport Hold\nWelding Laser"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nSurvey Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Sakura Pattern",
+      "info": "Scrapper Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "This Scrapper has been modified for search and rescue operations, many of which were commissioned following Impact Day to clear the irradiated wreckage of what was once the TDA Council. They also came in useful as riot control Mechs following the wave of post-Impact Day unrest."
+        },
+        {
+          "name": "Systems",
+          "detail": "Articulated Rigging Arm\nEscape Hatch \nFloodlights\nHigh Pressure Hose\nLocomotion System \nLoudspeakers\nPersonnel Transport Pod"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nM315 Motion Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Settler Pattern",
+      "info": "Spectrum Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Wastelanders who get hold of one of these can far more easily relocate their settlements and glean crucial information about potential settlement sites."
+        },
+        {
+          "name": "Systems",
+          "detail": ".50 Cal Machine Gun \nEscape Hatch \nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nReactor Flare\nPersonal Recreation Device\nFirewall"
+        }
+      ]
+    },
+    {
+      "name": "Operator Pattern",
+      "info": "Spectrum Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A favourite of hackers, this Spectrum is installed with a suite of offensive and defensive hacks and a flamethrower to deter attackers on foot and overheat enemy Mechs."
+        },
+        {
+          "name": "Systems",
+          "detail": "FM-3 Flamethrower\nEscape Hatch\nLocomotion System\nHigh Gain Antenna"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nReactor Overload\nFirewall\nEggs Mayhem"
+        }
+      ]
+    },
+    {
+      "name": "AMS Pattern",
+      "info": "Spectrum Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Developed to transport and protect a colony’s datacore in the event of a collapse whilst supporting the rest of the convoy."
+        },
+        {
+          "name": "Systems",
+          "detail": "Needle Missile Pod\nLocomotion System\nEscape Hatch\nHigh Gain Antenna"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nECM Transmitter\nFirewall\nNavigation Module"
+        }
+      ]
+    },
+    {
+      "name": "Shepherd Pattern",
+      "info": "Thresher Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Wastelanders do not have a lot to farm, but a settlement that gets hold of one of these can defend itself pretty well from raiders."
+        },
+        {
+          "name": "Systems",
+          "detail": "Red Laser\nArmour Plating\nEscape Hatch\nFloodlights\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nZoom Optics"
+        }
+      ]
+    },
+    {
+      "name": "Butcher Pattern",
+      "info": "Thresher Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Hacks and burns scrap, Mechs, flesh, and anything else that gets in its way."
+        },
+        {
+          "name": "Systems",
+          "detail": "Chainsaw Arm\nFM-3 Flamethrower\nEscape Hatch\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nAdv. Weapon Link (FM-3 Flamethrower // Chainsaw Arm)"
+        }
+      ]
+    },
+    {
+      "name": "H&V Pattern",
+      "info": "Thresher Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed for its original designation as a lumberjack Mech."
+        },
+        {
+          "name": "Systems",
+          "detail": "Chainsaw Arm × 2\nEscape Hatch\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nWeapon Link (Chainsaw Arm × 2)"
+        }
+      ]
+    }
+  ]
+}

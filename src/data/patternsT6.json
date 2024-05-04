@@ -1,0 +1,167 @@
+{
+  "name": "Tech 6 Patterns",
+  "data": [
+    {
+      "name": "Churner Pattern",
+      "info": "Iron Wyrm Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "This original pattern was utilised in the aborted construction of an intended high speed trade network connecting the Ferrous Range with the Central Wastes."
+        },
+        {
+          "name": "Systems",
+          "detail": "Heavy Duty Mining Rig\nAFF Coolant Foam\nDozer Blades\nEscape Hatch\nGrav Assisted Cargo Bay\nHigh Gain Antenna\nPrawn Sifter"
+        },
+        {
+          "name": "Modules",
+          "detail": "Auto-Repair Droid\nComms Module\nNavigation Module\nThermal Optics"
+        }
+      ]
+    },
+    {
+      "name": "Sapper Pattern",
+      "info": "Iron Wyrm Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Developed for military use, this pattern was designed for a hostile takeover of a competitors arco. Drilling through the foundations to deliver a deadly payload of firepower while supporting a strike team."
+        },
+        {
+          "name": "Systems",
+          "detail": "Mole Torpedo\n30mm Autocannon ×2\nEjection System\nMulti-Phase Shield"
+        },
+        {
+          "name": "Modules",
+          "detail": "Advanced Targeting\nComms Module\nMulti-Optics"
+        }
+      ]
+    },
+    {
+      "name": "M.A.D. Pattern",
+      "info": "Iron Wyrm Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "It is rumoured that each of the ‘Big Five’ corporate council members have one of these ready to be deployed in the event their arco is attacked to ensure mutual annihilation with their attackers."
+        },
+        {
+          "name": "Systems",
+          "detail": "N15 Fat Boy\nMole Torpedo\nMulti-Phase Shield\nRadomes"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEncrypted Comms\nLaser Guidance\nNavigation Module\nThermal Optics"
+        }
+      ]
+    },
+    {
+      "name": "Destroyer Pattern",
+      "info": "Leviathan Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A mobile bastion bristling with an array of weapons that it brings to bear as the lynchpin of the Evantis battle line."
+        },
+        {
+          "name": "Systems",
+          "detail": ".50 Cal Machine Gun ×6\nRed Laser × 3\n30mm Autocannon × 2\nEjector Pod\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Alpha Strike Module\nComms Module\nMulti-Targeter\nOffensive Protocols\nReactor Safety Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Annihilator Pattern",
+      "info": "Leviathan Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "These blueprints were found on a successful salvager infiltration of a Sakura black site. The Mech Pattern was a covert collaboration between Evantis and Sakura to design a Mech that could mount two Experimental Particle Beam Cannons. May the hammer guide whoever encounters this in the field."
+        },
+        {
+          "name": "Systems",
+          "detail": "Experimental Particle Beam Cannon × 2\nMatter Phase Shield\nNanite Repair Arm\nStabilising Locomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Advanced Targeting\nComms Module\nCoolant Flow Manifold\nFirewall\nReactor Safety Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Evantis Pattern",
+      "info": "Leviathan Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "The original Leviathan build mounted with the pinnacle of Evantis ballistic tech- nology. Recorded as having 41 confirmed kills during the Battle of the Ice Shelf where TDA forces were pushed back to the brink of the Frozen Gulf."
+        },
+        {
+          "name": "Systems",
+          "detail": "120mm Heavy Autocannon × 2\nStabilising Locomotion System\nEjector Pod"
+        },
+        {
+          "name": "Modules",
+          "detail": "Advanced Targeting\nAlpha Strike Module\nComms Module\nCoolant Flow Manifold\nFirewall"
+        }
+      ]
+    },
+    {
+      "name": "Skimmer Pattern",
+      "info": "Shaitan Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Beloved by thrill-seekers, the Shaitan’s intense speeds and manoeuvrability are an exquisite experience for those riding stick, and especially for those riding shotgun."
+        },
+        {
+          "name": "Systems",
+          "detail": "Rail Rifle\nEjection System\nHigh Gain Antenna\nLocomotion System\nLoudspeakers\nShotgun Pit"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nCoolant Flow Manifold\nDash Protocols\nEncrypted Comms\nEvasion Protocols\nMulti-Optics\nPersonal Recreation Device\nReaction Protocols\nReactor Safety Protocols"
+        }
+      ]
+    },
+    {
+      "name": "X-Zero Pattern",
+      "info": "Shaitan Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A blur of static, this Shaitan is utilised in lightning speed M2 races across the corpo race circuits."
+        },
+        {
+          "name": "Systems",
+          "detail": "Ejection System\nGrappling Harpoon\nHover Locomotion System\nTesla Coils"
+        },
+        {
+          "name": "Modules",
+          "detail": "Auto-Repair Droid\nDash Protocols\nEnergy Cell\nMulti-Optics\nNeuralink Communicator\nPersonal Recreation Device\nReactor Safety Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Diplomant Pattern",
+      "info": "Shaitan Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "When a Consul does not quite extol how much of a flashy son of a gun you are arriving at a corporate council meeting in, then a Shaitan will."
+        },
+        {
+          "name": "Systems",
+          "detail": "Articulated Rigging Arm × 2\nEjector Pod\nLocomotion System\nRadomes"
+        },
+        {
+          "name": "Modules",
+          "detail": "Advanced Reactor\nSafety Protocols\nComms Module\nCoolant Flow Manifold\nDash Protocols\nDDR Module\nEncrypted Comms\nPersonal Recreation Device\nVideo Projection Array\nVideo Recording Array"
+        }
+      ]
+    }
+  ]
+}

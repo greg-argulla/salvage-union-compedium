@@ -1,0 +1,50 @@
+{
+  "name": "Squads",
+  "data": [
+    {
+      "name": "Waster Mob",
+      "info": "4 HP",
+      "detail": "A mob of wastelanders with improvised weapons.\n\n`Improvised Weapons`\nRange: Close // Damage: 4 HP // Melee // Multi-Attack (2)\n`Salvaging Tools`"
+    },
+    {
+      "name": "Raider Band",
+      "info": "6 HP",
+      "detail": "A band of raiders hungry for scrap.\n\n`Improvised Firearms`\nRange: Close // Damage: 4 HP // Ballistic // Multi-Attack (2)\n`High Tensile Wire`"
+    },
+    {
+      "name": "Rifle Squad",
+      "info": "10 HP",
+      "detail": "A group of grunts armed with rifles.\n\n`Rifles`\nRange: Medium // Damage: 6 HP // Ballistic // Jamming // Multi-Attack (2)\n`Portable Comms Unit`"
+    },
+    {
+      "name": "Machine Gun Squad",
+      "info": "10 HP",
+      "detail": "Combat trained troops armed with a mobile heavy machine gun.\n\n`.50 Cal Machine Gun`\nRange: Close // Damage: 3 SP // Ballistic // Jamming // Pinning // Multi-Attack (2)\n`Portable Comms Unit`\n`First Aid Kit`"
+    },
+    {
+      "name": "Missile Squad",
+      "info": "10 HP",
+      "detail": "Combat trained troops armed with a mobile missile launcher.\n\n`Rocket Launcher`\nRange: Long // Damage: 6 SP // Missile // Explo- sive (1) // Multi-Attack (2) // Uses (3)\n`Portable Comms Unit`\n`First Aid Kit`"
+    },
+    {
+      "name": "Elite Blade Squad",
+      "info": "20 HP",
+      "detail": "Heavy assault troops armed with energised blades.\n\n`Monomolecular Sword`\nRange: Close // Damage: 6 SP // Melee // Deadly // Multi-Attack (2)\n`Portable Comms Unit`\n`Electro Grappling Hook`"
+    },
+    {
+      "name": "Wasteland Herd",
+      "info": "4 HP",
+      "detail": "A herd of wasteland creatures.\n\n`Stampede`\nRange: Close // Damage: 3 HP // Melee // Multi-Attack (2)\nCreatures hit by this attack are knocked prone."
+    },
+    {
+      "name": "Elite Beam Squad",
+      "info": "20 HP",
+      "detail": "Apex troops in heavy armour armed with a big ol’ gun.\n\n`Beta Fission Gun`\nRange: Long // Damage: 9 SP // Burn (2) // Energy // Explosive (1) // Multi-Attack (2)\n`Portable Comms Unit`\n`Night Vision Optics`"
+    },
+    {
+      "name": "Drone Squadron",
+      "info": "8 SP",
+      "detail": "A swarm of Combat Drones flying in sync.\n`Red Laser`\nRange: Medium // Damage: 4 SP // Energy // Hot (1) // Multi-Attack (2)\n`Hover Locomotion System`"
+    }
+  ]
+}

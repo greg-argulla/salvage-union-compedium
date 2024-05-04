@@ -1,0 +1,383 @@
+{
+  "name": "Tech 2 Patterns",
+  "data": [
+    {
+      "name": "Beam Pattern",
+      "info": "Forge Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A highly effective arco siege Mech utilised en masse by the rebels who would become the Terrestrial Democratic Alliance during the Second Corpo War."
+        },
+        {
+          "name": "Systems",
+          "detail": "Blue Mining Laser\nEscape Hatch\nLocomotion System \nRigging Arm\nWelding Laser"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEnergy Cell\nReactor Safety Protocols\nDamage Assessor"
+        }
+      ]
+    },
+    {
+      "name": "Steamroller Pattern",
+      "info": "Forge Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Minefields are one of the many painful realities of day-to-day life in the wastes, and this Mech is designed to clear them and construct warning signs around areas where they are prevalent."
+        },
+        {
+          "name": "Systems",
+          "detail": "Green Laser\nHydraulic Crusher\nDozer Blades\nEscape Hatch\nFloodlights\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nDeep Survey Scanner\nMetal Detector\nSurvey Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Osiris Pattern",
+      "info": "Forge Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Waves of anti-corpo protestors were cut down at the barricades built by this Mech pattern; keep them in your memory as you use the tools of the oppressors."
+        },
+        {
+          "name": "Systems",
+          "detail": "30mm Autocannon\nEscape Hatch\nFabrication Arm\nHigh Pressure Hose\nLocomotion System\nSmoke Machine"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nDamage Assessor\nSonic Screecher\nVideo Recording Array"
+        }
+      ]
+    },
+    {
+      "name": "Legion Pattern",
+      "info": "Gopher Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed to hunt and kill, and favoured by The Legion, a raider conglomerate that formed after the chaos of Impact Day and terrorised the Central Wastes."
+        },
+        {
+          "name": "Systems",
+          "detail": "Green Laser\nEscape Hatch\nLocomotion System\nNanofibre Net Launcher\nTracking Node"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEvasion Protocol \nM315 Motion Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Longsaddle Pattern",
+      "info": "Gopher Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed for reconnaissance and sniping, most famously used in the Battle of Bracken Ridge, when salvagers from Crawler #192 held off an Evantis attack against their Union Crawler with only a pair of Longsaddle Gophers."
+        },
+        {
+          "name": "Systems",
+          "detail": "Long Barrelled Green Laser\nChaff Launcher\nEjection System\nSmoke Machine\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEvasion Protocols\nLaser Guidance"
+        }
+      ]
+    },
+    {
+      "name": "Opus Pattern",
+      "info": "Gopher Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed for its original designation of quickly ferrying cargo on and off the battlefield whilst providing combat support."
+        },
+        {
+          "name": "Systems",
+          "detail": "Red Pulse Laser\nEjection System\nHigh Gain Antenna\nLocomotion System\nTransport Hold"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEvasion Protocols\nECM Transmitter"
+        }
+      ]
+    },
+    {
+      "name": "Mauler Pattern",
+      "info": "Hussar Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "This raider favoured Mech pattern is renowned for its pilots using the oldest trick in the book - call out a distress signal and then blast the first unsuspecting mark who responds into bits for the scrap."
+        },
+        {
+          "name": "Systems",
+          "detail": "M2-X Mauler\nChaff Launcher\nEscape Hatch\nFloodlights\nLocomotion System\nLoudspeakers\nNanofibre Net Launcher"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nSleeping Beauty\nOffensive Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Piggyback Pattern",
+      "info": "Hussar Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "It is always nice to have a friend, and your buddy piggybacking one of these is in for a hell of a ride."
+        },
+        {
+          "name": "Systems",
+          "detail": "30mm Autocannon\nEscape Hatch\nLocomotion System\nShotgun Pit\nTracking Node"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEvasion Protocols\nSurvey Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Contour Pattern",
+      "info": "Hussar Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "The stock Contour build is designed to get in fast and strip a vital component off of a foe before retreating ready to do it again."
+        },
+        {
+          "name": "Systems",
+          "detail": "Red Pulse Laser\nChaff Launcher\nEjection System\nLocomotion System\nTarget Painter"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nDash Protocols\nPinpoint Targeter"
+        }
+      ]
+    },
+    {
+      "name": "Cackler Pattern",
+      "info": "Jackhammer Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "This Jack-of-all-hammers build is favoured by waste- landers for its versatility."
+        },
+        {
+          "name": "Systems",
+          "detail": "Mining Rig\nChaff Launcher\nFloodlights\nLocomotion System\nLoudspeakers\nRigging Arm \nWelding Laser"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nSurvey Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Auger Pattern",
+      "info": "Jackhammer Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed to crack deposits at range, this Jackhammer pattern was used extensively by salvagers during the Ferrous Wars and is in large part responsible for their victory."
+        },
+        {
+          "name": "Systems",
+          "detail": "Blue Mining Laser\nLocomotion System\nRigging Arm\nHeat Sink × 2"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nThermal Optics"
+        }
+      ]
+    },
+    {
+      "name": "Thatcher Pattern",
+      "info": "Jackhammer Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed for heavy mining in hostile conditions, and utilised extensively in the Ferrous Range, Central Wastes, Arid Steppes, and even in outer colony mining"
+        },
+        {
+          "name": "Systems",
+          "detail": "Heavy Duty Mining Rig\nFloodlights\nLocomotion System\nRadiation Sealing\nRigging Arm"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nDeep Survey Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Blackbeard Pattern",
+      "info": "Kraken Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "The last report from Crawler #383 was of this Kraken surfacing near their docked Crawler and a horde of raiders storming out of its hatches."
+        },
+        {
+          "name": "Systems",
+          "detail": "Mini Mortar\n.50 Cal Machine Gun\nEscape Hatch\nFloodlights\nGrappling Harpoon\nHigh Gain Antenna\nLoudspeakers\nPersonnel Transport Pod\nTransport Hold"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nNavigation Module\nReactor Flare"
+        }
+      ]
+    },
+    {
+      "name": " Saboteur Pattern",
+      "info": "Kraken Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Used extensively during the cyberwars by hired salvager crews on both sides to destroy undersea cables, generators, and oil mining rigs."
+        },
+        {
+          "name": "Systems",
+          "detail": "Torpedo Tubes\n.50 Cal Machine Gun\nChaff Launcher Chainsaw Arm Escape Hatch Floodlights Personnel Transport Pod\nRigging Arm"
+        },
+        {
+          "name": "Modules",
+          "detail": "ECM Transmitter\nFirewall\nComms Module"
+        }
+      ]
+    },
+    {
+      "name": "Aegean Pattern",
+      "info": "Kraken Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "The original pattern, developed for land and sea combat. Salvagers first got this blueprint as a result of an Aegean Kraken whose crew mutinied and flipped sides to the Unions during the Wasteland Reclamation."
+        },
+        {
+          "name": "Systems",
+          "detail": "Torpedo Tubes\nLong Barrelled Green Laser\nChaff Launcher × 2\nRefractive Shield Projector\nEscape Hatch\nPersonnel Transport Pod"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nMulti-Targeter\nThermal Optics"
+        }
+      ]
+    },
+    {
+      "name": "Ironmonger Pattern",
+      "info": "Magpie Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed to be placed in the centre of a settlement during a siege, it can repair damage via its welding laser whilst returning mortar fire."
+        },
+        {
+          "name": "Systems",
+          "detail": "Mini Mortar\nEscape Hatch\nFloodlights\nLocomotion System\nLoudspeaker\nRigging Arm\nWelding Laser"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nDamage Assessor\nReactor Flare"
+        }
+      ]
+    },
+    {
+      "name": "Maggie Pattern",
+      "info": "Magpie Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A pattern endorsed by the Engineering Union for its flexibility and support in the field."
+        },
+        {
+          "name": "Systems",
+          "detail": "30mm Autocannon\nRefractive Shield Projector\nEjection System\nFloodlights\nLocomotion System\nWelding Laser"
+        },
+        {
+          "name": "Modules",
+          "detail": "Barometric Sensor\nComms Module\nEggs Mayhem"
+        }
+      ]
+    },
+    {
+      "name": "Stefanus Pattern",
+      "info": "Magpie Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Boasts a complex array of arm attachments that made a lot more sense to the Stefanus techs who used these as modular worker Mechs."
+        },
+        {
+          "name": "Systems",
+          "detail": "Chainsaw Arm\nArticulated Rigging Arm × 2\nFabrication Arm\nLocomotion System\nLoudspeakers"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nDamage Assessor\nElectro-Magnetic\nSelf-Destruct"
+        }
+      ]
+    },
+    {
+      "name": "Junker Pattern",
+      "info": "Mirrorball Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A high-utility build that aids wastelanders in the arduous rigours of day to day life, repairing their settlements and protecting them from raiders and acid storms alike."
+        },
+        {
+          "name": "Systems",
+          "detail": "Red Laser\nCargo Pod\nEscape Hatch\nLocomotion System\nPersonnel Transport Pod\nWelding Laser"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nNavigation Module\nReactor Flare"
+        }
+      ]
+    },
+    {
+      "name": "Reclaimer Pattern",
+      "info": "Mirrorball Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A salvager-build designed for salvage operations in extreme wasteland conditions."
+        },
+        {
+          "name": "Systems",
+          "detail": "Hydraulic Crusher\nLocomotion System\nEscape Hatch\nRigging Arm\nRadiation Sealing"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nSurvey Scanner\nVideo Projection Array"
+        }
+      ]
+    },
+    {
+      "name": "Sentinel Pattern",
+      "info": "Mirrorball Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Evantis converted many of these Mechs into mobile, shielded missile platforms as a last gasp in the Colonial Wars."
+        },
+        {
+          "name": "Systems",
+          "detail": "Missile Pod\nEjector Pod\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nIR Night Vision Optics\nLaser Guidance"
+        }
+      ]
+    }
+  ]
+}

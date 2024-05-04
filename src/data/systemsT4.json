@@ -1,9 +1,8 @@
 {
-  "name": "Tech 4 (Systems)",
+  "name": "Tech 4 Systems",
   "data": [
     {
       "name": "Advance Fabrication Arm",
-      "info": "",
       "detail": "`T4` 🔺 - 3 ⚙️ - 3\n\nSpecially designed by Osiris Construction to repair Evantis Colossus Mechs during the Last War of Nations.\n\n*2EP Patch*\n`Turn Action // Range: Close`\nYou restore up to 7 Structure Points to any Mech in Range that has at least 1 SP.\n\n*2EP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, or 4 System or Module in Range to Intact Condition. It is now usable.\n\n*4EP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, or 4 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
     },
     {
@@ -18,7 +17,6 @@
     },
     {
       "name": "Automated Weapon Turret",
-      "info": "",
       "detail": "This System allows you to mount an A.I. controlled, automated weapon turret onto your Mech. The turret understands and follows basic commands you give it such as attacking a target or defending an area. The turret acts independently of you in the turn order, and may attack once per turn. This does not take up your Turn Action. The turret may not Push.\n\nWhen crafting this System, you may choose from the following turret types. Additionally, roll on the A.I. Personality Table for your Automated Turret System to determine its personality.\n\n*Automated Machine Gun Turret*\n\n`T4` 🔺 - 5 ⚙️ - 2\n`Range: Close // Damage: 2 SP // Ballistic // Pinning`\nA gimble mounted .50 Cal Machine gun with automated optical tracking.\n\n`T4` 🔺 -  7⚙️ - 3\n*Automated Green Laser Turret*\n`Range: Medium // Damage: 4 SP // Energy // Hot (2)`\nA tri-axis gyroscope controlled Green Laser, with No-Scope LIDAR tracking.\n\n`T4` 🔺 - 9 ⚙️ - 4\n*Automated 120mm Cannon Turret*\n`Range: Long // Damage: 6 SP // Ballistic // Explosive (1)`\nA Herrsch 360° RealSteel Turret Enclosure, controls this 120mm Cannon."
     },
     {
@@ -83,7 +81,6 @@
     },
     {
       "name": "Tesla Coils",
-      "info": "",
       "detail": "`T4` 🔺 - 5 ⚙️ - 3\n\nDeveloped by Aeon as a means to charge their patented shielding technology whilst in the field. Tesla Coils fire an arc of supercharged electricity which can be used in offensive, defensive, and support roles.\n\n*2EP Tesla Arc*\n`Turn Action // Range: Medium`\nYou may choose up to three different targets in Range. Roll to hit once as normal. On a successful hit, the first target takes 4 SP damage, the second target takes 3 SP damage, and the third target takes 2 SP damage.\n\n3EP Tesla Charge\nTurn Action // Range: Close\nYou may restore up to 2 EP to a target\nMech in Range.\n\n*2EP Tesla Shield*\n`Turn Action // Range: Close // Shield`\nYou create an electrical field around your Mech for 10 minutes. Everything within Close Range of you, including Allies, takes 3 SP damage as you activate this Ability. If anything ends its turn in Close Range of you it takes 3 SP damage. "
     }
   ]

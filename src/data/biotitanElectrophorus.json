@@ -1,0 +1,39 @@
+{
+  "name": "Electrophorus",
+  "info": "96 SP",
+  "data": [
+    {
+      "name": "Description",
+      "detail": "A vast, eel-like Bio-Titan able to harness bioel-\nectric energy. Rumoured to dwell at the deepest point of the world’s oceans within the Amara Trench in the Oceanic Rim."
+    },
+    {
+      "name": "Titanic Actions",
+      "detail": "Electrophorus can take three Titanic Actions, choosing from the options below. Only one Titanic Action may be chosen at a time and only at the end of another Pilot’s or NPC’s turn. Electrophorus regains spent Titanic Actions at the start of their turn.\n\n• Electrophorus moves one Range Band.\n• Electrophorus makes a Electrified Spines Attack.\n• Electrophorus makes a Bio-Electric Arc Attack (Uses 2 Titanic Actions)."
+    },
+    {
+      "name": "Electrified Spines",
+      "info": "Turn Action // Range: Close // Damage: 8 SP // Melee // Ion",
+      "detail": "Electrophorus gouges a target with its spines"
+    },
+    {
+      "name": "Static Field",
+      "info": "Passive",
+      "detail": "Anything that starts its turn or enters within Close Range of the Electrophorus will take 5 SP damage."
+    },
+    {
+      "name": "Hover",
+      "info": "Passive",
+      "detail": "Electrophorus is able to use its bioelectric energy to hover over obstacles, creatures, Mechs, and terrain as a Free Action."
+    },
+    {
+      "name": "Bio-Electric Arc",
+      "info": "Turn Action // Range: Medium // Energy",
+      "detail": "Electrophorus fires an arc of bioelectricity. Choose up to three targets in Medium Range and make a single attack roll. On a successful hit the first target takes 10 SP damage, the second target takes 5 SP damage, and the third target takes 3 SP damage."
+    },
+    {
+      "name": "Bio-Electric Shield",
+      "info": "Reaction // Shield",
+      "detail": "As a Reaction may when hit by an attack, Elec- trophorus may trigger its Bio-Electric Shield to deflect the blow.\n\n*ROLL THE DIE:*\n`20`: Electrophorus prevents the attack and can make a free Bio-Electric Arc attack against the attacker.\n`10 - 19`: Electrophorus prevents the attack.\n`6 - 10`: Electrophorus takes half damage from the attack.\n`2 - 5`: The Shield fails and cannot be used until the end of Electrophorus’ next turn.\n`1`: The Shield fails and is unusable for 24 hours."
+    }
+  ]
+}

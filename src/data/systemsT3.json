@@ -1,5 +1,5 @@
 {
-  "name": "Tech 3 (Systems)",
+  "name": "Tech 3 Systems",
   "data": [
     {
       "name": "120mm Cannon",
@@ -38,7 +38,6 @@
     },
     {
       "name": "Fabrication Arm",
-      "info": "",
       "detail": "`T3` 🔺 - 3 ⚙️ - 3\n\nThis multi-purpose fabrication arm produces a resilient form of metallic oxide epoxy allowing specialized field repairs.\n\n*2EP Patch*\n`Turn Action // Range: Close`\nYou restore up to 6 Structure Points to any Mech in Range that has at least 1 SP.\n\n*2EP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, or 3 System or Module in Range to Intact Condition. It is now usable.\n\n*4EP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, or 3 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
     },
     {

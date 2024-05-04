@@ -1,0 +1,49 @@
+{
+  "name": "Tyrant",
+  "info": "215 SP",
+  "data": [
+    {
+      "name": "Description",
+      "detail": "A mammoth, amphibian lizard said to have been born in the aftermath of the first nuclear war. It dwells somewhere deep within The Great Cape and was responsible for the destruction of the Kombu Tech home arco, a coastal city of a million souls."
+    },
+    {
+      "name": "Titanic Actions",
+      "detail": "The Tyrant can take three Titanic Actions, choosing from the options below. Only one Titanic Action may be chosen at a time and only at the end of another Pilot’s or NPC’s turn. The Tyrant regains spent Titanic Actions at the start of their turn.\n\n• Tyrant moves one Range Band.\n• Tyrant regains 10 SP.\n• Tyrant makes a single Claw Swipe Attack. This does not have the Multi-Attack Trait."
+    },
+    {
+      "name": "Amphibious",
+      "info": "Passive",
+      "detail": "The Tyrant is able to move swiftly in all bodies of water at any depth as well as on land. It can breathe underwater as well as on land."
+    },
+    {
+      "name": "Destroyer of Worlds",
+      "info": "Passive",
+      "detail": "The destructive power of The Tyrant is unparalleled. It will destroy any Arco, City, Settlement, or Crawler within a day of attacking it."
+    },
+    {
+      "name": "Regeneration",
+      "info": "Passive",
+      "detail": "The Tyrant regains 10 SP at the start of its turn. This triggers even when reduced to 0 SP."
+    },
+    {
+      "name": "Claw Swipes",
+      "info": "Turn Action // Range: Close // Damage: 10 SP // Melee // Multi-Attack (2)",
+      "detail": "The Tyrant makes a frenetic series of claw swipes."
+    },
+    {
+      "name": "Rending Bite",
+      "info": "Turn Action // Range: Close // Damage: 20 SP // Deadly // Melee",
+      "detail": "The Tyrant rips apart a target with a mammoth bite."
+    },
+    {
+      "name": "Tail Swat",
+      "info": "Reaction // Range: Medium // Damage: 15 SP // Melee",
+      "detail": "The Tyrant swipes with its tail, casually knocking over skyscrapers and swatting away projectiles.\n\nThe Tyrant may make its Tail Swat attack as a Reaction to anything that moves within Close Range of it. On a successful hit the target is knocked Prone.\n\nIn addition, if The Tyrant is attacked by any weapons with the Missile or Melee Trait, it may attempt to deflect the attack with its Tail.\n\n*ROLL THE DIE:*\n`20`: Tyrant deflects the hit back. It hits the target for double damage.\n`11 - 19`: Tyrant deflects the hit, it misses and Tyrant takes no damage.\n`6 - 10`: Tyrant partially deflects the hit, it hits and Tyrant takes half damage rounded down from the attack.\n`2 - 5`: Tyrant fails to deflect the hit and is hit as normal and takes full damage. It cannot use Tail Swat until the start of the next Turn.\n`1`: Tyrant fails to deflect the hit and its mammoth tail is torn off. It gains the Vulnerable Trait until the start of its next turn."
+    },
+    {
+      "name": "Irradiated Beam",
+      "info": "Turn Action // Range: Long // Damage: 40 SP // Burn (5) // Energy // Explosive (5) // Irradiated",
+      "detail": "The Tyrant produces a humongous beam of Irradiated energy from its maw. This must recharge after being fired, and can only be made every other turn. Any target hit by the Irradiated Beam as well as the entire area within Close Range becomes Irradiated."
+    }
+  ]
+}

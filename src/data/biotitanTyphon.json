@@ -1,0 +1,34 @@
+{
+  "name": "Typhon",
+  "info": "67 SP",
+  "data": [
+    {
+      "name": "Description",
+      "detail": "Vengeance of the earth. This terrifying spiked worm can even swallow a Colossus whole. Some believe the spirits of miners in the Ferrous Range, who died in industrial accidents, summoned this being in vengeance."
+    },
+    {
+      "name": "Titanic Actions",
+      "detail": "from the options below. Only one Titanic Action may be chosen at a time and only at the end of another Pilot’s or NPC’s turn. Typhon regains spent Titanic Actions at the start of their turn.\n\n• Typhon uses their Burrower Ability to either burrow or unburrow.\n• Typhon moves one Range Band.\n• Typhon makes a Swallow Whole Attack (Costs three Titanic Actions)."
+    },
+    {
+      "name": "Armour Plating x 2",
+      "info": "Passive",
+      "detail": "When Typhon takes damage, instead destroy a layer of Armour Plating and negate all of the damage and any effects."
+    },
+    {
+      "name": "Burrower",
+      "info": "Passive",
+      "detail": "Typhon can move freely on land and traverse underground through earth, even through the hardest of rock deposits.\n\nIt can burrow into the earth as a Turn Action and unburrow as a Free Action. Whilst burrowed, it cannot be seen or targeted by anything on the ground, but can be spotted via the huge amounts of earth it kicks up."
+    },
+    {
+      "name": "Spiked Carapace",
+      "info": "Passive",
+      "detail": "When Typhon unborrows all targets within Close Range of the area it unburrows up to take 5 SP damage from its spiked carapace.\n\nIn addition, any target that attacks Typhon with an attack that has the Melee Trait takes 3 SP damage on a hit."
+    },
+    {
+      "name": "Swallow Whole",
+      "info": "Turn Action // Range: Close // Melee",
+      "detail": "Typhon attempts to swallow a target into its humongous maw. Typhon may have multiple targets swallowed at once.\n\n*ROLL THE DIE:*\n`20`: The target is swallowed whole and entirely mulched in the jaws of Typhon. A Mech or Vehicle is destroyed, a creature is killed.\n`11 - 19`: Typhon swallows the target whole. The target takes 10 SP damage as it enters the Bio-Titan’s gullet. Whilst swallowed, the target takes 5 SP damage at the end of their turn, and cannot move. They can attempt to use a Turn Action to escape. If Typhon takes 25 or more SP damage in one round it will regurgitate what- ever it has swallowed.\n`6 - 10`: Typhon chews through the target. A random System on the target is destroyed and the target takes 5 SP damage.\n`2 - 5`: Typhon misses the target.\n`1`: Typhon misses the target and its jaws become locked. It cannot use its Swallow Whole attack for one turn."
+    }
+  ]
+}

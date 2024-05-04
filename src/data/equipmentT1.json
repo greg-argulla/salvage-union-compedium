@@ -1,5 +1,5 @@
 {
-  "name": "Tech 1 (Equipment)",
+  "name": "Tech 1 Equipment",
   "data": [
     {
       "name": "First Aid Kit",
@@ -8,7 +8,6 @@
     },
     {
       "name": "Hand Riveting Gun",
-      "info": "",
       "detail": "This pocket-sized riveting gun can make basic repairs in the field.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nWhen activated, a target Mech or Vehicle of your choice in Range with at least 1 SP regains 2 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1 System or Module\nin Range to Intact Condition. It is now usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1 Mech Chassis or\nVehicle in Range to Intact Condition. It is now\nusable with 1 SP."
     },
     {

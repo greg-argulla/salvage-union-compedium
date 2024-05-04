@@ -1,0 +1,167 @@
+{
+  "name": "Tech 5 Patterns",
+  "data": [
+    {
+      "name": "Crawler Pattern",
+      "info": "Carrier Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A Crawler away from home, this Carrier is able to support a salvage team on an extended foray into the wastes."
+        },
+        {
+          "name": "Systems",
+          "detail": "Plasma Cannon \nArticulated Rigging Arm\nEscape Hatch\nFabrication Bay\nSpider Locomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Auto-Doctor\nComms Module\nDamage Assessor\nHolo Projector"
+        }
+      ]
+    },
+    {
+      "name": "Scuttler Pattern",
+      "info": "Carrier Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed for extended salvaging operations, the Experimental Teleportation Hold of this pattern enables the Mech to feed their Crawler a steady stream of scrap whilst out in the field."
+        },
+        {
+          "name": "Systems",
+          "detail": "120mm Cannon Experimenta\nTeleportation Hold\nEjection System\nLocomotion System\nPrawn Sifter"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nIR Night Vision Optics\nNavigation Module\nMetal Detector\nSurvey Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Rallier Pattern",
+      "info": "Carrier Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed to protect and support its Mech cargo via heavy fire support, shielding, and hacking."
+        },
+        {
+          "name": "Systems",
+          "detail": "Plasma Cannon\nMole Torpedo\nEscape Hatch\nLocomotion System\nMulti-Phase Shield"
+        },
+        {
+          "name": "Modules",
+          "detail": "Mech Scrambler\nMulti-Optics\nNeuralink Communicator"
+        }
+      ]
+    },
+    {
+      "name": "Commando Pattern",
+      "info": "Eidolon Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A build designed to infiltrate an area and deal as much damage to infrastructure as possible whilst relaying vital intelligence back to command."
+        },
+        {
+          "name": "Systems",
+          "detail": "FM-3 Flamethrower\nIon Cannon\nEjection System\nLocomotion System \nRadomes"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEggs Mayhem Firewall\nHolo Projector\nMech Scrambler\nReactor Overload\nThermal Optics"
+        }
+      ]
+    },
+    {
+      "name": "Iron Lung Pattern",
+      "info": "Eidolon Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Used by Stefanus to chart hostile environments, the Pilots, typically convicts, are locked in the Eidolon without an Escape Hatch. They are then tasked with charting multiple navigation points and relaying the information back to Stefanus. Records show that none have returned alive."
+        },
+        {
+          "name": "Systems",
+          "detail": "Amphibious Locomotion System\nArticulated Rigging Arm\nHigh Gain Antenna\nRadiation Sealing\nTransport Hold"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nElectro-Magnetic\nSelf-Destruct Encrypted Comms\nMulti-Optics\nNavigation Module\nPersonal Recreation Device"
+        }
+      ]
+    },
+    {
+      "name": "Sakura Pattern",
+      "info": "Eidolon Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed as a close-range assassin that materialised from thin air to enact a termination contract for their corporate masters."
+        },
+        {
+          "name": "Systems",
+          "detail": "Monomolecular Blade\nArticulated Rigging Arm\nLocomotion System\nEscape Hatch\nMulti-Phase Shield"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nElectro-Magnetic\nSelf-Destruct\nMatter Phaser\nMulti-Optics\nOffensive Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Screamer Pattern",
+      "info": "Neura-phage Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Corpo Pilots who die in enough debt are forced into these cages to pay it off in perpetuity. Even in death you will still work."
+        },
+        {
+          "name": "Systems",
+          "detail": "Monomolecular Blade\nIon Cannon\nRigging Arm\nMulti-Phase Shield\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Advanced Targeting Array\nOmega Push Module\nAdvanced Reactor\nSafety Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Breacher Pattern",
+      "info": "Neura-phage Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Used by members of the fanatical Aeon Unit known as the Breachers, wherever an arco or settlement is being besieged, this Mech will be on the frontlines."
+        },
+        {
+          "name": "Systems",
+          "detail": "120mm Heavy Autocannon\nLocomotion System\nElectro-Magnetic\nShield Projector"
+        },
+        {
+          "name": "Modules",
+          "detail": "Advanced Targeting Array\nReaction Protocols \nAdvanced Reactor\nSafety Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Ascension Pattern",
+      "info": "Neura-phage Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "According to the Quantum Writ, the path of Ascension will free you from the mortal sufferings of flesh."
+        },
+        {
+          "name": "Systems",
+          "detail": "Railgun\nIon Cannon\nLocomotion System\nReflective Shielding"
+        },
+        {
+          "name": "Modules",
+          "detail": "Auto-Repair Droid\nHolo Projector\nReaction Protocols\nWeapon Guidance"
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,8 @@
 {
-  "name": "Tech 5 (Modules)",
+  "name": "Tech 5 Modules",
   "data": [
     {
       "name": "Adv. Targeting Array",
-      "info": "",
       "detail": "`T5` 🔺 - 2 ⚙️ - 2\n\nThis mil-tech Module combines Laser Guidance, Pinpoint Targeter, and Multi-Targeter into one Module. You may activate each separately.\n\n*3EP Pinpoint Targeter p. 196*\n`Turn Action // Targeter`\nMake an attack at a selected target. If it hits select a system or appendage to be damaged/injured. If you roll a 20 it is destroyed instead. You also deal damage as normal.\n\n*XEP Multi-Targeter p. 200*\n`Turn Action // Targeter`\nMake an attack with any number of weapons. Each weapon must select a different target. Costs 1 EP per weapon fired.\n\n*3EP Laser Guidance p. 204*\n`Free Action // Range: Long // Targeter`\nThe next attack you make against that target automatically hits counting as an (11-19) result."
     },
     {
@@ -18,7 +17,6 @@
     },
     {
       "name": "Multi-Optics",
-      "info": "",
       "detail": "`T5` 🔺 - 2 ⚙️ - 2\n\nThis Module combines Zoom Optics p.193, Thermal Optics p. 204, and IR Night Vision Optics p. 195, into one. You gain the use of all three and may activate each separately"
     },
     {
@@ -28,7 +26,6 @@
     },
     {
       "name": "Omega Push Module",
-      "info": "",
       "detail": "`T5` 🔺 - 2 ⚙️ - 2\n\nThis Module combines Evasion Protocols p. 194, Offensive Protocols p. 200, and Dash Protocols p.203, into one Module. You may activate each separately as desired."
     }
   ]

@@ -1,29 +1,24 @@
 {
-  "name": "Tech 1 (Chassis)",
+  "name": "Tech 1 Chassis",
   "data": [
     {
       "name": "Mule",
-      "info": "",
       "detail": "The ‘M-63’ Mule was developed by the Opus Institute as one of the first open source Mech blueprints. They remain a ubiquitous presence across the wasteland as a result. Their design was replicated not only by other corpos, but numerous enthusiasts with a crafting bay. The Mule’s spacious cargo bay makes the Mech invaluable to wastelanders, corpos, and salvagers alike for transporting salvage over a wide array of terrain, whilst its general hardiness allows it to survive numerous threats from raider ambushes to radiation storms.\n\n`Structure Pts`: 12\n`Energy Pts`: 4\n`Heat Cap`: 6\n`System Slots`: 16\n`Module Slots`: 2\n`Cargo Cap`: 16\n`Tech Level`: 1\n`Salvage Value`: 7\n\n*Integrated Cargo Bay*: Increases the Cargo Capacity of the Mule by 10, to 16."
     },
     {
       "name": "Mazona",
-      "info": "",
       "detail": "The Mazona ‘PR1-M3’ was created by DronTek Systems in the aftermath of the first Luddite Rebellion. It was designed as a delivery drone that could be piloted by a worker rather than auto- mated. Its design remains useful due to the majority of auto- mated drones malfunctioning as a result of the increased radiation storms across the wastelands. Whilst fragile, the DronTek patented hover function enables it to operate across a wide variety of terrain, plus it is a cheap Mech to rebuild if it does get blown apart.\n\n`Structure Pts`: 5\n`Energy Pts`: 10\n`Heat Cap`: 6\n`System Slots`: 7 \n`Module Slots`: 3\n`Cargo Cap`: 6\n`Tech Level`: 1\n`Salvage Value`: 4\n\n*Hover Drone*: The Mazona has an Integrated Hover Locomotion System which is included in its profile. This allows it to hover over obstacles and terrain."
     },
     {
       "name": "Scrapper",
-      "info": "",
       "detail": "The ‘S-5000’ Scrapper was designed by Hodgson & Vasquez, a subsidiary of Evantis Heavy Industries, for trash haulage and waste disposal. Its Hazard Protected Chassis was necessary to protect the Pilot against the accumulated toxic wastes of the great trash mountains that dotted the Arid Steppes around the Evantis home arco of Haven.\n\n`Structure Pts`: 9\n`Energy Pts`: 9\n`Heat Cap`: 8\n`System Slots`: 12\n`Module Slots`: 2\n`Cargo Cap`: 6\n`Tech Level`: 1\n`Salvage Value`: 6\n\n*Hazard Protected Chassis*: The Scrapper suffers no effect or damage from hazardous environmental effects such as radiation storms. In addition, when dealing with severe environmental hazards they may Push once for free to circumvent or resist any effects."
     },
     {
       "name": "Spectrum",
-      "info": "",
       "detail": "The ‘Z-80A’ Spectrum was developed by Advanced Micropro- cessor Systems (AMS), a subsidiary of Thatcher Steel, as a pilotable, mobile, data centre for use in the establishment of colonies either offworld or within inhospitable locations. The Spectrum’s Chassis is specifically designed to protect its data core and other vital components from any environmental damage and in the event of a colony collapse it can be moved with ease along with the vital intelligence contained in its mammoth core.\n\n`Structure Pts`: 17\n`Energy Pts`: 11\n`Heat Cap`: 3\n`System Slots`: 7\n`Module Slots`: 4\n`Cargo Cap`: 6\n`Tech Level`: 1\n`Salvage Value`: 10\n\n*Data Scanner*: The Spectrum is a mobile data repository that has all manner of information stored within it. It is able to scan objects to both gain information about them and store that data to access at a later time.\n\n*2EP*\n`Short Action // Range: Close // Scanner `\nYou scan a single object in Range. This can be a Mech, System, Module, Vehicle, Creature, artefact, structure, fauna, or flora, or anything else appropriate in the world. You may ask the Mediator two questions about this object and the answers they give must be true.\n\nIf you scan an Intact Mech Chassis, System, or Module in the field, you now have its blueprint. You and everyone on your Union Crawler is now able to craft this item even if you would not normally be able to do so."
     },
     {
       "name": "Thresher",
-      "info": "",
       "detail": "The ‘T-690’ Thresher was designed as a multi-purpose agricul- ture Mech by Hodgson & Vasquez to aid in the large-scale crop harvesting and forestry operations within the Verdant Crescent. It is one of the longest operating Mechs in existence, said to have been used in the Great War. Its multiple layers of heavy armour are a clunky holdover from that era, but provide solid protection to the Mech in the perilous wastes.\n\n`Structure Pts`: 15 \n`Energy Pts`: 6\n`Heat Cap`: 10\n`System Slots`: 9\n`Module Slots`: 2\n`Cargo Cap`: 6\n`Tech Level`: 1\n`Salvage Value`: 9\n\n*Heavily Armoured Chassis*: Any attack that rolls a ‘Nailed It’ (20) result against the Thresher counts as a standard hit (11-19) and does not deal 2× damage or have any other bonus effect."
     }
   ]

@@ -1,0 +1,383 @@
+{
+  "name": "Tech 3 Patterns",
+  "data": [
+    {
+      "name": "Thunder Storm Pattern",
+      "info": "Atlas Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A cheap build favoured by wasters. Bristling with machine guns, even if it overheats from firing them, nothing should be left standing afterwards."
+        },
+        {
+          "name": "Systems",
+          "detail": ".50 Cal Machine Gun x6\nArmour Plating\nEscape Hatch\nLocomotion System\nPersonnel Transport Pod\nShotgun Pit"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nWeapon Link\n.50 Cal Machine Gun × 6"
+        }
+      ]
+    },
+    {
+      "name": "Bastion Pattern",
+      "info": "Atlas Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "This Atlas build is designed to strip an area clean of salvage whilst pounding any would-be attackers with missile and autocannon fire."
+        },
+        {
+          "name": "Systems",
+          "detail": "30mm Autocannon\nMissile Pod\nLocomotion System\nEjection System\nPrawn Sifter"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nMetal Detector"
+        }
+      ]
+    },
+    {
+      "name": "Evantis Pattern",
+      "info": "Atlas Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Terrifying when you consider this is not even intended to be a combat Mech. Evantis utilises these as a ‘cost effective’ defensive measure in their numerous field bases in the Arid Steppes."
+        },
+        {
+          "name": "Systems",
+          "detail": "Railgun\nArmour Plating \nEjection System\nModule Switch \nSpider Locomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nCoolant Flow Manifold\nEmergency Power\nConduit"
+        }
+      ]
+    },
+    {
+      "name": "Rifleman Pattern",
+      "info": "Brawler Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A straightforward build designed to pound targets with autocannons. Effectively utilised by the waster settlement of Broken Reach in the Arid Steppes to fend off a Contour incursion into their territory."
+        },
+        {
+          "name": "Systems",
+          "detail": "30mm Autocannon × 2\nEjection System\nElectro-Magnetic\nShield Projector\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nReactor Safety Protocols\nWeapon Link 30mm Autocannon × 2"
+        }
+      ]
+    },
+    {
+      "name": "Ironmask Pattern",
+      "info": "Brawler Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Osiris pit fighters are sealed into these and made to fight it out for the amusement of the execs."
+        },
+        {
+          "name": "Systems",
+          "detail": "Mech Melee Armament (Iron Spear)\nArmoured Shield\nArticulated Rigging Arm × 2\nLocomotion System\nVectored Thrust Unit"
+        },
+        {
+          "name": "Modules",
+          "detail": "Electro-Magnetic\nSelf-Destruct\nOffensive Protocols\nPinpoint Targeter"
+        }
+      ]
+    },
+    {
+      "name": "Gladiator pattern",
+      "info": "Brawler Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A popular entry level build amongst corpo contractor pilots who accrue enough debt to purchase one and pay off their interest through violence."
+        },
+        {
+          "name": "Systems",
+          "detail": "Missile Pod\nMech Melee Armament (Steel Axe)\nArticulated Rigging Arm\nEjection System\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nLaser Guidance\nOffensive Protocols"
+        }
+      ]
+    },
+    {
+      "name": "Surveyor Pattern",
+      "info": "Little Sestra Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Utilised by wastelanders and corpos alike to scout out and survey terrain, salvaging spots, and enemy positions."
+        },
+        {
+          "name": "Systems",
+          "detail": "Green Laser\nEscape Hatch\nLocomotion System\nTracking Node\n\n*Sestra Drone*\nLong Barrelled Green Laser\nHigh Gain Antenna\nCargo Pod"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nReactor Flare\n\n*Sestra Drone*\nSurvey Scanner\nM315 Motion Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Scrounger Pattern",
+      "info": "Little Sestra Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "With a drone friend in tow, you’ll never get lonely when out salvaging in the wastes."
+        },
+        {
+          "name": "Systems",
+          "detail": "Articulated Rigging Arm\nEscape Hatch\nFabrication Arm\nLocomotion System\n\n*Sestra Drone*\nRed Laser\nFabrication Arm\nHigh Gain Antenna"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nMetal Detector\n\n*Sestra Drone*\nSurvey Scanner\nDamage Assessor"
+        }
+      ]
+    },
+    {
+      "name": "Drontek Pattern",
+      "info": "Little Sestra Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A spotter and sniper combo developed for a battlefield support role alongside the corpos’ larger Mech and drone lances."
+        },
+        {
+          "name": "Systems",
+          "detail": "Green Laser\nEjection System\nHigh Gain Antenna\nLocomotion System\n\n*Sestra Drone*\nRail Rifle"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nZoom Optics\n\n*Sestra Drone*\nReactor Overload\nLaser Guidance"
+        }
+      ]
+    },
+    {
+      "name": "Painter Pattern",
+      "info": "Mantis Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A salvager build designed for area surveillance, support, and target acquisition."
+        },
+        {
+          "name": "Systems",
+          "detail": ".50 Cal Machine Gun\nEjection System\nHigh Gain Antenna\nLocomotion System\nTarget Painter"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nM315 Motion Scanner\nMetal Detector\nNavigation Module\nReactor Overload\nSurvey Scanner"
+        }
+      ]
+    },
+    {
+      "name": "Battery Pattern",
+      "info": "Mantis Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A mobile recharge platform able to power up other Mechs on the go whilst providing a suite of support roles."
+        },
+        {
+          "name": "Systems",
+          "detail": "Locomotion System\nTesla Coils\nLaser Anti-Missile System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEncrypted Comms Plugin\nECM Transmitter Energy Cell × 2 \nSonic Screecher"
+        }
+      ]
+    },
+    {
+      "name": "Stefanus Pattern",
+      "info": "Mantis Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A versatile combat hacker able to transmit encrypted comms back to their home base whilst disrupting opposing forces with a variety of hacking tools and guided missile strikes."
+        },
+        {
+          "name": "Systems",
+          "detail": "Needle Missile Pod\nEscape Hatch\nLocomotion System\nRadomes"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEggs Mayhem\nEncrypted Comms Plugin\nFirewall\nMech Scrambler\nReactor Overload"
+        }
+      ]
+    },
+    {
+      "name": "Stitcher Pattern",
+      "info": "Photon Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Designed as a repair and medical support Mech that operates within the rugged terrain of the likes of the Ferrous Range, Northern Wastes, and Arid Steppes."
+        },
+        {
+          "name": "Systems",
+          "detail": "Green Laser\nArticulated Rigging Arm\nFabrication Arm\nEscape Hatch\nSpider Locomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Auto-Doctor\nComms Module\nEnergy Cell"
+        }
+      ]
+    },
+    {
+      "name": "Needler Pattern",
+      "info": "Photon Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "This Stefanus developed Photon build combines a hacking suite alongside a Needle Missile array and was deployed in their failed invasion of the Central Wastes during the Second Corpo War."
+        },
+        {
+          "name": "Systems",
+          "detail": "Needle Missile Pods ×3\nCapacitance Bank\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEggs Mayhem\nMech Scrambler\nMulti-Targeter"
+        }
+      ]
+    },
+    {
+      "name": "Skum Pattern",
+      "info": "Photon Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "The Photon proves a powerful platform for the energy hungry Tesla Coils System due to its ability to recharge in the field."
+        },
+        {
+          "name": "Systems",
+          "detail": "Red Laser\nCapacitance Bank\nEscape Hatch\nLocomotion System\nTesla Coils"
+        },
+        {
+          "name": "Modules",
+          "detail": "Auto-Repair Droid\nComms Module\nEnergy Cell × 2"
+        }
+      ]
+    },
+    {
+      "name": "Smuggler Pattern",
+      "info": "Solo Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A versatile build for smugglers of the wastelands transporting patented goods or ferrying arco refugees to safe zones."
+        },
+        {
+          "name": "Systems",
+          "detail": ".50 Cal Machine Gun\nEscape Hatch\nHigh Gain Antenna\nLocomotion System\nPersonnel Transport Pod\nSmuggling Hold"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nConcealed Equipment Locker\nEncrypted Comms\nVoice Modulator"
+        }
+      ]
+    },
+    {
+      "name": "Infiltrator Pattern",
+      "info": "Solo Chassis",
+      "data": [
+        {
+          "name": "Systems",
+          "detail": "Ejection System\nHigh Gain Antenna\nIndustrial Body Kit (Mule)\nLocomotion System\nSmoke Machine\nTracking Node"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nComms Tapper\nEggs Mayhem\nVoice Modulator"
+        },
+        {
+          "name": "Description",
+          "detail": "Designed to blend into the background in an arco and perform hacking and reconnaissance missions unseen."
+        }
+      ]
+    },
+    {
+      "name": "Sakura Pattern",
+      "info": "Solo Chassis",
+      "data": [
+        {
+          "name": "Systems",
+          "detail": "Rail Rifle\nEjection System \nHigh Gain Antenna\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nECM Transmitter\nEncrypted Comms\nLaser Guidance"
+        },
+        {
+          "name": "Description",
+          "detail": "Developed for lone wetwork, a Mech of this pattern was said to be responsible for the assasination of President Nadine triggering the First Corpo War and the Fall of Nations."
+        }
+      ]
+    },
+    {
+      "name": "Sifter Pattern",
+      "info": "Terra Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "A favourite of salvagers who want to plunder the rad soaked ruins, as it can protect the entire crew in a hot zone."
+        },
+        {
+          "name": "Systems",
+          "detail": "Rotary Minigun\nEscape Hatch\nFabrication Arm\nLocomotion System\nPrawn Sifter"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nEnergy Cell\nMetal Detector"
+        }
+      ]
+    },
+    {
+      "name": "Deployer Pattern",
+      "info": "Terra Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Originally developed by the engineer team of Crawler #104 on their expedition to the Frozen Gulf as a means to protect their Crawler once deployed, and survive the sub-zero conditions."
+        },
+        {
+          "name": "Systems",
+          "detail": "Blue Mining Laser\nAnti-Mech Mine Layer\nArticulated Rigging Arm\nEscape Hatch\nLocomotion System"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nIR Night Vision Optics\nEmergency Power Conduit"
+        }
+      ]
+    },
+    {
+      "name": "Kombu Pattern",
+      "info": "Terra Chassis",
+      "data": [
+        {
+          "name": "Description",
+          "detail": "Originally developed for outerworld excavation, it is now utilised in numerous wasteland hot zones ripe for rare earth mining where the ozone has been breached."
+        },
+        {
+          "name": "Systems",
+          "detail": "Heavy Duty Mining Rig \nEjection System\nLocomotion System\nRigging Arm\nTransport Hold\nFabrication Arm"
+        },
+        {
+          "name": "Modules",
+          "detail": "Comms Module\nDeep Survey Scanner\nEnergy Cell"
+        }
+      ]
+    }
+  ]
+}

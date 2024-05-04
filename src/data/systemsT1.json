@@ -1,5 +1,5 @@
 {
-  "name": "Tech 1 (Systems)",
+  "name": "Tech 1 Systems",
   "data": [
     {
       "name": ".50 Cal Machine Gun",
@@ -83,7 +83,6 @@
     },
     {
       "name": "Riveting gun",
-      "info": "",
       "detail": "`T1`  🔺 -  3 ⚙️ - 4\n\nThis mech-mountable riveting gun can be used to make field repairs to the most basic of Mechs, Systems, and Modules.\n\n*2EP Patch*\n`Range: Close // Turn Action`\nYou restore up to 4 Structure Points to any Mech in Range that has at least 1 SP.\n\n*2EP System Repair*\n`Range: Close // Short Action`\nYou repair a damaged Tech 1 System or Module in Range to Intact Condition. It is now usable.\n\n*4EP Chassis Repair*\n``Range: Close // Long Action``\nYou repair a damaged Tech 1 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP"
     },
     {

@@ -1,0 +1,28 @@
+{
+  "name": "Behemoth",
+  "info": "60 SP",
+  "data": [
+    {
+      "name": "Description",
+      "detail": "The apex Meld, the size of a high rise building. Having assimilated vast quantities of mechanical and biological entities, it becomes a force even the toughest of Mechs struggle to reckon with."
+    },
+    {
+      "name": " Titanic Actions",
+      "detail": "The Meld Behemoth can take three Titanic Actions, choosing from the options below. Only one Titanic Action may be chosen at a time and only at the end of another Pilot’s or NPC’s turn. Meld Behemoth regains spent Titanic Actions at the start of their turn.\n\n• The Meld Behemoth moves one Range Band. • The Meld Behemoth makes a single Behemoth Tendrils Attack. This does not have the Multi- Attack Trait.\n• The Meld Behemoth uses the Behemoth Assimilation Ability."
+    },
+    {
+      "name": "Nanite Salvage",
+      "detail": "An amount of Inert Meld Nanites equal to the Meld Behemoth’s Max SP when it was reduced to 0 SP. For example, if the Meld Behemoth had 70 Max SP when it was reduced to 0 SP it drops 70 Inert Meld Nanites."
+    },
+    {
+      "name": "Behemoth Tendrils",
+      "info": "Turn Action // Range: Medium // Damage: 6 SP // Melee // Multi-Attack (2)",
+      "detail": "Long reaching tendrils whip around to grab all within reach, either crushing them or drawing them nearer to be assimilated."
+    },
+    {
+      "name": "Assimilation",
+      "info": "Turn Action",
+      "detail": "A Meld Behemoth does not infect, instead it absorbs everything it destroys into its mammoth, ever expanding form.\n\nWhen the Meld Behemoth uses this Ability a target Mech or Vehicle in Close Range that is damaged or on 0 SP becomes assimilated into its bulk.\n\nThe Meld Behemoth gains an amount of SP equal to the target’s Max SP. If this would increase the Meld Behemoth’s current SP beyond its Max SP, increase its Max SP by that amount as well. For example, if the Meld Behemoth has 60 SP and gained 10 SP it would now have 70 SP with a Max SP of 70."
+    }
+  ]
+}

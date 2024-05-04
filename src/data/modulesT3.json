@@ -1,5 +1,5 @@
 {
-  "name": "Tech 3 (Modules)",
+  "name": "Tech 3 Modules",
   "data": [
     {
       "name": "Advanced Weapons Link",
@@ -8,7 +8,6 @@
     },
     {
       "name": "Auto-Doctor",
-      "info": "",
       "detail": "`T3` 🔺 - 2 ⚙️- 4\n\nThe Auto-Doctor is a medical droid with a rudimentary A.I. that can heal a Pilot in the field via a complex array of mechanical surgery arms. The Auto-Doctor is immobile and is installed internally within your Mech. Roll on the A.I. Personality Table for your Auto-Doctor personality or choose your own.\n\n*2EP Heal*\n`Short Action // Range: Close`\nThe Auto-Doctor heals a creature within Range up to 10 HP. If they were on 0 HP this restores them to consciousness and heals them to 10 HP.\n\n*2EP Physio*\n`Short Action // Range: Close`\nThe Auto-Doctor heals a creature within Range of a single Minor Injury.\n\n*2EP Therapy*\n`Short Action // Range: Close`\nThe Auto-Doctor engages its therapeutic and drinks dispensation protocols. A single People who talks through things with the Auto-Doctor feels a lot better about themselves, their life, and the situation they are in. (The drinks dispensation protocol does not include alcohol, but the\ntea is surprisingly passable.)\n\n*2EP First Aid*\n`Free Action // Range: Close`\nThe Auto-Doctor heals a creature within Range of up to 4 HP. If they were on 0 HP this restores them to consciousness and heals them 4 HP. "
     },
     {
@@ -23,7 +22,6 @@
     },
     {
       "name": "Coolant Flow Manifold",
-      "info": "",
       "detail": "`T3` 🔺 - 1 ⚙️ - 2 \n\nThis manifold provides more control over the coolant flowing through your reactor, allowing you to inject more coolant as required.\n\n*2EP Coolant Flow*\n`Free Action`\nAdjusted valves provide coolant where required. Reduce the Heat of your Mech by 4.\n\n*1EP Coolant Flush*\n`Short Action`\nThe coolant system runs through a flush cycle. Reduce the Heat of your Mech to 0"
     },
     {

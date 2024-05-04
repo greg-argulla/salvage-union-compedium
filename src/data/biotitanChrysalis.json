@@ -1,0 +1,39 @@
+{
+  "name": "Chrysalis",
+  "info": "80 SP",
+  "data": [
+    {
+      "name": "Description",
+      "detail": "A mammoth flying insect with a wingspan the size of a city and an entrancing song that captures the souls of mortals. Said to inhabit a cave in the Verdant Crescent, it is worshipped by the wastelanders who live there as a god."
+    },
+    {
+      "name": "Titanic Actions",
+      "detail": "Chrysalis can take three Titanic Actions, choosing from the options below. Only one Titanic Action may be chosen at a time and only at the end of another Pilot’s or NPC’s turn. Chrys- alis regains spent Titanic Actions at the start of their turn.\n\n• Chrysalis moves one Range Band.\n• Chrysalis uses their Entrancing Song (Costs 2 Titanic Actions).\n• Chrysalis attacks with Cluster Energy Bomb. This does not have the Multi-Attack Trait.\n• Chrysalis uses its Cocoon Ability (Costs 2 Titanic Actions)."
+    },
+    {
+      "name": "Cluster Energy Bombs",
+      "info": "Turn Action // Range: Long // Damage: 5 SP // Energy // Explosive (5) // Multi-Attack (3)",
+      "detail": "Chrysalis scatters a series of glowing cluster bombs upon its foes."
+    },
+    {
+      "name": "Flying",
+      "info": "Passive",
+      "detail": "Chrysalis can fly in the air, moving over all obstacles and terrain. All attacks against Chrysalis when it is flying treat it as though it is in Long Range."
+    },
+    {
+      "name": "Birth Pods",
+      "info": "Turn Action // Uses (1)",
+      "detail": "Chrysalis Lays d20 Egg Sacs in an area within Close Range. At the start of its next turn they are born as a Child of Chrysalis and join the combat.\n\nEgg Sacs have 1 SP before they hatch.\n\n*Child of Chrysalis*\n5 STRUCTURE PTS.\n`Fly`: Passive // May fly as per Chrysalis \n`Energy Bomb`: Turn Action // Range: Long // Damage: 3 SP // Explosive (3)"
+    },
+    {
+      "name": "Cocoon",
+      "info": "Turn Action",
+      "detail": "Chrysalis forms itself into a Cocoon. Whilst in the Cocoon it cannot move or take any other actions, but regains 10 SP at the start of each round. The Cocoon has 50 SP; if it is destroyed Chrysalis cannot use this Ability again for 24 hours."
+    },
+    {
+      "name": "Entrancing Song",
+      "info": "Turn Action // Uses (1)",
+      "detail": "Chrysalis emits an entrancing song by vibrating its wings at a series of different frequencies.\nThis Ability affects all targets that can hear Chrysalis within Medium Range including those in a Mech unless it is somehow sound sealed.\n\n*ROLL THE DIE:*\n`20`: All targets become thralls to Chrysalis and are under its control for the next 24 hours. Chrysalis can end this effect at any time.\n`11 - 19`: All targets become temporary thralls to Chrysalis. They are under its control until the end of its next turn.\n`6 - 10`: In their futility, the targets attempt to resist the song. Chrysalis will transmit two commands to all targets and they must choose which to follow.\n`2 - 5`: All targets are temporarily enthralled by its song. They are stunned until the end of its next turn. They cannot act and gain the Vulnerable Trait.\n`1`: They resist Chrysalis’ will and the psychic rejection causes Chrysalis to be stunned until the end of its next turn."
+    }
+  ]
+}

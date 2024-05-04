@@ -1,5 +1,5 @@
 {
-  "name": "Tech 2 (Modules)",
+  "name": "Tech 2 Modules",
   "data": [
     {
       "name": "Biometric Sensor",
@@ -23,7 +23,6 @@
     },
     {
       "name": "Evasion Protocols",
-      "info": "",
       "detail": "`T2` 🔺 - 1 ⚙️ - 1\n\nThis Module enables a Mech to make a series of rapid movements in an attempt to avoid damage from an attack or hazard. The infamous ‘Devils Run’ Pilot training route in the Arid Steppes contains a gauntlet of hazards that the Evasion Protocols Module has proved crucial in avoiding. \n\nIf an attack hits your Mech, you may activate the Evasion Protocols as a Reaction to force the attacker to re-roll the attack and choose the lower result. "
     },
     {
@@ -34,7 +33,7 @@
     {
       "name": "IR Night Vision Optics",
       "info": "1EP Free Action // Range: Far // Optics",
-      "detail": "`T2` 🔺 -  1 ⚙️ - 2\n\nDeveloped by the old nations in the Great War and later patented by AMS Systems for use in mining operations, this infrared optical device allows you to see in darkness even on a moonless night. When activated, this specialized, green tinted optical array allows you to see in darkness from your Mech up to Far Range.\nThis effect lasts for 1 hour.\n"
+      "detail": "`T2` 🔺 -  1 ⚙️ - 2\n\nDeveloped by the old nations in the Great War and later patented by AMS Systems for use in mining operations, this infrared optical device allows you to see in darkness even on a moonless night. When activated, this specialized, green tinted optical array allows you to see in darkness from your Mech up to Far Range.\nThis effect lasts for 1 hour."
     },
     {
       "name": "M315 Motion Scanner",

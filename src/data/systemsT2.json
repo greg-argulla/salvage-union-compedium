@@ -1,5 +1,5 @@
 {
-  "name": "Tech 2 (Systems)",
+  "name": "Tech 2 Systems",
   "data": [
     {
       "name": "30mm Autocannon",
@@ -33,7 +33,6 @@
     },
     {
       "name": "Grappling Harpoon",
-      "info": "",
       "detail": "`T2`  🔺 -  3 ⚙️ - 2\n\nThis System launches a grappling spike attached to a high tensile wire. Fired into a rock or structure and it can be used to help the Mech cross rough terrain. Fired at a Mech, it can be used to pin the Mech down or even pulled towards the attacker. Raiders love using these to pin down targets enabling their mates to strip them apart.\n\n*2EP Pin*\n`Turn Action // Range: Medium // Pinning`\nWhen activated, choose a target in Range. You deal 1 SP damage to the target and it cannot move beyond Medium Range of your Mech whilst the grappling harpoon is attached. You can detach the grappling harpoon as a Free Action. The target may attempt to remove the harpoon as a Turn Action on their turn, if they have some means to do so.\n\n*2EP Swing*\n`Turn Action // Range: Medium`\nWhen activated, you may swing or rappel up, down, or over any terrain or obstacle within Range such as a tall building, ravine, or stretch of Irradiated river as long as you have something sturdy to attach the grappling hook to."
     },
     {
@@ -69,7 +68,7 @@
     {
       "name": "Nanofibre Net Launcher",
       "info": "2EP Turn Action // Range: Close",
-      "detail": "`T2`  🔺 -  3 ⚙️ - 2\n\nThis System fires a large, strong nanofibre net at a target, making them easy pickings for salvage.\n\nWhen activated, you fire a nanofibre net at a target in Range. The target cannot move, and gains the Vulnerable Trait as it becomes trapped in the net. The target may attempt to escape the net as a Turn Action on their turn, if they have some means to do so\n\n"
+      "detail": "`T2`  🔺 -  3 ⚙️ - 2\n\nThis System fires a large, strong nanofibre net at a target, making them easy pickings for salvage.\n\nWhen activated, you fire a nanofibre net at a target in Range. The target cannot move, and gains the Vulnerable Trait as it becomes trapped in the net. The target may attempt to escape the net as a Turn Action on their turn, if they have some means to do so\n"
     },
     {
       "name": "Personnel Transport Pod",
@@ -94,16 +93,14 @@
     {
       "name": "Torpedo Tubes",
       "info": "Range: Close/Long // Damage: 6 SP // Hot (1) // Explosive (2) // Missile // Uses (6)",
-      "detail": "`T2`  🔺 -  6 ⚙️ - 5\n\nDeveloped as a highly destructive and versatile armament for underwater Mechs, it is not advisable to use these on land unless you have a good plan. Originally developed by Aegean Dynamics, a\nsubsidiary of Contour Aerospace. Contour conducted a short, highly hostile takeover of the subsidiary and solidified their power over both land and sea. \n\nWhen fired in water, Torpedo Tubes are Long Range weapons. When fired out of water they are Close Range weapons. "
+      "detail": "`T2`  🔺 -  6 ⚙️ - 5\n\nDeveloped as a highly destructive and versatile armament for underwater Mechs, it is not advisable to use these on land unless you have a good plan. Originally developed by Aegean Dynamics, asubsidiary of Contour Aerospace. Contour conducted a short, highly hostile takeover of the subsidiary and solidified their power over both land and sea. \n\nWhen fired in water, Torpedo Tubes are Long Range weapons. When fired out of water they are Close Range weapons. "
     },
     {
       "name": "Tracking Node",
-      "info": "",
       "detail": "`T2`  🔺 -  2 ⚙️ - 2\n\nA favorite of the Scouts Union, they are often used to track salvage targets over long distances.\n\nWhen activated, you fire a bead-sized tracking node from your Mech at any target within Long Range. The tracking node sticks to the target and allows you to track them over Range via your Mech’s heads up display. You know the exact location of the target as long as it remains within Far Range of you. If the target moves further away than Far Range, you also know if the target returns to within Far Range of you. The tracking node adheres to a target for 24 hours. You may have multiple tracking nodes on multiple targets.\n\n`Union Code § 2211 prohibits the use of unsecured tracking systems on board Union Crawlers to prevent back hacking`"
     },
     {
       "name": "Welding Laser",
-      "info": "",
       "detail": "`T2`  🔺 -  3 ⚙️ - 3\n\nThis Mech-mountable welding laser allows you to make a wider range of repairs in the\nfield. An invaluable tool that has become the official symbol of the Engineers’ Union.\n\n*2EP Patch*\n`Turn Action // Range: Close*\nYou restore up to 5 Structure Points to any Mech in Range that has at least 1 SP.\n\n*2EP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1 or Tech 2 System or Module in Range to Intact Condition. It is now usable.\n\n*4EP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1 or Tech 2 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
     }
   ]

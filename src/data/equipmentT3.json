@@ -1,5 +1,5 @@
 {
-  "name": "Tech 3 (Equipment)",
+  "name": "Tech 3 Equipment",
   "data": [
     {
       "name": "Green Laser Rifle",
@@ -23,7 +23,6 @@
     },
     {
       "name": "Handheld Expoxy Canister",
-      "info": "",
       "detail": "This handy piece of equipment applies layers of metallic oxide which can repair and restore a diverse range of broken Mechs and parts.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nYou restore up to 4 SP to a target Mech in Range with at least 1 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, or 3 System or Module in Range to Intact Condition. \n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, or 3 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
     },
     {
