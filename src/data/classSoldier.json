@@ -18,7 +18,7 @@
       "detail": "`3AP//Turn Action//Range: Close`\nYou compel a creature in Range to fight you in single combat. They must be able and willing to fight. This plays out as regular combat, but nobody else can interfere. Whoever is reduced to 0 HP first loses the duel. The winner may choose to show mercy or murder. If they show mercy, the loser gains 1 HP and is stable after 10 minutes. If they show murder, the loser must roll on the Critical Injury Table.\n\nIf you use this Ability whilst piloting a Mech, you may instead compel another piloted Mech to fight you in single combat instead. This works in the same way, except whoever is reduced to 0 SP first loses the duel and the loser has to roll on the Critical Damage Table if the winner chooses murder."
     },
     {
-      "name": "Wastlander Rapport",
+      "name": "Wastelander Rapport",
       "info": "Survivalist Tree//Tier 1",
       "detail": "`1AP//Turn Action`\nYou have an affinity with the people of the wastes. When you activate this Ability you become friendly with a wastelander who you can communicate with. Describe how you do this.\n\nYou may ask this wastelander up to two questions about the local area and they will answer to the full extent of their knowledge. In addition, they will provide you with what help they can as long as it does not put them in danger. For example, by providing you with food or shelter.\n\nIf you meet this wastelander again you may ask them one question and they will answer it"
     },
@@ -32,6 +32,23 @@
       "info": "Survivalist Tree//Tier 3",
       "detail": "`Pilot Equipment`\nYou acquire and train in the use of a Custom Missile Launcher that only you can use. It can be customised how you desire. \n\nIts Tech level is equal to that of your Union Crawler. It has the following stats at Tech 1, in addition, choose a single modification from the list below.\n\n`Damage: 3SP//Range: Medium//Missile//Explosive(1)//Heavy\n\n`Rangefinder:`The Custom Missile increases its Range to Long. \n`Laser Guidance:`You may spend 2 AP to automatically hit with the Custom Missile Launcher. This attack counts as having the Targeter Trait.\n`A.I. Tracking:`You may spend 1 AP to give the Custom Missile Launcher the Guided Trait for the next attack. This attack counts as having the Targeter Trait.\n`Napalm Rounds:`The Custom Missile Launcher gains the Anti-Organic and Burn (1) Trait. \n`Bigger Boom:`The Custom Missile Launcher gains the Explosive (2) Trait.\n`Flashy:`The Custom Missile Launcher gains the Flashy Trait. \n`Expanded Warhead:`The Custom Missile Launcher deals an additional 1 SP damage. \n`Portable:`The Custom Missile Launcher loses the Heavy Trait"
     },
+
+    {
+      "name": "Provoke",
+      "info": "Tactical Warfare Tree//Tier 1",
+      "detail": "`1AP//Turn Action//Range: Close`\nYou provoke any target within Range to focus their attention on you. The target must be able to understand your intent. For the next 10 minutes, the target focuses its attacks, Abilities, and hostilities on you, ignoring all others. This effect ends if you attack another target or if hostilities end."
+    },
+    {
+      "name": "Tactical Retreat",
+      "info": "Tactical Warfare Tree//Tier 2",
+      "detail": "`2AP//Turn Action`\nYou use your tactical knowledge to provide you and your Allies cover to safely retreat. Explain how you do this.\n\nYou and any willing Allies can safely and expeditiously disengage from any combat, fight, or engagement you are in and leave the situation safely to any adjacent Area or another location of your choice."
+    },
+    {
+      "name": "Counterattack",
+      "info": "Tactical Warfare Tree//Tier 3",
+      "detail": "`3AP//Reaction`\nWhen you are attacked you may activate this Ability to make a single attack of your choice against the target that attacked you. This follows all of the normal rules for attacking. Your attack and all of its effects resolve first and then the target’s initial attack resolves."
+    },
+
     {
       "name": "Critical Strike",
       "info": "Advanced Soldier//Tier 1",
@@ -43,7 +60,7 @@
       "detail": "`3AP//Reaction`\nYou have the resilience and survival abilities to weather blows that would otherwise pulverise others into the dust. \n\nYou have the resilience and survival abilities to weather blows that would otherwise pulverise others into the dust. \n\nIn addition, increase your Pilot’s HP Max by 2."
     },
     {
-      "name": " Whirlwind Strike",
+      "name": "Whirlwind Strike",
       "info": "Advanced Soldier//Tier 3",
       "detail": "`3AP//Turn Action`\nYou have learned to deliver a flurry of attacks against your foes.\n\nChoose a weapon you are equipped with or Weapons System on your Mech. You can attack all enemies in Range of that weapon with a single whirlwind salvo. If the weapon causes you to gain Heat or has any additional costs you must pay them for each target.\n\n*ROLL THE DIE*\n` 19 - 20:` You strike all enemies within Range of the weapon, hitting them for double damage.\n`11 - 18:` You hit all enemies within Range of the weapon.\n`6 - 10:` You hit all enemies within Range of the weapon. Choose one: you deal half damage to all targets or you deal full damage, but your weapon is damaged after finishing the attack.\n`2 - 5:` You hit one enemy in Range of the weapon, then your weapon is damaged.\n`1:` Your attacks miss. You spin wildly and then collapse, falling Prone."
     },

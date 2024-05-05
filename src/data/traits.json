@@ -7,7 +7,7 @@
     },
     {
       "name": "Anti-Organic",
-      "detail": "An anti-organic weapon deals 2× damage to People, creatures, and Bio-Titans. \n"
+      "detail": "An anti-organic weapon deals 2× damage to People, creatures, and Bio-Titans."
     },
     {
       "name": "Anti-Shielding",
@@ -119,7 +119,7 @@
     },
     {
       "name": "Overheat",
-      "detail": "If a target is hit by a weapon with the Overheat Trait it cannot use any Systems, Modules, or Abilities that would generate Heat on its next turn. For example, it cannot attack with any weapons that have the Hot Trait nor can it Push. \n"
+      "detail": "If a target is hit by a weapon with the Overheat Trait it cannot use any Systems, Modules, or Abilities that would generate Heat on its next turn. For example, it cannot attack with any weapons that have the Hot Trait nor can it Push."
     },
     {
       "name": "Personal Capacity",
@@ -127,7 +127,7 @@
     },
     {
       "name": "Pinning",
-      "detail": "If a weapon with the Pinning Trait hits a creature it cannot move on its next turn. This represents it hitting the dirt to avoid the incoming fire. This does not affect Bio-Titans, Mechs, Vehicles or Meld. \n"
+      "detail": "If a weapon with the Pinning Trait hits a creature it cannot move on its next turn. This represents it hitting the dirt to avoid the incoming fire. This does not affect Bio-Titans, Mechs, Vehicles or Meld."
     },
     {
       "name": "Poison",

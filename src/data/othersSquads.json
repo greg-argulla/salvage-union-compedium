@@ -24,7 +24,7 @@
     {
       "name": "Missile Squad",
       "info": "10 HP",
-      "detail": "Combat trained troops armed with a mobile missile launcher.\n\n`Rocket Launcher`\nRange: Long // Damage: 6 SP // Missile // Explo- sive (1) // Multi-Attack (2) // Uses (3)\n`Portable Comms Unit`\n`First Aid Kit`"
+      "detail": "Combat trained troops armed with a mobile missile launcher.\n\n`Rocket Launcher`\nRange: Long // Damage: 6 SP // Missile // Explosive (1) // Multi-Attack (2) // Uses (3)\n`Portable Comms Unit`\n`First Aid Kit`"
     },
     {
       "name": "Elite Blade Squad",
