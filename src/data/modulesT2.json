@@ -61,9 +61,9 @@
       "detail": "`T2` 🔺 - 1 ⚙️ - 1\n\nThis Module projects a video or series of images of your choice onto a surface of your choice within Range. It utilizes mini discs for viewing videos. The projection expands upon the surface and can cover a large area. In addition, any sound from the video recording plays from your Mech."
     },
     {
-      "name": "Reactor Overlord",
+      "name": "Reactor Overload",
       "info": "2EP Turn Action // Range: Medium //  Hacking",
-      "detail": "`T2` 🔺 - ⚙️ - \n\nA simple brute force reactor hack developed by Stefanus that sends multiple\nfalse heat signals to a Mech triggering an\noverload response. When you activate this\nModule, a target Mech in Range must roll\non the Reactor Overload Table."
+      "detail": "`T2` 🔺 - 1 ⚙️ - 3\n\nA simple brute force reactor hack developed by Stefanus that sends multiple false heat signals to a Mech triggering an overload response. When you activate this Module, a target Mech in Range must roll on the Reactor Overload Table."
     },
     {
       "name": "Reactor Safety Protocols",
