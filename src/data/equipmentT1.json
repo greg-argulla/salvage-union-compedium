@@ -4,11 +4,11 @@
     {
       "name": "First Aid Kit",
       "info": "Turn Action // Range: Close // Uses (3)",
-      "detail": "This set of bandages, plasters, gauze, painkillers, and antiseptics allows you to patch up wounds in the field. \n\nA target creature of your choice in Range regains 3 Hit Points. If they were on 0 Hit Points\nthis restores them to consciousness with 3 HP.\n\n`Union Safety Guideline 305.15 recommends each Union Crawler salvage crew equip a First Aid Kit for all active field work.`"
+      "detail": "This set of bandages, plasters, gauze, painkillers, and antiseptics allows you to patch up wounds in the field. \n\nA target creature of your choice in Range regains 3 Hit Points. If they were on 0 Hit Points this restores them to consciousness with 3 HP.\n\n`Union Safety Guideline 305.15 recommends each Union Crawler salvage crew equip a First Aid Kit for all active field work.`"
     },
     {
       "name": "Hand Riveting Gun",
-      "detail": "This pocket-sized riveting gun can make basic repairs in the field.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nWhen activated, a target Mech or Vehicle of your choice in Range with at least 1 SP regains 2 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1 System or Module\nin Range to Intact Condition. It is now usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1 Mech Chassis or\nVehicle in Range to Intact Condition. It is now\nusable with 1 SP."
+      "detail": "This pocket-sized riveting gun can make basic repairs in the field.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nWhen activated, a target Mech or Vehicle of your choice in Range with at least 1 SP regains 2 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1 System or Module\nin Range to Intact Condition. It is now usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
     },
     {
       "name": "Heavy Duty Torch",

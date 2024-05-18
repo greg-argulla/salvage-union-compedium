@@ -2,8 +2,8 @@
   "name": "Tech 4 Equipment",
   "data": [
     {
-      "name": "Advance Epoxy Applicator",
-      "detail": "This specialised device scans and automatically applies layers of metallic oxide that fill and repair damaged Mechs based on their blueprints. This allows repair of some of the most advanced Mechs in production.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nYou restore up to 5 SP to a target Mech in Range with at least 1 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, or 4 System or Module in Range to Intact Condition. It is\nnow usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, or 4 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
+      "name": "Advanced Epoxy Applicator",
+      "detail": "This specialised device scans and automatically applies layers of metallic oxide that fill and repair damaged Mechs based on their blueprints. This allows repair of some of the most advanced Mechs in production.\n\n*2AP Patch*\n`Turn Action // Range: Close`\nYou restore up to 5 SP to a target Mech in Range with at least 1 SP.\n\n*2AP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, or 4 System or Module in Range to Intact Condition. It is now usable.\n\n*4AP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, or 4 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
     },
     {
       "name": "Electro Grappling Hook",
