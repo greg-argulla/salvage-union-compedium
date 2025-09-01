@@ -43,7 +43,7 @@
     },
     {
       "name": "Metal Detector",
-      "info": "Reaction // Heat Spike // Hot (2) ",
+      "info": "",
       "detail": "`T2` 🔺 - 1 ⚙️ - 2\n\nA favorite of salvage teams across the globe, this Mech-mountable scanner lets\nyou know when any Scrap is nearby. \n\n*Auto-Scan*\n`Passive`\nThis automated function passively alerts you when you move into an area that can\nbe salvaged.\n\nIn addition, whenever you move from one area of the map to an location you have not yet visited, roll the die, on the result of a 20 you gain once piece of scrap of the Tech Level of the area as decided by the Mediator. By default this is the Tech Level of your Union Crawler.\n\n*2EP Active Scan*\n`Short Action // Range: Medium // Scanner`\nIn addition, when activated for its EP cost, this Module scans an area within Range. This reveals any Scrap, Systems, Chassis, or Modules, or Area Salvage points in the location as well as any buried or hidden metallic threats such as mines or Mechs waiting in ambush."
     },
     {

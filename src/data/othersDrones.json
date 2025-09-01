@@ -19,7 +19,7 @@
     {
       "name": "Combat Drone",
       "info": "4 SP",
-      "detail": "T2 ⚙️- 2\nA laser armed drone used in a defensive capacity.\n\n`Hover Locomotion System`\n`Red Laser`\nRange: Medium // Damage: 3 SP // Energy // Hot (1)"
+      "detail": "T2 ⚙️- 2\nA laser armed drone used in a defensive capacity.\n\n`Hover Locomotion System`\n`Red Laser`\nRange: Close // Damage: 3 SP // Energy // Hot (1)"
     },
     {
       "name": "Heavy Combat Drone",

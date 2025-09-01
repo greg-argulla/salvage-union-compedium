@@ -4,12 +4,12 @@
     {
       "name": "Amphibious Locomotion System",
       "info": "Passive // Amphibious",
-      "detail": "`T5` 🔺 - 5 ⚙️ - 3\n\nDeveloped by Aegean Dynamics, this System allows your Mech to move on land and underwater. You may move underwater with ease, suffering no restrictions or penalties, and can operate in underwater conditions indefinitely at significant depths. Aegean Dynamics suffered a hostile takeover from Contour Dynamics and was forced to be their subsidiary, but there are rumors they have a hidden arco somewhere in the depths of the Oceanic Rim. "
+      "detail": "`T5` 🔺 - 5 ⚙️ - 3\n\nDeveloped by Aegean Dynamics, this System allows your Mech to move on land and underwater. You may move underwater with ease, suffering no restrictions or penalties, and can operate in underwater conditions indefinitely at significant depths. Aegean Dynamics suffered a hostile takeover from Contour Dynamics and was forced to be their subsidiary, but there are rumors they have a hidden arco somewhere in the depths of the Oceanic Rim."
     },
     {
       "name": "Blue Beam Laser",
-      "info": "Range: Long // Damage: X SP // Hot (X) ",
-      "detail": "`T5` 🔺 -  7⚙️ - 4\n\nThis laser is designed to be charged before fired, burning up a reactor, but potentially dealing horrendous damage to a target. An effective siege weapon due to having time between attacks to cool down the Mech, these were deployed in the First Corpo War by Evantis to obliterate the Last Redoubt of Nations and pave the way for corpo rule.\n\nBefore you make an attack with this Weapons System, choose a number. Your Mech gains Heat equal to this number. If the attack hits the target it deals damage equal to this number. For example: if you increase your Heat by 3, the attack deals 3 SP damage. You cannot choose a number that would exceed your Mech’s Heat Capacity."
+      "info": "Range: Long // Damage: X SP // Hot (X)",
+      "detail": "`T5` 🔺 - 7 ⚙️ - 4\n\nThis laser is designed to be charged before fired, burning up a reactor, but potentially dealing horrendous damage to a target. An effective siege weapon due to having time between attacks to cool down the Mech, these were deployed in the First Corpo War by Evantis to obliterate the Last Redoubt of Nations and pave the way for corpo rule.\n\nBefore you make an attack with this Weapons System, choose a number. Your Mech gains Heat equal to this number. If the attack hits the target it deals damage equal to this number. For example: if you increase your Heat by 3, the attack deals 3 SP damage. You cannot choose a number that would exceed your Mech's Heat Capacity."
     },
     {
       "name": "Ejector Pod",
@@ -19,12 +19,12 @@
     {
       "name": "Fabrication Bay",
       "info": "3EP Short Action // Range: Close",
-      "detail": "`T5` 🔺 - 7 ⚙️ - 5\n\nDeveloped by Osiris Construction as a mobile field Repair Bay. This System mounts onto a Mech and allows other Mechs to repair and recharge within its restorative hull temporarily repairing damage to them through use of metal epoxy and hydrofluids.\n\nWhen activated, choose one of the following options. You may not use these Abilities on your own Mech.\n\n`•` Restore up to 15 SP to a target Mech within the Fabrication Bay with at least 1 SP.\n`•` Restore up to 2 EP to a target Mech within the Fabrication Bay.\n`•` Repair up to 3 damaged Systems or Modules of Tech 1-5 within the Fabrication Bay to Intact condition.\n`•` Repair up to 2 damaged Mech Chassis or Vehicles of Tech 1-5 within the Fabrication Bay to Intact Condition. "
+      "detail": "`T5` 🔺 - 7 ⚙️ - 5\n\nDeveloped by Osiris Construction as a mobile field Repair Bay. This System mounts onto a Mech and allows other Mechs to repair and recharge within its restorative hull temporarily repairing damage to them through use of metal epoxy and hydrofluids.\n\nWhen activated, choose one of the following options. You may not use these Abilities on your own Mech.\n\n`•` Restore up to 15 SP to a target Mech within the Fabrication Bay with at least 1 SP.\n`•` Restore up to 2 EP to a target Mech within the Fabrication Bay.\n`•` Repair up to 3 damaged Systems or Modules of Tech 1-5 within the Fabrication Bay to Intact condition.\n`•` Repair up to 2 damaged Mech Chassis or Vehicles of Tech 1-5 within the Fabrication Bay to Intact Condition."
     },
     {
       "name": "Ion Cannon",
       "info": "Range: Long // Damage: 3 SP // Anti-Shielding // Energy // Ion",
-      "detail": "`T5` 🔺 - 5 ⚙️ - 4\n\nThis Weapons System fires a disabling bolt of ionised energy at the target. A target hit by this weapon cannot activate any Systems, Modules, or Abilities that have an Energy Cost on their next turn.\n.\nStefanus forced Ascension PLC, one of their subsidiaries to develop this as a countermeasure to their own Neura-Phage Mech, as Neura-Phage Pilots are known to sometimes be driven insane after spending too long wired into the cockpit."
+      "detail": "`T5` 🔺 - 5 ⚙️ - 4\n\nThis Weapons System fires a disabling bolt of ionised energy at the target. A target hit by this weapon cannot activate any Systems, Modules, or Abilities that have an Energy Cost on their next turn.\n\nStefanus forced Ascension PLC, one of their subsidiaries to develop this as a countermeasure to their own Neura-Phage Mech, as Neura-Phage Pilots are known to sometimes be driven insane after spending too long wired into the cockpit."
     },
     {
       "name": "Mole Torpedo",

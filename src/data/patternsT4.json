@@ -200,7 +200,7 @@
       ]
     },
     {
-      "name": "Countour Pattern",
+      "name": "Contour Pattern",
       "info": "Drop Bear Chassis",
       "data": [
         {
@@ -209,7 +209,7 @@
         },
         {
           "name": "Systems",
-          "detail": "Missile Pod\n.50 Cal Machine Gun ×3\nEjection System\nHigh Gain Antenna\nLaser Anti-Missile System\nLocomotion System"
+          "detail": "Missile Pod\n.50 Cal Machine Gun\nEjection System\nHigh Gain Antenna\nLaser Anti-Missile System\nLocomotion System"
         },
         {
           "name": "Modules",

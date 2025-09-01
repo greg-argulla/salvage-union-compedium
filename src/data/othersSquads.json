@@ -44,7 +44,7 @@
     {
       "name": "Drone Squadron",
       "info": "8 SP",
-      "detail": "A swarm of Combat Drones flying in sync.\n`Red Laser`\nRange: Medium // Damage: 4 SP // Energy // Hot (1) // Multi-Attack (2)\n`Hover Locomotion System`"
+      "detail": "A swarm of Combat Drones flying in sync.\n`Red Laser`\nRange: Close // Damage: 4 SP // Energy // Hot (1) // Multi-Attack (2)\n`Hover Locomotion System`"
     }
   ]
 }

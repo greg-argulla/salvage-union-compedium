@@ -267,7 +267,7 @@
         },
         {
           "name": "Modules",
-          "detail": "Auto-Repair Droid\nComms Module\nEnergy Cell × 2"
+          "detail": "Auto-Repair Droid\nComms Module\nEnergy Cell"
         }
       ]
     },
@@ -357,7 +357,7 @@
         },
         {
           "name": "Modules",
-          "detail": "Comms Module\nIR Night Vision Optics\nEmergency Power Conduit"
+          "detail": "Comms Module\nEmergency Power Conduit"
         }
       ]
     },

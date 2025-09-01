@@ -2,7 +2,7 @@
   "name": "Tech 4 Systems",
   "data": [
     {
-      "name": "Advance Fabrication Arm",
+      "name": "Advanced Fabrication Arm",
       "detail": "`T4` 🔺 - 3 ⚙️ - 3\n\nSpecially designed by Osiris Construction to repair Evantis Colossus Mechs during the Last War of Nations.\n\n*2EP Patch*\n`Turn Action // Range: Close`\nYou restore up to 7 Structure Points to any Mech in Range that has at least 1 SP.\n\n*2EP System Repair*\n`Short Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, or 4 System or Module in Range to Intact Condition. It is now usable.\n\n*4EP Chassis Repair*\n`Long Action // Range: Close`\nYou repair a damaged Tech 1, 2, 3, or 4 Mech Chassis or Vehicle in Range to Intact Condition. It is now usable with 1 SP."
     },
     {
@@ -17,12 +17,12 @@
     },
     {
       "name": "Automated Weapon Turret",
-      "detail": "This System allows you to mount an A.I. controlled, automated weapon turret onto your Mech. The turret understands and follows basic commands you give it such as attacking a target or defending an area. The turret acts independently of you in the turn order, and may attack once per turn. This does not take up your Turn Action. The turret may not Push.\n\nWhen crafting this System, you may choose from the following turret types. Additionally, roll on the A.I. Personality Table for your Automated Turret System to determine its personality.\n\n*Automated Machine Gun Turret*\n\n`T4` 🔺 - 5 ⚙️ - 2\n`Range: Close // Damage: 2 SP // Ballistic // Pinning`\nA gimble mounted .50 Cal Machine gun with automated optical tracking.\n\n`T4` 🔺 -  7⚙️ - 3\n*Automated Green Laser Turret*\n`Range: Medium // Damage: 4 SP // Energy // Hot (2)`\nA tri-axis gyroscope controlled Green Laser, with No-Scope LIDAR tracking.\n\n`T4` 🔺 - 9 ⚙️ - 4\n*Automated 120mm Cannon Turret*\n`Range: Long // Damage: 6 SP // Ballistic // Explosive (1)`\nA Herrsch 360° RealSteel Turret Enclosure, controls this 120mm Cannon."
+      "detail": "This System allows you to mount an A.I. controlled, automated weapon turret onto your Mech. The turret understands and follows basic commands you give it such as attacking a target or defending an area. The turret acts independently of you in the turn order, and may attack once per turn. This does not take up your Turn Action. The turret may not Push.\n\nWhen crafting this System, you may choose from the following turret types. Additionally, roll on the A.I. Personality Table for your Automated Turret System to determine its personality.\n\n*Automated Machine Gun Turret*\n\n`T4` 🔺 - 5 ⚙️ - 2\n`Range: Close // Damage: 2 SP // Ballistic // Pinning`\nA gimble mounted .50 Cal Machine gun with automated optical tracking.\n\n`T4` 🔺 - 7 ⚙️ - 3\n*Automated Green Laser Turret*\n`Range: Medium // Damage: 4 SP // Energy // Hot (2)`\nA tri-axis gyroscope controlled Green Laser, with No-Scope LIDAR tracking.\n\n`T4` 🔺 - 9 ⚙️ - 4\n*Automated 120mm Cannon Turret*\n`Range: Long // Damage: 6 SP // Ballistic // Explosive (1)`\nA Herrsch 360° RealSteel Turret Enclosure, controls this 120mm Cannon."
     },
     {
       "name": "CACB Laser",
-      "info": "Range: Long // Damage: 5 SP // Energy // Hot (2) ",
-      "detail": "`T4` 🔺 -  7⚙️ - 5\n\nStanding for ‘Constant Amplitude, Constant Bearing Laser’, the longer this laser is focussed on a target, the more damage it deals. Sakura Futures developed the CACB following Impact Day as a means to take down Anomaly X312, an organically shielded Bio-Titan that dominated the Central Wastes.\n\nEach time you hit the same target with this Weapons System in consecutive turns you deal an additional 5 SP damage. For example: If you hit a target for 3 consecutive turns then this weapon would deal 5 SP damage on the first turn, 10 SP damage on the second turn, and 15 SP damage on the third turn. "
+      "info": "Range: Long // Damage: 5 SP // Energy // Hot (2)",
+      "detail": "`T4` 🔺 - 7 ⚙️ - 5\n\nStanding for 'Constant Amplitude, Constant Bearing Laser', the longer this laser is focussed on a target, the more damage it deals. Sakura Futures developed the CACB following Impact Day as a means to take down Anomaly X312, an organically shielded Bio-Titan that dominated the Central Wastes.\n\nEach time you hit the same target with this Weapons System in consecutive turns you deal an additional 5 SP damage. For example: If you hit a target for 3 consecutive turns then this weapon would deal 5 SP damage on the first turn, 10 SP damage on the second turn, and 15 SP damage on the third turn."
     },
     {
       "name": "Corpo Body Kit",
@@ -32,12 +32,12 @@
     {
       "name": "Electro-Magnetic Hardening",
       "info": "Passive",
-      "detail": "`T4` 🔺 - 3 ⚙️ - 2\n\nThis System hardens your Mech against Electro-Magnetic Pulse effects which typically would be able to Shutdown your Mech and disable its systems. Anything with the an EMP effect or the Ion Trait does not affect your Mech or any of its attached Systems or Modules. "
+      "detail": "`T4` 🔺 - 3 ⚙️ - 2\n\nThis System hardens your Mech against Electro-Magnetic Pulse effects which typically would be able to Shutdown your Mech and disable its systems. Anything with an EMP effect or the Ion Trait does not affect your Mech or any of its attached Systems or Modules."
     },
     {
-      "name": "Grav Assisted Caargo Bay",
+      "name": "Grav Assisted Cargo Bay",
       "info": "Passive",
-      "detail": "`T4` 🔺 - 5 ⚙️ - 4\n\nA Cargo Bay with an integrated anti-gravity System allowing a Mech to carry a vast amount of salvage. Developed by Drontek for use in the mammoth construction project of their Big Brother Mech. \n\nA Grav Assisted Cargo Bay increases your Cargo Capacity by 20"
+      "detail": "`T4` 🔺 - 5 ⚙️ - 4\n\nA Cargo Bay with an integrated Anti-Gravity System allowing a Mech to carry a vast amount of salvage. Developed by Drontek for use in the mammoth construction project of their Big Brother Mech.\n\nA Grav Assisted Cargo Bay increases your Cargo Capacity by 20."
     },
     {
       "name": "Hover Locomotion System",
@@ -45,7 +45,7 @@
       "detail": "`T4` 🔺 - 5 ⚙️ - 4\n\nA Hover Locomotion System allows a Mech to move by hovering over terrain, obstacles, and even bodies of water, entirely circumventing them through grav propulsion. Mechs with this System gain the Hover Trait. DronTek holds the main patent for this, which has helped them secure the market on hover Mechs and drones and protect the relatively small corpo from hostile takeover."
     },
     {
-      "name": "Laser anti-Missile System",
+      "name": "Laser Anti-Missile System",
       "info": "1EP Reaction",
       "detail": "`T4` 🔺 - 2 ⚙️ - 3\n\nDeveloped by Drontek as a means to protect their Big Brother Mech, this Laser Anti-Missile System fires a series of nano-lasers at incoming missiles, destroying them before they strike.\n\nIf you are hit by an attack with the Missile Trait you may activate your LAMS as a Reaction. The missiles explode harmlessly, missing and dealing no damage."
     },
@@ -57,11 +57,11 @@
     {
       "name": "Radomes",
       "info": "Passive",
-      "detail": "`T4` 🔺 - 3 ⚙️ - 3\n\nThis advanced radar system massively extends the communication and detection Range of any of your Systems, Modules, or Abilities with the Communicator Trait.\n\nYou may now use such devices to contact and receive communications from anything with the Communicator Trait within the entire Region Map you are in, including your Union Crawler"
+      "detail": "`T4` 🔺 - 3 ⚙️ - 3\n\nThis advanced radar system massively extends the communication and detection Range of any of your Systems, Modules, or Abilities with the Communicator Trait.\n\nYou may now use such devices to contact and receive communications from anything with the Communicator Trait within the entire Region Map you are in, including your Union Crawler."
     },
     {
       "name": "Railgun",
-      "info": "Range: Long // Damage: 9 SP // Ballistic // Hot (2) ",
+      "info": "Range: Long // Damage: 9 SP // Ballistic // Hot (2)",
       "detail": "`T4` 🔺 - 9 ⚙️ - 8\n\nA magnetically propelled ballistic weapon that fires a large calibre, high velocity projectile that deals devastating damage on impact.\n\nThe tragic fall of Crawler #13 was caused by a sustained railgun barrage from an Evantis hit squad sent to secure territory around the Arid Steppes. The catalyst for the Reclamation of the Wastes, this incident prompted the Opus Institute to reverse engineer and release their own Railgun schematic; turning the tide in the fight against the corpos."
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "Snub-Nose Blue Laser",
-      "info": "Range: Medium // Damage: 3 SP // Energy // Hot (3) ",
+      "info": "Range: Medium // Damage: 3 SP // Energy // Hot (3)",
       "detail": "`T4` 🔺 - 5 ⚙️ - 2\n\nAn adaption of the Blue Mining Laser which fragments the energy into a myriad of small but deadly particles, like buck shot, which blast apart a target. \n\nWhen this weapon hits a target in Close Range it deals 2× damage. Apply this after other modifiers."
     },
     {
@@ -81,7 +81,7 @@
     },
     {
       "name": "Tesla Coils",
-      "detail": "`T4` 🔺 - 5 ⚙️ - 3\n\nDeveloped by Aeon as a means to charge their patented shielding technology whilst in the field. Tesla Coils fire an arc of supercharged electricity which can be used in offensive, defensive, and support roles.\n\n*2EP Tesla Arc*\n`Turn Action // Range: Medium`\nYou may choose up to three different targets in Range. Roll to hit once as normal. On a successful hit, the first target takes 4 SP damage, the second target takes 3 SP damage, and the third target takes 2 SP damage.\n\n3EP Tesla Charge\nTurn Action // Range: Close\nYou may restore up to 2 EP to a target\nMech in Range.\n\n*2EP Tesla Shield*\n`Turn Action // Range: Close // Shield`\nYou create an electrical field around your Mech for 10 minutes. Everything within Close Range of you, including Allies, takes 3 SP damage as you activate this Ability. If anything ends its turn in Close Range of you it takes 3 SP damage. "
+      "detail": "`T4` 🔺 - 5 ⚙️ - 3\n\nDeveloped by Aeon as a means to charge their patented shielding technology whilst in the field. Tesla Coils fire an arc of supercharged electricity which can be used in offensive, defensive, and support roles.\n\n*2EP Tesla Arc*\n`Turn Action // Range: Medium`\nYou may choose up to three different targets in Range. Roll to hit once as normal. On a successful hit, the first target takes 4 SP damage, the second target takes 3 SP damage, and the third target takes 2 SP damage.\n\n*3EP Tesla Charge*\n`Turn Action // Range: Close`\nYou may restore up to 2 EP to a target Mech in Range.\n\n*2EP Tesla Shield*\n`Turn Action // Range: Close // Shield`\nYou create an electrical field around your Mech for 10 minutes. Everything within Close Range of you, including Allies, takes 3 SP damage as you activate this Ability. If anything ends its turn in Close Range of you it takes 3 SP damage."
     }
   ]
 }

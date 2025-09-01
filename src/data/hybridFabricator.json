@@ -4,17 +4,17 @@
   "data": [
     {
       "name": "Field Fabrication",
-      "info": "Fabricator Tree//Tier 1",
-      "detail": "You are able to use your intimate knowledge of Mech fabrication techniques to craft Mech parts and even entire Chassis in the field. \n\n*System and Module Fabrication*\n`1AP//Short Action`\nYou can craft a System or Module anywhere in the field. You can choose from any System or Module of a Tech Level equal to or lower than your Union Crawler. This follows the normal crafting rules.\n\n*Chassis Fabrication*\n`2AP//Long Action`\nYou can craft a Mech Chassis anywhere in the field. You can choose from any Mech Chassis of a Tech Level equal to or lower than your Union Crawler. This follows the normal crafting rules. "
+      "info": "Fabricator Tree // Tier 1",
+      "detail": "You are able to use your intimate knowledge of Mech fabrication techniques to craft Mech parts and even entire Chassis in the field. \n\n*System and Module Fabrication*\n`1AP // Short Action`\nYou can craft a System or Module anywhere in the field. You can choose from any System or Module of a Tech Level equal to or lower than your Union Crawler. This follows the normal crafting rules.\n\n*Chassis Fabrication*\n`2AP // Long Action`\nYou can craft a Mech Chassis anywhere in the field. You can choose from any Mech Chassis of a Tech Level equal to or lower than your Union Crawler. This follows the normal crafting rules. "
     },
     {
       "name": "Miniaturised EMP",
-      "info": "Fabricator Tree//Tier 2",
-      "detail": "`4AP//Turn Action//Range: Close//Pilot Equipment`\nYou acquire and train in the use of a Miniaturized EMP that only you can use. Add this to your Pilot Equipment.\n\nThis handheld device when triggered causes a localized electromagnetic pulse that can disable a wide range of electronic equipment.\n\nWhen you activate the Miniaturized EMP all Mechs, Systems, Modules, and any other electronic or technological equipment or hardware within Close Range are Shutdown and inoperable for 10 minutes. This Ability affects Meld, causing them to become inert for 10 minutes and be unable to act. This Ability does not affect Bio-Titans unless they are significantly made up of material that an electromagnetic pulse can affect. If your Miniaturized EMP is misplaced or destroyed, you can acquire a new one during Downtime. You may only ever have one Miniaturized EMP at a time."
+      "info": "Fabricator Tree // Tier 2",
+      "detail": "`4AP // Turn Action//Range: Close//Pilot Equipment`\nYou acquire and train in the use of a Miniaturized EMP that only you can use. Add this to your Pilot Equipment.\n\nThis handheld device when triggered causes a localized electromagnetic pulse that can disable a wide range of electronic equipment.\n\nWhen you activate the Miniaturized EMP all Mechs, Systems, Modules, and any other electronic or technological equipment or hardware within Close Range are Shutdown and inoperable for 10 minutes. This Ability affects Meld, causing them to become inert for 10 minutes and be unable to act. This Ability does not affect Bio-Titans unless they are significantly made up of material that an electromagnetic pulse can affect. If your Miniaturized EMP is misplaced or destroyed, you can acquire a new one during Downtime. You may only ever have one Miniaturized EMP at a time."
     },
     {
       "name": "Chassis Modder",
-      "info": "Fabricator Tree//Tier 3",
+      "info": "Fabricator Tree // Tier 3",
       "detail": "`Downtime Action`\nYour intense study and fascination with the core design of Mechs in their multiple forms allows you to modify a Mech Chassis to gain an array of abilities it was not initially designed for.\n\nOnce during Downtime you can modify your Mech Chassis. It gains any Chassis Ability of your choice from any Mech that you could craft in your Crafting Bay. For example, if you have a Tech 4 Crafting Bay you can modify the Mech with any Chassis Ability from any Tech 1-4 Mech. You may only have one additional Chassis Ability on a Mech, though you can replace one that you have added during Downtime. You can only use this Ability on your Mech, and it only works when you are piloting the Mech"
     },
     {

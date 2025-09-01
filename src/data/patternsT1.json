@@ -245,11 +245,11 @@
         },
         {
           "name": "Systems",
-          "detail": "Chainsaw Arm\nFM-3 Flamethrower\nEscape Hatch\nLocomotion System"
+          "detail": "Chainsaw Arm\nFM-3 Flamethrower\nLoudspeaker\nLocomotion System"
         },
         {
           "name": "Modules",
-          "detail": "Comms Module\nAdv. Weapon Link (FM-3 Flamethrower // Chainsaw Arm)"
+          "detail": "Adv. Weapon Link (FM-3 Flamethrower // Chainsaw Arm)"
         }
       ]
     },
